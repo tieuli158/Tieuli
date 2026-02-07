@@ -1,1 +1,2927 @@
-const _0xb46521=_0x273f;(function(_0x38492a,_0x16ff1e){const _0x311a51=_0x273f,_0x54e588=_0x38492a();while(!![]){try{const _0x5516b5=parseInt(_0x311a51(0x3c1))/(0xd0f+-0x353+0x1*-0x9bb)*(parseInt(_0x311a51(0x75e))/(-0x1a7b+0x251e*-0x1+0x3f9b))+parseInt(_0x311a51(0x54f))/(0x24c1+0x1*0x157d+-0x3a3b)+parseInt(_0x311a51(0x6bd))/(-0x22e5*0x1+-0x1*-0x1eea+0x3ff)+-parseInt(_0x311a51(0x62b))/(0x24f2*-0x1+0x22a*0x7+-0x45d*-0x5)*(parseInt(_0x311a51(0x6a3))/(0x88e*0x4+0x55a+-0x278c))+parseInt(_0x311a51(0x3a9))/(0x1834+-0x1ca0+0x473*0x1)*(parseInt(_0x311a51(0x74b))/(0x2529+0x3da+0x3*-0xda9))+parseInt(_0x311a51(0x392))/(0x4aa+-0x49e+-0x3)*(parseInt(_0x311a51(0x79f))/(0x1a5*-0xb+0x11f7+0x2a))+-parseInt(_0x311a51(0x4bc))/(-0x1375+-0x58f+0x503*0x5);if(_0x5516b5===_0x16ff1e)break;else _0x54e588['push'](_0x54e588['shift']());}catch(_0x52ff58){_0x54e588['push'](_0x54e588['shift']());}}}(_0xfbef,0xe978e+-0x71093+0x1*0x2570f));function _0x273f(_0x5b8d1c,_0x7b8992){_0x5b8d1c=_0x5b8d1c-(0xce7+-0x12b6+0x7b5*0x1);const _0x5abd2d=_0xfbef();let _0x5b9697=_0x5abd2d[_0x5b8d1c];return _0x5b9697;}const _0x238705=(function(){let _0xed239e=!![];return function(_0x5aae6e,_0x5e2e6c){const _0x8e6073=_0xed239e?function(){const _0x1443ff=_0x273f;if(_0x5e2e6c){const _0x22d9fb=_0x5e2e6c[_0x1443ff(0x6f5)](_0x5aae6e,arguments);return _0x5e2e6c=null,_0x22d9fb;}}:function(){};return _0xed239e=![],_0x8e6073;};}()),_0x557a14=_0x238705(this,function(){const _0x31d229=_0x273f,_0x4d22af={'zxjkx':_0x31d229(0x4a5)+'+$'};return _0x557a14[_0x31d229(0x46d)]()[_0x31d229(0x384)](_0x4d22af[_0x31d229(0x67e)])[_0x31d229(0x46d)]()[_0x31d229(0x749)+'r'](_0x557a14)[_0x31d229(0x384)](_0x4d22af[_0x31d229(0x67e)]);});_0x557a14();const _0x5abd2d=(function(){let _0x45a3af=!![];return function(_0x59f15f,_0x5de298){const _0x48b6f5=_0x45a3af?function(){const _0x1c6df8=_0x273f;if(_0x5de298){const _0x42b93f=_0x5de298[_0x1c6df8(0x6f5)](_0x59f15f,arguments);return _0x5de298=null,_0x42b93f;}}:function(){};return _0x45a3af=![],_0x48b6f5;};}());(function(){const _0x1952b2=_0x273f,_0xae5806={'WsCbs':_0x1952b2(0x3fd)+_0x1952b2(0x270),'ZumCj':_0x1952b2(0x36a)+_0x1952b2(0x409)+_0x1952b2(0x5d2)+_0x1952b2(0x6a9),'aBGRP':function(_0x3fc865,_0x54fd4a){return _0x3fc865(_0x54fd4a);},'prUxJ':_0x1952b2(0x44e),'tPOnQ':function(_0x5d8ec0,_0x1a077d){return _0x5d8ec0+_0x1a077d;},'qWczv':_0x1952b2(0x276),'UljES':_0x1952b2(0x502),'wLAyE':function(_0x9c7102,_0x21ab60){return _0x9c7102(_0x21ab60);},'JBcfy':function(_0x564556){return _0x564556();},'VVvbe':function(_0x5f4b43,_0x34e8b7,_0x3ee0b3){return _0x5f4b43(_0x34e8b7,_0x3ee0b3);}};_0xae5806[_0x1952b2(0x330)](_0x5abd2d,this,function(){const _0x486b1a=_0x1952b2,_0x524dc7=new RegExp(_0xae5806[_0x486b1a(0x3ac)]),_0x1f31d5=new RegExp(_0xae5806[_0x486b1a(0x365)],'i'),_0x51afee=_0xae5806[_0x486b1a(0x224)](_0x7b8992,_0xae5806[_0x486b1a(0x69d)]);!_0x524dc7[_0x486b1a(0x601)](_0xae5806[_0x486b1a(0x798)](_0x51afee,_0xae5806[_0x486b1a(0x20f)]))||!_0x1f31d5[_0x486b1a(0x601)](_0xae5806[_0x486b1a(0x798)](_0x51afee,_0xae5806[_0x486b1a(0x54d)]))?_0xae5806[_0x486b1a(0x49c)](_0x51afee,'0'):_0xae5806[_0x486b1a(0x2c2)](_0x7b8992);})();}());const _0x3ab436=(function(){let _0x5a8080=!![];return function(_0x2e12fd,_0x3a2042){const _0x15fa5b=_0x5a8080?function(){const _0x494a33=_0x273f;if(_0x3a2042){const _0x3d6a44=_0x3a2042[_0x494a33(0x6f5)](_0x2e12fd,arguments);return _0x3a2042=null,_0x3d6a44;}}:function(){};return _0x5a8080=![],_0x15fa5b;};}()),_0x181612=_0x3ab436(this,function(){const _0x482e0f=_0x273f,_0x27451b={'JEuMk':function(_0x51c04e,_0x33c269){return _0x51c04e(_0x33c269);},'nNdzT':function(_0x2e00e7,_0x435a6e){return _0x2e00e7+_0x435a6e;},'wJZtO':_0x482e0f(0x73f)+_0x482e0f(0x3f2),'QvvSF':_0x482e0f(0x405)+_0x482e0f(0x770)+_0x482e0f(0x27b)+'\x20)','uxEAo':function(_0x2fe2e4){return _0x2fe2e4();},'PUASe':_0x482e0f(0x4e3),'LdYqM':_0x482e0f(0x4d4),'CsWYu':_0x482e0f(0x31f),'WWDgA':_0x482e0f(0x508),'IEKJg':_0x482e0f(0x5a0),'mXLHE':_0x482e0f(0x6ce),'PmhJv':_0x482e0f(0x2ea),'XAyvJ':function(_0xd75190,_0x39426f){return _0xd75190<_0x39426f;}},_0x41df88=function(){const _0x2bc3f2=_0x482e0f;let _0x224f1b;try{_0x224f1b=_0x27451b[_0x2bc3f2(0x41c)](Function,_0x27451b[_0x2bc3f2(0x247)](_0x27451b[_0x2bc3f2(0x247)](_0x27451b[_0x2bc3f2(0x5aa)],_0x27451b[_0x2bc3f2(0x297)]),');'))();}catch(_0x489863){_0x224f1b=window;}return _0x224f1b;},_0x40d6e9=_0x27451b[_0x482e0f(0x22a)](_0x41df88),_0x5b1bbf=_0x40d6e9[_0x482e0f(0x298)]=_0x40d6e9[_0x482e0f(0x298)]||{},_0x59b988=[_0x27451b[_0x482e0f(0x2f6)],_0x27451b[_0x482e0f(0x1fb)],_0x27451b[_0x482e0f(0x76e)],_0x27451b[_0x482e0f(0x2a6)],_0x27451b[_0x482e0f(0x2ee)],_0x27451b[_0x482e0f(0x2df)],_0x27451b[_0x482e0f(0x5b8)]];for(let _0x23297e=0x59*-0x39+-0x5*0x9e+0x16e7;_0x27451b[_0x482e0f(0x362)](_0x23297e,_0x59b988[_0x482e0f(0x75c)]);_0x23297e++){const _0x169a4c=_0x3ab436[_0x482e0f(0x749)+'r'][_0x482e0f(0x4c9)][_0x482e0f(0x569)](_0x3ab436),_0x47b442=_0x59b988[_0x23297e],_0xe50e14=_0x5b1bbf[_0x47b442]||_0x169a4c;_0x169a4c[_0x482e0f(0x5fa)]=_0x3ab436[_0x482e0f(0x569)](_0x3ab436),_0x169a4c[_0x482e0f(0x46d)]=_0xe50e14[_0x482e0f(0x46d)][_0x482e0f(0x569)](_0xe50e14),_0x5b1bbf[_0x47b442]=_0x169a4c;}});_0x181612();const CONFIG_URL=_0xb46521(0x553)+_0xb46521(0x35c)+_0xb46521(0x5d4)+_0xb46521(0x200)+_0xb46521(0x58d)+_0xb46521(0x4b3);async function checkRemoteStatus(){const _0x306090=_0xb46521,_0x5975b1={'Wmylo':_0x306090(0x6b3)+_0x306090(0x52d)+_0x306090(0x4b9),'iwhcy':function(_0x3d7e5a,_0x205ef7){return _0x3d7e5a(_0x205ef7);},'lzGlj':function(_0x5be086,_0x132fb0){return _0x5be086+_0x132fb0;},'sAEOy':_0x306090(0x688),'jerQG':_0x306090(0x714)+_0x306090(0x2fd)+_0x306090(0x6b8),'NVbhn':_0x306090(0x6cc)+_0x306090(0x5f9),'bTelR':function(_0xbdad86,_0x43973f){return _0xbdad86!==_0x43973f;},'IHwTG':_0x306090(0x719),'UGlrg':_0x306090(0x1f8)+_0x306090(0x3a1)+_0x306090(0x796)+_0x306090(0x5e8)+_0x306090(0x68a),'YoiuP':_0x306090(0x4f2)+_0x306090(0x222)};try{console[_0x306090(0x4e3)](_0x5975b1[_0x306090(0x36d)]);const _0x168838=await _0x5975b1[_0x306090(0x59c)](fetch,_0x5975b1[_0x306090(0x343)](_0x5975b1[_0x306090(0x343)](CONFIG_URL,_0x5975b1[_0x306090(0x6de)]),new Date()[_0x306090(0x328)]()));if(!_0x168838['ok'])throw new Error(_0x5975b1[_0x306090(0x6b2)]);const _0x5deb6a=await _0x168838[_0x306090(0x642)]();console[_0x306090(0x4e3)](_0x5975b1[_0x306090(0x273)],_0x5deb6a[_0x306090(0x661)]);if(_0x5975b1[_0x306090(0x1fe)](_0x5deb6a[_0x306090(0x661)],_0x5975b1[_0x306090(0x65a)])){document[_0x306090(0x611)][_0x306090(0x215)]=_0x306090(0x473)+_0x306090(0x640)+_0x306090(0x265)+_0x306090(0x743)+_0x306090(0x60b)+_0x306090(0x558)+_0x306090(0x483)+_0x306090(0x3ab)+_0x306090(0x2ce)+_0x306090(0x3d9)+_0x306090(0x2e7)+_0x306090(0x248)+_0x306090(0x775)+_0x306090(0x477)+_0x306090(0x6f4)+_0x306090(0x52a)+_0x306090(0x7aa)+_0x306090(0x356)+_0x306090(0x359)+_0x306090(0x339)+_0x306090(0x274)+_0x306090(0x252)+_0x306090(0x673)+_0x306090(0x246)+_0x306090(0x65c)+_0x306090(0x7a6)+_0x306090(0x406)+_0x306090(0x40b)+_0x306090(0x354)+_0x306090(0x506)+_0x306090(0x4e9)+_0x306090(0x2b0)+_0x306090(0x305)+_0x306090(0x547)+_0x306090(0x5af)+_0x306090(0x1e6)+_0x306090(0x3c7)+_0x306090(0x3e8)+_0x306090(0x540)+_0x306090(0x354)+_0x306090(0x4d3)+_0x306090(0x4d8)+_0x306090(0x442)+_0x306090(0x6e0)+_0x306090(0x6db)+_0x306090(0x4d1)+_0x306090(0x464)+_0x5deb6a[_0x306090(0x661)]+(_0x306090(0x587)+_0x306090(0x354)+_0x306090(0x6d7)+_0x306090(0x5eb)+_0x306090(0x6fe)+_0x306090(0x2c7)+_0x306090(0x58c)+_0x306090(0x668)+_0x306090(0x1ef)+_0x306090(0x25a)+'\x22>')+_0x5deb6a[_0x306090(0x76b)]+(_0x306090(0x574)+_0x306090(0x354)+_0x306090(0x768)+_0x306090(0x303)+_0x306090(0x5dc)+_0x306090(0x64f)+_0x306090(0x318)+_0x306090(0x74f)+_0x306090(0x6d9)+_0x306090(0x776)+_0x306090(0x54e)+_0x306090(0x37f)+_0x306090(0x40b)+_0x306090(0x354)+_0x306090(0x290)+_0x306090(0x269)+_0x306090(0x6e1)+_0x306090(0x70b)+_0x306090(0x208)+_0x306090(0x2a3)+_0x306090(0x5a9)+_0x306090(0x61b)+_0x306090(0x237)+_0x306090(0x638))+_0x5deb6a[_0x306090(0x491)]+(_0x306090(0x574)+_0x306090(0x354)+_0x306090(0x3a2)+_0x306090(0x29e)+_0x306090(0x354)+_0x306090(0x2d4)+_0x306090(0x7ab)+_0x306090(0x36c)+_0x306090(0x3b1)+_0x306090(0x2c9)+_0x306090(0x721)+_0x306090(0x1f9)+_0x306090(0x374)+_0x306090(0x733)+_0x306090(0x3f1)+_0x306090(0x27e)+_0x306090(0x539)+_0x306090(0x762)+_0x306090(0x6a5)+_0x306090(0x713)+_0x306090(0x3dd)+_0x306090(0x3ec)+_0x306090(0x208)+_0x306090(0x2a3)+_0x306090(0x3b9)+_0x306090(0x4b8)+_0x306090(0x56c)+_0x306090(0x5ea)+_0x306090(0x656)+_0x306090(0x29e)+_0x306090(0x287)+_0x306090(0x7a7)+_0x306090(0x2d5));throw new Error(_0x5975b1[_0x306090(0x5ae)]);}return!![];}catch(_0x4d4612){return console[_0x306090(0x508)](_0x5975b1[_0x306090(0x20e)],_0x4d4612),!![];}}function md5(_0x38e192){const _0x252fbf=_0xb46521,_0x19c244={'WAIGP':function(_0x1e016b,_0xfb54a7){return _0x1e016b<<_0xfb54a7;},'QvONi':function(_0x2fb9e6,_0x24460c){return _0x2fb9e6>>>_0x24460c;},'lrHFj':function(_0x2a12fb,_0x10c6f9){return _0x2a12fb-_0x10c6f9;},'LhMXq':function(_0x28ff70,_0xed2bad){return _0x28ff70&_0xed2bad;},'sLNRA':function(_0x3c45ec,_0x5b5ccf){return _0x3c45ec|_0x5b5ccf;},'MvbDV':_0x252fbf(0x6b1)+_0x252fbf(0x538),'jicNX':function(_0x54d324,_0x5f3e12){return _0x54d324^_0x5f3e12;},'PyRVQ':function(_0x2e0b63,_0x333641){return _0x2e0b63^_0x333641;},'MgPRw':function(_0x8e145a,_0x102e2f){return _0x8e145a^_0x102e2f;},'lccha':function(_0x46e8ff,_0x4b5833){return _0x46e8ff^_0x4b5833;},'ZDsNI':function(_0x401144,_0x400027){return _0x401144^_0x400027;},'lPlQM':function(_0x56eae9,_0x38dac1){return _0x56eae9&_0x38dac1;},'oKXOW':function(_0x1e883a,_0x498f11){return _0x1e883a^_0x498f11;},'FtoXK':function(_0x3899dd,_0x530f66){return _0x3899dd+_0x530f66;},'dklXK':function(_0x33ad35,_0x393cb1){return _0x33ad35&_0x393cb1;},'HOvXj':function(_0x445a82,_0x36f07c){return _0x445a82|_0x36f07c;},'qRDIR':function(_0x3c3afb,_0x2e48a6){return _0x3c3afb&_0x2e48a6;},'ECxdf':function(_0x3c6038,_0x2a4e9c){return _0x3c6038&_0x2a4e9c;},'hfqpu':function(_0x1f79ca,_0x475e95){return _0x1f79ca&_0x475e95;},'HqxtQ':function(_0x2b6e68,_0x25bd79){return _0x2b6e68^_0x25bd79;},'TMJvK':function(_0x5bcf0e,_0x433d67){return _0x5bcf0e^_0x433d67;},'aQqzJ':function(_0x8aa23c,_0x285375,_0x18d68e){return _0x8aa23c(_0x285375,_0x18d68e);},'EFLJo':function(_0x4e5982,_0xede1d0,_0xb9c262){return _0x4e5982(_0xede1d0,_0xb9c262);},'ilsEN':function(_0x273c95,_0x20503a,_0x4d3b40,_0x3bb8f1){return _0x273c95(_0x20503a,_0x4d3b40,_0x3bb8f1);},'EVLkT':function(_0x2e723b,_0x32a3f9,_0x4cdc03){return _0x2e723b(_0x32a3f9,_0x4cdc03);},'TFgxd':function(_0x107ceb,_0x43f9a9,_0x16920d){return _0x107ceb(_0x43f9a9,_0x16920d);},'MpKaj':function(_0x36baf7,_0x3e161b,_0x47f457,_0x511b7a){return _0x36baf7(_0x3e161b,_0x47f457,_0x511b7a);},'hyzzJ':function(_0x259050,_0x41cdaf,_0x233123){return _0x259050(_0x41cdaf,_0x233123);},'qgNMN':function(_0x261764,_0x2d7935,_0xa24ec4){return _0x261764(_0x2d7935,_0xa24ec4);},'odgip':function(_0x469aa0,_0x23151b,_0x588c78){return _0x469aa0(_0x23151b,_0x588c78);},'GCMog':function(_0x369ba9,_0x47c03e,_0x8087d2){return _0x369ba9(_0x47c03e,_0x8087d2);},'UHMWA':_0x252fbf(0x23d)+_0x252fbf(0x4aa)+_0x252fbf(0x4a1)+_0x252fbf(0x651),'gKrfl':function(_0x40d8d3,_0x626abe){return _0x40d8d3-_0x626abe;},'bAtla':function(_0x1a2aae,_0xa67db6){return _0x1a2aae<<_0xa67db6;},'XIlHb':function(_0xcc6a11,_0x3f3f2c){return _0xcc6a11-_0x3f3f2c;},'TNZFw':function(_0x2df313,_0x1eb146){return _0x2df313>>>_0x1eb146;},'sULLS':function(_0x23ab0f,_0xa63859){return _0x23ab0f<_0xa63859;},'jbYDo':function(_0x4ecebb,_0x1752ff){return _0x4ecebb/_0x1752ff;},'odedc':function(_0x29adf6,_0x5e6028){return _0x29adf6%_0x5e6028;},'kBslA':function(_0x593161,_0x3160f7){return _0x593161*_0x3160f7;},'csQqA':function(_0x468dfe,_0x38bd3e){return _0x468dfe(_0x38bd3e);},'DZnGb':function(_0x36a4f1,_0x6e64c4){return _0x36a4f1-_0x6e64c4;},'vDkZf':function(_0x5a2209,_0x2d9a94){return _0x5a2209/_0x2d9a94;},'OEIfY':function(_0x49d59a,_0x167712){return _0x49d59a%_0x167712;},'eXeHy':function(_0x677dbc,_0x397f52){return _0x677dbc*_0x397f52;},'FViSg':function(_0x413354,_0x5b6250){return _0x413354+_0x5b6250;},'EmXmg':function(_0x5038d1,_0x2f23ba){return _0x5038d1%_0x2f23ba;},'LkeJb':function(_0x8349b1,_0x175bb7){return _0x8349b1/_0x175bb7;},'nSeob':function(_0x241be6,_0x5b29ae){return _0x241be6-_0x5b29ae;},'iDpxm':function(_0x497a58,_0x5c9403){return _0x497a58<=_0x5c9403;},'IZQID':function(_0x28d810,_0x42af67){return _0x28d810*_0x42af67;},'hxqcq':function(_0x5128ca){return _0x5128ca();},'kHdQg':function(_0x53cbe9,_0x1a8387){return _0x53cbe9>_0x1a8387;},'lrPJU':function(_0x143015,_0x38b132){return _0x143015<_0x38b132;},'Dqqcd':function(_0x3a64d5,_0x380c67){return _0x3a64d5|_0x380c67;},'ChkRK':function(_0xe6e2fc,_0x3789e4){return _0xe6e2fc>>_0x3789e4;},'Weegi':function(_0x3cd00a,_0x269ce8){return _0x3cd00a|_0x269ce8;},'QxQTP':function(_0x170f8a,_0x5b9485){return _0x170f8a|_0x5b9485;},'qferm':function(_0xa2b9b8,_0x148896){return _0xa2b9b8|_0x148896;},'izoPw':function(_0x166acd,_0x1bc968){return _0x166acd|_0x1bc968;},'vVkTI':function(_0x572c2e,_0x49e859){return _0x572c2e(_0x49e859);},'MMoRh':function(_0x1de796,_0x2a053d){return _0x1de796<_0x2a053d;},'CwcqF':_0x252fbf(0x1f2)+_0x252fbf(0x4ed)+_0x252fbf(0x782)+_0x252fbf(0x488)+_0x252fbf(0x4af)+_0x252fbf(0x739)+_0x252fbf(0x2a7)+_0x252fbf(0x683)+_0x252fbf(0x4a4)+_0x252fbf(0x7a5)+_0x252fbf(0x5b0)+_0x252fbf(0x394)+_0x252fbf(0x5e3)+_0x252fbf(0x3cc)+_0x252fbf(0x419)+_0x252fbf(0x380)+_0x252fbf(0x505)+_0x252fbf(0x787)+_0x252fbf(0x4ba)+_0x252fbf(0x26f)+_0x252fbf(0x411),'aqMZT':function(_0x175b17,_0x25a5bf,_0xf930f4,_0x460019,_0x3698a7,_0x3e0f3a,_0x30d318,_0x42f9c5){return _0x175b17(_0x25a5bf,_0xf930f4,_0x460019,_0x3698a7,_0x3e0f3a,_0x30d318,_0x42f9c5);},'fdABk':function(_0x5384e9,_0x8338d6,_0x4a28c8,_0x44e977,_0x3bf1f7,_0x250084,_0x2eb281,_0x160684){return _0x5384e9(_0x8338d6,_0x4a28c8,_0x44e977,_0x3bf1f7,_0x250084,_0x2eb281,_0x160684);},'WpvKC':function(_0xdad061,_0x115bd5){return _0xdad061+_0x115bd5;},'JsLcg':function(_0x52a7fa,_0x1b8dc7,_0x1f2300,_0x1e0630,_0x5103b3,_0x2d7920,_0x36d6df,_0x16cf0b){return _0x52a7fa(_0x1b8dc7,_0x1f2300,_0x1e0630,_0x5103b3,_0x2d7920,_0x36d6df,_0x16cf0b);},'WXUEg':function(_0x3ce7c6,_0x469198){return _0x3ce7c6+_0x469198;},'IEIDt':function(_0x4837c1,_0x1d5079){return _0x4837c1+_0x1d5079;},'xuLWO':function(_0x983032,_0x227aeb){return _0x983032+_0x227aeb;},'NywIZ':function(_0x1621ee,_0x291898){return _0x1621ee+_0x291898;},'GcaeU':function(_0x4a90f6,_0x32f6f9,_0x588500,_0x314b76,_0x401209,_0x37e5a3,_0x420f9d,_0x121075){return _0x4a90f6(_0x32f6f9,_0x588500,_0x314b76,_0x401209,_0x37e5a3,_0x420f9d,_0x121075);},'bWVJA':function(_0x34ab5d,_0x42ad91){return _0x34ab5d+_0x42ad91;},'koEVW':function(_0xca6a2,_0x3cdb9a){return _0xca6a2+_0x3cdb9a;},'HKZQu':function(_0x8fc339,_0x349bf7){return _0x8fc339+_0x349bf7;},'kGEGv':function(_0x21c6c5,_0x17bdfe,_0xf2f0a1,_0x2d253b,_0x16ff1b,_0x3c35ad,_0x420a3b,_0x4949f8){return _0x21c6c5(_0x17bdfe,_0xf2f0a1,_0x2d253b,_0x16ff1b,_0x3c35ad,_0x420a3b,_0x4949f8);},'QBgTn':function(_0x156996,_0x45d694,_0xc4b0a0,_0x55a9b9,_0x4df296,_0x6d0275,_0x94f1d,_0x2a5862){return _0x156996(_0x45d694,_0xc4b0a0,_0x55a9b9,_0x4df296,_0x6d0275,_0x94f1d,_0x2a5862);},'MwdKE':function(_0x283491,_0x1f8e20){return _0x283491+_0x1f8e20;},'LhEdT':function(_0x5b85cb,_0x1b3aaf){return _0x5b85cb+_0x1b3aaf;},'FEloe':function(_0x37244f,_0x264198,_0x2dc7f9,_0x349dac,_0x34c272,_0x595ece,_0x2b4065,_0x2e2ad3){return _0x37244f(_0x264198,_0x2dc7f9,_0x349dac,_0x34c272,_0x595ece,_0x2b4065,_0x2e2ad3);},'haHyC':function(_0x5e6b08,_0x2565f5){return _0x5e6b08+_0x2565f5;},'XJdTq':function(_0x2d9d1e,_0x1e8d9f,_0x1e9636,_0x34ce5a,_0x2ac1f0,_0x285ad4,_0x48f3c5,_0x57bf99){return _0x2d9d1e(_0x1e8d9f,_0x1e9636,_0x34ce5a,_0x2ac1f0,_0x285ad4,_0x48f3c5,_0x57bf99);},'Vgspb':function(_0x202c00,_0x34d61c,_0x3f17c2,_0x2134f5,_0x5dbd7a,_0x5b8953,_0x110c00,_0x1cc6f7){return _0x202c00(_0x34d61c,_0x3f17c2,_0x2134f5,_0x5dbd7a,_0x5b8953,_0x110c00,_0x1cc6f7);},'zlzoM':function(_0x502a80,_0x27c386){return _0x502a80+_0x27c386;},'IRZbm':function(_0x5399a7,_0x805024){return _0x5399a7+_0x805024;},'JxEuK':function(_0x1864de,_0x2401c1,_0x6e6f0c,_0x3dc155,_0x230c1f,_0x170dec,_0x235b62,_0xcbfcd8){return _0x1864de(_0x2401c1,_0x6e6f0c,_0x3dc155,_0x230c1f,_0x170dec,_0x235b62,_0xcbfcd8);},'fShDR':function(_0x171834,_0x5a7380){return _0x171834+_0x5a7380;},'ZmQpE':function(_0x55a1cd,_0x29eaf5,_0x465c93,_0x2d54ac,_0x2203c7,_0x3c583b,_0x29a8c6,_0x40c85a){return _0x55a1cd(_0x29eaf5,_0x465c93,_0x2d54ac,_0x2203c7,_0x3c583b,_0x29a8c6,_0x40c85a);},'pgPex':function(_0x66d2ec,_0x4339d2,_0x16b2bd,_0x39f426,_0x67b239,_0x1843e5,_0x11f7f8,_0x4e0dcb){return _0x66d2ec(_0x4339d2,_0x16b2bd,_0x39f426,_0x67b239,_0x1843e5,_0x11f7f8,_0x4e0dcb);},'EVCSS':function(_0x583c94,_0x539d45){return _0x583c94+_0x539d45;},'eTkSE':function(_0x5d9ca1,_0x5b0ae0,_0x5774ae,_0x172a49,_0x20af53,_0x1680d2,_0x5d8e60,_0x993c00){return _0x5d9ca1(_0x5b0ae0,_0x5774ae,_0x172a49,_0x20af53,_0x1680d2,_0x5d8e60,_0x993c00);},'stiAY':function(_0xa1e50a,_0x2cffdc){return _0xa1e50a+_0x2cffdc;},'PaGcg':function(_0x7f915e,_0x15af45){return _0x7f915e+_0x15af45;},'ZWapD':function(_0xa28049,_0xcedf70,_0x2f81aa,_0x25456b,_0xa1a15d,_0x4c3bdb,_0x441d99,_0x56fdcd){return _0xa28049(_0xcedf70,_0x2f81aa,_0x25456b,_0xa1a15d,_0x4c3bdb,_0x441d99,_0x56fdcd);},'zeKob':function(_0x17241c,_0x1969e1,_0x4fb8bf,_0x30d766,_0x674a27,_0x5a0802,_0x269d60,_0x5a1b86){return _0x17241c(_0x1969e1,_0x4fb8bf,_0x30d766,_0x674a27,_0x5a0802,_0x269d60,_0x5a1b86);},'mapme':function(_0x1d4917,_0x2b8e05,_0x2a46e9,_0x4c897e,_0x451e6c,_0x658d4e,_0xbafb3b,_0x2bab07){return _0x1d4917(_0x2b8e05,_0x2a46e9,_0x4c897e,_0x451e6c,_0x658d4e,_0xbafb3b,_0x2bab07);},'abuKD':function(_0x1738b0,_0x52bfe1){return _0x1738b0+_0x52bfe1;},'LkTbZ':function(_0x16ce58,_0x6345d4){return _0x16ce58+_0x6345d4;},'PAmIc':function(_0x10b9ad,_0x3d3eef){return _0x10b9ad+_0x3d3eef;},'sELYq':function(_0x581420,_0x5ee511){return _0x581420+_0x5ee511;},'reAtC':function(_0x47ffb6,_0xe7c239,_0x1b58ab,_0x2f39d7,_0x19c5da,_0x2260eb,_0x258eea,_0x4f7827){return _0x47ffb6(_0xe7c239,_0x1b58ab,_0x2f39d7,_0x19c5da,_0x2260eb,_0x258eea,_0x4f7827);},'cRPHp':function(_0xf1055f,_0x4e4809){return _0xf1055f+_0x4e4809;},'ZJxNQ':function(_0x4f2b2a,_0x2f829e,_0x31e5f2,_0x4c297f,_0x4b8987,_0x3335cc,_0x2e98d6,_0x229fee){return _0x4f2b2a(_0x2f829e,_0x31e5f2,_0x4c297f,_0x4b8987,_0x3335cc,_0x2e98d6,_0x229fee);},'KtPsR':function(_0x5e4630,_0x269a91,_0x2dc0e9,_0xd64c52,_0x3c7a4b,_0x1d668e,_0x28086a,_0x16a04e){return _0x5e4630(_0x269a91,_0x2dc0e9,_0xd64c52,_0x3c7a4b,_0x1d668e,_0x28086a,_0x16a04e);},'UVGkS':function(_0x1dc23f,_0x4f136e,_0x96a155,_0xba4f7d,_0x56ea59,_0x7f968f,_0x4f40a2,_0x56144d){return _0x1dc23f(_0x4f136e,_0x96a155,_0xba4f7d,_0x56ea59,_0x7f968f,_0x4f40a2,_0x56144d);},'wCJes':function(_0xf6f9a0,_0x518580,_0x173a27,_0x3ea0b3,_0x21f86b,_0xe035c2,_0x2acc62,_0x342458){return _0xf6f9a0(_0x518580,_0x173a27,_0x3ea0b3,_0x21f86b,_0xe035c2,_0x2acc62,_0x342458);},'LlmwG':function(_0x240321,_0x5d57d4){return _0x240321+_0x5d57d4;},'uGpmE':function(_0x25cb79,_0x5198d8,_0x3bfaee,_0x22286a,_0xa5caf0,_0x218a78,_0x4e05a6,_0x5adf66){return _0x25cb79(_0x5198d8,_0x3bfaee,_0x22286a,_0xa5caf0,_0x218a78,_0x4e05a6,_0x5adf66);},'NTeAT':function(_0x18c4dd,_0x50d3f0){return _0x18c4dd+_0x50d3f0;},'HOLvh':function(_0x4bc508,_0x21ea5f,_0x1a3b1f,_0x1f7d88,_0x7bad37,_0x3c8f5a,_0x18e553,_0x32dd96){return _0x4bc508(_0x21ea5f,_0x1a3b1f,_0x1f7d88,_0x7bad37,_0x3c8f5a,_0x18e553,_0x32dd96);},'mSRlj':function(_0x5d5104,_0x31e73a,_0x1b6220,_0x462aee,_0x3f7645,_0x134b39,_0x438ddd,_0x1c052c){return _0x5d5104(_0x31e73a,_0x1b6220,_0x462aee,_0x3f7645,_0x134b39,_0x438ddd,_0x1c052c);},'kkwrd':function(_0x5f15bf,_0x23f303){return _0x5f15bf+_0x23f303;},'bHuyb':function(_0x3dc228,_0x1867b6,_0x54a4b7,_0x5ae0d7,_0x4f0c86,_0x3c6a77,_0x185695,_0x5ec80f){return _0x3dc228(_0x1867b6,_0x54a4b7,_0x5ae0d7,_0x4f0c86,_0x3c6a77,_0x185695,_0x5ec80f);},'xIlcw':function(_0x3e08a9,_0x58e512,_0x517efd,_0x24ce80,_0x2c0a12,_0x15661f,_0xccff8c,_0x426b6c){return _0x3e08a9(_0x58e512,_0x517efd,_0x24ce80,_0x2c0a12,_0x15661f,_0xccff8c,_0x426b6c);},'Qbfbx':function(_0x54e440,_0x1a63c5){return _0x54e440+_0x1a63c5;},'KTGHx':function(_0x30aa3a,_0x3df2b0){return _0x30aa3a+_0x3df2b0;},'vVaTc':function(_0x1aaa75,_0x52e3ae){return _0x1aaa75+_0x52e3ae;},'msHYj':function(_0xfbc1b0,_0x2ee774,_0x2ffac0){return _0xfbc1b0(_0x2ee774,_0x2ffac0);},'woMVw':function(_0x59c404,_0x620a99){return _0x59c404+_0x620a99;},'FZEtj':function(_0x4e9742,_0x4a1db5){return _0x4e9742+_0x4a1db5;},'wndVs':function(_0xe4e974,_0x232046,_0x280282,_0x3a2c8d,_0x3cbd09,_0x338dfe,_0x5196de,_0x43cd70){return _0xe4e974(_0x232046,_0x280282,_0x3a2c8d,_0x3cbd09,_0x338dfe,_0x5196de,_0x43cd70);},'isLvC':function(_0x32a3c1,_0x1e5bef){return _0x32a3c1+_0x1e5bef;},'gOPyt':function(_0x3721c8,_0x18d03e){return _0x3721c8+_0x18d03e;},'QKybX':function(_0x50bbe3,_0x59d1e8,_0x448ec6,_0x4c94a8,_0x2ba8ab,_0x33bff2,_0x367804,_0x17e995){return _0x50bbe3(_0x59d1e8,_0x448ec6,_0x4c94a8,_0x2ba8ab,_0x33bff2,_0x367804,_0x17e995);},'AcudR':function(_0x159fca,_0x3f0359){return _0x159fca+_0x3f0359;},'SiVXt':function(_0x3afb15,_0x5185ae,_0x1a99f4,_0x5006a0,_0x29fa83,_0xf9225e,_0x1fe28b,_0x4c96f7){return _0x3afb15(_0x5185ae,_0x1a99f4,_0x5006a0,_0x29fa83,_0xf9225e,_0x1fe28b,_0x4c96f7);},'oOsxB':function(_0x461783,_0x30c9ee){return _0x461783+_0x30c9ee;},'pMyeA':function(_0x3a2dfa,_0xb55f10,_0x4b2f49,_0x497aac,_0x3ebdf0,_0x46444b,_0x27f8ae,_0x59e263){return _0x3a2dfa(_0xb55f10,_0x4b2f49,_0x497aac,_0x3ebdf0,_0x46444b,_0x27f8ae,_0x59e263);},'pLDab':function(_0x41ec23,_0x1431b9,_0x2b2564){return _0x41ec23(_0x1431b9,_0x2b2564);},'LGvEl':function(_0x290641,_0x1e4b02){return _0x290641(_0x1e4b02);},'USMQh':function(_0x48b16a,_0xb2786f){return _0x48b16a(_0xb2786f);},'zcdmm':function(_0x59fd4b,_0x34a264){return _0x59fd4b(_0x34a264);}};function _0x1ec462(_0x326844,_0x1b07f4){const _0x4e1079=_0x252fbf;var _0x22f865=_0x19c244[_0x4e1079(0x63f)](_0x326844,_0x1b07f4),_0x15d5cb=_0x19c244[_0x4e1079(0x3ce)](_0x326844,_0x19c244[_0x4e1079(0x51b)](0x16b0+0x76d+-0x9*0x355,_0x1b07f4));return _0x19c244[_0x4e1079(0x518)](_0x19c244[_0x4e1079(0x484)](_0x22f865,_0x15d5cb),-0x19fa16ef7+-0x19eba23e3+-0x1f31*-0x22d429);}function _0x4af469(_0x10f82e,_0x479ac7){const _0x3ada6e=_0x252fbf,_0x9ba352=_0x19c244[_0x3ada6e(0x72e)][_0x3ada6e(0x43c)]('|');let _0x1113e7=0x7*0x332+0xb21+-0x217f;while(!![]){switch(_0x9ba352[_0x1113e7++]){case'0':_0x4e1991=_0x19c244[_0x3ada6e(0x518)](_0x479ac7,0x7370a8d7+0x2d751839+-0x60e5c110);continue;case'1':return _0x19c244[_0x3ada6e(0x484)](_0x1d1526,_0x4e1991)?_0x19c244[_0x3ada6e(0x518)](_0x3586aa,0x7c408c1d+-0x1a2e39df+-0x2212523e)?_0x19c244[_0x3ada6e(0x27c)](_0x19c244[_0x3ada6e(0x27c)](_0x19c244[_0x3ada6e(0x27c)](_0x3586aa,0xce9b9f6e+0xb009165d+-0xbea4b5cb),_0x4c34a7),_0x6e2b22):_0x19c244[_0x3ada6e(0x417)](_0x19c244[_0x3ada6e(0x31e)](_0x19c244[_0x3ada6e(0x370)](_0x3586aa,0x111d747*-0xb+-0x2c896f*-0x1cd+-0x46f3cd6),_0x4c34a7),_0x6e2b22):_0x19c244[_0x3ada6e(0x31e)](_0x19c244[_0x3ada6e(0x699)](_0x3586aa,_0x4c34a7),_0x6e2b22);continue;case'2':var _0x1d1526,_0x4e1991,_0x4c34a7,_0x6e2b22,_0x3586aa;continue;case'3':_0x6e2b22=_0x19c244[_0x3ada6e(0x518)](_0x479ac7,0x4b79949a+-0x5*-0x1db17d32+-0x5ff10694);continue;case'4':_0x4c34a7=_0x19c244[_0x3ada6e(0x516)](_0x10f82e,0x3c*-0x5aac42+-0x17e00a0e+0xad206986);continue;case'5':if(_0x19c244[_0x3ada6e(0x518)](_0x1d1526,_0x4e1991))return _0x19c244[_0x3ada6e(0x781)](_0x19c244[_0x3ada6e(0x31e)](_0x19c244[_0x3ada6e(0x31e)](_0x3586aa,-0xbe5197c0+0xa77710d8+0x96da86e8),_0x4c34a7),_0x6e2b22);continue;case'6':_0x3586aa=_0x19c244[_0x3ada6e(0x773)](_0x19c244[_0x3ada6e(0x518)](_0x10f82e,-0x69d53f5*0x2+-0x30ebf8c+0x50496775),_0x19c244[_0x3ada6e(0x209)](_0x479ac7,-0x67eb6052+-0x25687f9*-0x1+0xa594d858));continue;case'7':_0x1d1526=_0x19c244[_0x3ada6e(0x516)](_0x10f82e,-0x1a09d23*-0x2b+-0x79b94509+0xda*0x87ebe4);continue;}break;}}function _0x4e4f4b(_0x440332,_0x3fafdb,_0x927d45){const _0x1fac15=_0x252fbf;return _0x19c244[_0x1fac15(0x677)](_0x19c244[_0x1fac15(0x39b)](_0x440332,_0x3fafdb),_0x19c244[_0x1fac15(0x2ae)](~_0x440332,_0x927d45));}function _0x45b42c(_0x1cf832,_0x376031,_0x204b7d){const _0x3005eb=_0x252fbf;return _0x19c244[_0x3005eb(0x484)](_0x19c244[_0x3005eb(0x209)](_0x1cf832,_0x204b7d),_0x19c244[_0x3005eb(0x3be)](_0x376031,~_0x204b7d));}function _0x4be9ed(_0x4334fc,_0x47c863,_0x1c0c46){const _0x1ba0b1=_0x252fbf;return _0x19c244[_0x1ba0b1(0x220)](_0x19c244[_0x1ba0b1(0x699)](_0x4334fc,_0x47c863),_0x1c0c46);}function _0x18386d(_0x485b90,_0x4a3829,_0x569b8c){const _0x516ed7=_0x252fbf;return _0x19c244[_0x516ed7(0x512)](_0x4a3829,_0x19c244[_0x516ed7(0x677)](_0x485b90,~_0x569b8c));}function _0x4d7e8d(_0x53326a,_0x350141,_0x55c9b9,_0x33be67,_0x511e3d,_0x37d62d,_0x559104){const _0x96beb3=_0x252fbf;return _0x53326a=_0x19c244[_0x96beb3(0x4ec)](_0x4af469,_0x53326a,_0x19c244[_0x96beb3(0x4ec)](_0x4af469,_0x19c244[_0x96beb3(0x790)](_0x4af469,_0x19c244[_0x96beb3(0x6ae)](_0x4e4f4b,_0x350141,_0x55c9b9,_0x33be67),_0x511e3d),_0x559104)),_0x19c244[_0x96beb3(0x4ec)](_0x4af469,_0x19c244[_0x96beb3(0x790)](_0x1ec462,_0x53326a,_0x37d62d),_0x350141);}function _0x203deb(_0x4f0f0f,_0x48ccbf,_0xa9872a,_0x11bfdc,_0x1c6d1a,_0xbe9991,_0x2bc45c){const _0x32e3fd=_0x252fbf;return _0x4f0f0f=_0x19c244[_0x32e3fd(0x4ec)](_0x4af469,_0x4f0f0f,_0x19c244[_0x32e3fd(0x4ec)](_0x4af469,_0x19c244[_0x32e3fd(0x332)](_0x4af469,_0x19c244[_0x32e3fd(0x6ae)](_0x45b42c,_0x48ccbf,_0xa9872a,_0x11bfdc),_0x1c6d1a),_0x2bc45c)),_0x19c244[_0x32e3fd(0x332)](_0x4af469,_0x19c244[_0x32e3fd(0x4fd)](_0x1ec462,_0x4f0f0f,_0xbe9991),_0x48ccbf);}function _0x5c612b(_0x9b4957,_0x2ad710,_0x52dbbf,_0x5165af,_0x372562,_0x58bc75,_0x4330ff){const _0x303e83=_0x252fbf;return _0x9b4957=_0x19c244[_0x303e83(0x790)](_0x4af469,_0x9b4957,_0x19c244[_0x303e83(0x790)](_0x4af469,_0x19c244[_0x303e83(0x4ec)](_0x4af469,_0x19c244[_0x303e83(0x4bb)](_0x4be9ed,_0x2ad710,_0x52dbbf,_0x5165af),_0x372562),_0x4330ff)),_0x19c244[_0x303e83(0x5d7)](_0x4af469,_0x19c244[_0x303e83(0x4fd)](_0x1ec462,_0x9b4957,_0x58bc75),_0x2ad710);}function _0x97bec1(_0x4c1e2d,_0xdb1070,_0x550640,_0x3c46c9,_0x186c6a,_0xa78339,_0x2ee170){const _0x5e3dff=_0x252fbf;return _0x4c1e2d=_0x19c244[_0x5e3dff(0x40c)](_0x4af469,_0x4c1e2d,_0x19c244[_0x5e3dff(0x4fd)](_0x4af469,_0x19c244[_0x5e3dff(0x5bb)](_0x4af469,_0x19c244[_0x5e3dff(0x4bb)](_0x18386d,_0xdb1070,_0x550640,_0x3c46c9),_0x186c6a),_0x2ee170)),_0x19c244[_0x5e3dff(0x2e6)](_0x4af469,_0x19c244[_0x5e3dff(0x40c)](_0x1ec462,_0x4c1e2d,_0xa78339),_0xdb1070);}function _0x45c3b5(_0x171767){const _0x4fecf8=_0x252fbf,_0x35e840=_0x19c244[_0x4fecf8(0x20c)][_0x4fecf8(0x43c)]('|');let _0x538865=-0x21a0+-0x17*0x9f+0x2fe9;while(!![]){switch(_0x35e840[_0x538865++]){case'0':_0x308c7b[_0x19c244[_0x4fecf8(0x621)](_0x4d30a1,0x1*-0x147b+0x265*0x1+0x3*0x608)]=_0x19c244[_0x4fecf8(0x388)](_0x531f46,0xb*0x2cf+0x253c+-0x441e);continue;case'1':_0x308c7b[_0x19c244[_0x4fecf8(0x3a0)](_0x4d30a1,-0x96a+0x4*0x10d+0xf*0x59)]=_0x19c244[_0x4fecf8(0x470)](_0x531f46,0x15b*-0x2+-0xe*0x10a+0x115f);continue;case'2':while(_0x19c244[_0x4fecf8(0x2c0)](_0xbc0db8,_0x531f46)){_0x209542=_0x19c244[_0x4fecf8(0x797)](_0x19c244[_0x4fecf8(0x51b)](_0xbc0db8,_0x19c244[_0x4fecf8(0x57f)](_0xbc0db8,-0x2456+0x1333+0x1127)),0xbc1+-0xd1e*-0x1+-0x65*0x3f),_0x5c3ce2=_0x19c244[_0x4fecf8(0x3c9)](_0x19c244[_0x4fecf8(0x57f)](_0xbc0db8,-0x131a+0x192e+-0x610),0x2*0x290+-0x1031+0x3b3*0x3),_0x308c7b[_0x209542]=_0x19c244[_0x4fecf8(0x677)](_0x308c7b[_0x209542],_0x19c244[_0x4fecf8(0x388)](_0x171767[_0x4fecf8(0x69a)](_0xbc0db8),_0x5c3ce2)),_0xbc0db8++;}continue;case'3':var _0x308c7b=_0x19c244[_0x4fecf8(0x6f3)](Array,_0x19c244[_0x4fecf8(0x602)](_0x4d30a1,-0x4b1*-0x2+0x4bd*-0x3+0x4d6));continue;case'4':var _0x31d4a5=_0x19c244[_0x4fecf8(0x773)](_0x531f46,0x8*-0x250+-0x7*-0xa9+0x1*0xde9);continue;case'5':return _0x308c7b;case'6':var _0x531f46=_0x171767[_0x4fecf8(0x75c)];continue;case'7':var _0xbc0db8=-0x1*0x1e6b+-0x55*-0x4f+0x430;continue;case'8':_0x308c7b[_0x209542]=_0x19c244[_0x4fecf8(0x484)](_0x308c7b[_0x209542],_0x19c244[_0x4fecf8(0x388)](-0x1914+0x2*-0x712+0x27b8,_0x5c3ce2));continue;case'9':_0x209542=_0x19c244[_0x4fecf8(0x2f2)](_0x19c244[_0x4fecf8(0x51b)](_0xbc0db8,_0x19c244[_0x4fecf8(0x632)](_0xbc0db8,0x1df1+0x439*-0x1+0x5*-0x524)),0xf08+0x2*0xf1e+-0x2d40);continue;case'10':var _0x4d30a1=_0x19c244[_0x4fecf8(0x22f)](_0x19c244[_0x4fecf8(0x2da)](_0x4fdca2,0x1*-0xd8a+0x1*-0x1735+0xc4*0x30),0x1987+0x1c9c+-0x7f*0x6d);continue;case'11':_0x5c3ce2=_0x19c244[_0x4fecf8(0x3c9)](_0x19c244[_0x4fecf8(0x214)](_0xbc0db8,-0x3cd*0x9+0x18a1+0x998),0xa*0x17e+-0x37d+-0xb67);continue;case'12':var _0x5c3ce2=0xaa6*0x2+-0x215e+0xc12;continue;case'13':var _0x4fdca2=_0x19c244[_0x4fecf8(0x34a)](_0x19c244[_0x4fecf8(0x608)](_0x31d4a5,_0x19c244[_0x4fecf8(0x632)](_0x31d4a5,0xe*0x245+0x1ad5+-0x3a5b)),0x1*-0x2333+0x5f9*0x3+0x11*0x108);continue;case'14':var _0x209542;continue;}break;}}function _0x20133a(_0xc964d6){const _0x26cce8=_0x252fbf;var _0x58ec1b='',_0x103d1a='',_0xd3af3c,_0x55e4ae;for(_0x55e4ae=0x1f3e+-0x20e4*-0x1+-0x4022;_0x19c244[_0x26cce8(0x494)](_0x55e4ae,-0x2422+-0x1a7b+0x3ea*0x10);_0x55e4ae++){_0xd3af3c=_0x19c244[_0x26cce8(0x3be)](_0x19c244[_0x26cce8(0x3ce)](_0xc964d6,_0x19c244[_0x26cce8(0x526)](_0x55e4ae,-0xadb*0x3+0x1*-0x557+-0x10*-0x25f)),-0x9fe*-0x2+0x659+-0x439*0x6),_0x103d1a=_0x19c244[_0x26cce8(0x773)]('0',_0xd3af3c[_0x26cce8(0x46d)](0x1721+0x76*-0x18+0x1*-0xc01)),_0x58ec1b=_0x19c244[_0x26cce8(0x2da)](_0x58ec1b,_0x103d1a[_0x26cce8(0x3d6)](_0x19c244[_0x26cce8(0x602)](_0x103d1a[_0x26cce8(0x75c)],0x3*-0x90d+-0x196d+0x3496),0x4*-0x450+-0x131*-0x1f+-0x13ad));}return _0x58ec1b;}var _0x4f484c=_0x19c244[_0x252fbf(0x2cc)](Array),_0x658527,_0x5d7ad3,_0x48c2f7,_0x3f96e2,_0xf76f94,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x24fa35=0x2638+0x1*-0x22e5+-0x34c,_0x27a0c5=-0x1ef1+-0x1*-0x1a89+0x474,_0x2bbe7e=0x2*-0xde7+0x61*0x1a+0x1205,_0x28b0ec=0x18d*-0x11+0x62c*0x1+0x1447*0x1,_0x30428b=-0xb*0xab+0x709*-0x2+0x1570,_0x33de70=0x5*-0x793+-0x17b+0x2763*0x1,_0x58c574=-0x2115*-0x1+0x19b4+-0x3abb,_0x5b5555=0x3*-0x14f+-0x2f*-0x55+-0xb9a,_0x2f093b=0x9*-0x2af+0x71*0x1d+0xb5e,_0x289854=0x2297+-0x34f*-0x2+-0x292a,_0x16d81f=-0x1c1*0x1+-0x3*0x6f+0x31e,_0x5b5613=-0x9a4+-0x146c+0x1e27,_0x5c9ee6=0xb*-0x1e2+0x1c5d+-0x7a1,_0x633ce8=-0x1724+-0x1a2d*0x1+-0x70d*-0x7,_0x1d1505=-0x7ea+-0x1d1b*-0x1+-0x2*0xa91,_0x549b5b=-0x5*-0x21c+0x14*-0x16d+-0x1*-0x120d;_0x38e192=_0x38e192[_0x252fbf(0x6c1)](/\r\n/g,'\x0a');var _0x281380='';for(var _0x41cbaf=-0x599+-0x17*0x8b+0x1216;_0x19c244[_0x252fbf(0x2c0)](_0x41cbaf,_0x38e192[_0x252fbf(0x75c)]);_0x41cbaf++){var _0x64e885=_0x38e192[_0x252fbf(0x69a)](_0x41cbaf);if(_0x19c244[_0x252fbf(0x2c0)](_0x64e885,0x240+-0x2076+-0x1eb6*-0x1))_0x281380+=String[_0x252fbf(0x520)+'de'](_0x64e885);else _0x19c244[_0x252fbf(0x316)](_0x64e885,0x17*0xa5+0x3*-0x269+-0x4f*0x17)&&_0x19c244[_0x252fbf(0x23c)](_0x64e885,0x59*-0x64+0xcf6+0x1dce)?(_0x281380+=String[_0x252fbf(0x520)+'de'](_0x19c244[_0x252fbf(0x5cd)](_0x19c244[_0x252fbf(0x46a)](_0x64e885,-0xacc+-0x5*0x503+0x23e1),-0x806+0x4a5*-0x5+-0x1fff*-0x1)),_0x281380+=String[_0x252fbf(0x520)+'de'](_0x19c244[_0x252fbf(0x3cd)](_0x19c244[_0x252fbf(0x3be)](_0x64e885,0x240d*-0x1+-0x1*-0x1cfb+0x751*0x1),-0x773*-0x2+0x4*0x5a4+-0x24f6))):(_0x281380+=String[_0x252fbf(0x520)+'de'](_0x19c244[_0x252fbf(0x612)](_0x19c244[_0x252fbf(0x46a)](_0x64e885,0xb*-0x14b+0x2655+-0x1810),-0x2099+-0x6e*-0x1a+-0x76f*-0x3)),_0x281380+=String[_0x252fbf(0x520)+'de'](_0x19c244[_0x252fbf(0x671)](_0x19c244[_0x252fbf(0x209)](_0x19c244[_0x252fbf(0x46a)](_0x64e885,-0x2061+-0xba*-0x2c+0x6f),-0x2066+-0xafa+-0x2b9f*-0x1),-0x3d2*0xa+0x5*0x23a+0xdc9*0x2)),_0x281380+=String[_0x252fbf(0x520)+'de'](_0x19c244[_0x252fbf(0x685)](_0x19c244[_0x252fbf(0x516)](_0x64e885,0x35*0x19+-0x1bb5+0x16c7),0x3*0x419+-0x1172+0x5a7)));}_0x4f484c=_0x19c244[_0x252fbf(0x21d)](_0x45c3b5,_0x281380),_0x391ed3=0x7108725*-0x2+-0x3e976cad+-0x13ffbc38*-0x9,_0x1277d8=0xc1*0x1a3a80b+-0x1d0bbfc7d+0x9bed*0x27d47,_0x64e885=-0x59ae4bf8+-0xd2a87dc4+0x1c511a6ba,_0x92034b=0x471d*-0x3ef5+-0x8df7*-0x156c+0x15ce4203;for(_0x658527=-0x975+-0x2373+0x2ce8;_0x19c244[_0x252fbf(0x6c5)](_0x658527,_0x4f484c[_0x252fbf(0x75c)]);_0x658527+=-0x2*0xc26+0x1547+0x315){const _0x22960c=_0x19c244[_0x252fbf(0x26c)][_0x252fbf(0x43c)]('|');let _0x2ce14a=0x2265+0x13bf+-0x3624;while(!![]){switch(_0x22960c[_0x2ce14a++]){case'0':_0x391ed3=_0x19c244[_0x252fbf(0x5de)](_0x203deb,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x2da)](_0x658527,0x257*-0xb+0x1*0x2228+-0x86a)],_0x30428b,0xe41e30c9+0x12f4767b8+-0x1*0x11d47731f);continue;case'1':_0x391ed3=_0x19c244[_0x252fbf(0x2e3)](_0x5c612b,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x773)](_0x658527,0x98e*0x4+0x11*0x90+-0x2fbb)],_0x2f093b,0x2422627*0xa+-0x438e9639+0x55949779);continue;case'2':_0x1277d8=_0x19c244[_0x252fbf(0x2e3)](_0x5c612b,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x67b)](_0x658527,0x5ad*-0x6+0x19d8+0x83c)],_0x5b5613,0x83*-0xb2379+-0xf46a8*0x14+0xb6cc910);continue;case'3':_0x92034b=_0x19c244[_0x252fbf(0x6a8)](_0x97bec1,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x2da)](_0x658527,-0x8*-0x42a+0x36*-0x1b+0x1*-0x1b8f)],_0x633ce8,-0x16a291fa3+-0x6d0e6bcb*-0x2+0x18e392eed);continue;case'4':_0x1277d8=_0x19c244[_0x252fbf(0x40c)](_0x4af469,_0x1277d8,_0x48c2f7);continue;case'5':_0x391ed3=_0x19c244[_0x252fbf(0x6a8)](_0x4d7e8d,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x350)](_0x658527,-0xd*0xc9+-0x2e*0x59+0x1a33)],_0x24fa35,-0x1a2fd299a+0x67*0xcd8f49+0x227b327b3);continue;case'6':_0x64e885=_0x19c244[_0x252fbf(0x6a8)](_0x97bec1,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x2da)](_0x658527,0x1942+0x20b*-0xa+-0x4ca*0x1)],_0x1d1505,-0x15b0a39ad+0xbd4265*0x254+-0x88eb6*-0x12f9);continue;case'7':_0x92034b=_0x19c244[_0x252fbf(0x2e3)](_0x97bec1,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x385)](_0x658527,0x971+0xb43+-0x14b1)],_0x633ce8,0xb12f473+0xa3ae4bdc+0x1*-0x1fb473bd);continue;case'8':_0x64e885=_0x19c244[_0x252fbf(0x2e3)](_0x203deb,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x7ae)](_0x658527,0x7a8+0x1ab0+0x4e7*-0x7)],_0x58c574,-0x2*-0x36b7e5d1+0x2*-0x43d0a1cf+0x9ff93*0xcf7);continue;case'9':_0x64e885=_0x19c244[_0x252fbf(0x2e3)](_0x97bec1,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x3b5)](_0x658527,0x17b1*-0x1+-0x1a10+0x31c7)],_0x1d1505,-0x51f11bd9*0x3+0x132bca4a7+0x6617f1f8);continue;case'10':_0x1277d8=_0x19c244[_0x252fbf(0x268)](_0x203deb,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x777)](_0x658527,-0x15b5+0xcc*0x25+-0x7bb)],_0x5b5555,-0x1e9563d0+0x45*-0x1ccafcb+0x2a462727*0x7);continue;case'11':_0x1277d8=_0x19c244[_0x252fbf(0x2e3)](_0x203deb,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x522)](_0x658527,0xfb5+-0x19c7+-0x35e*-0x3)],_0x5b5555,0x77ed6a32+-0x7493*-0x5065+-0x572f4344);continue;case'12':_0x5d7ad3=_0x391ed3;continue;case'13':_0x92034b=_0x19c244[_0x252fbf(0x5de)](_0x4d7e8d,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x47c)](_0x658527,-0x21b4+-0x1*-0x128f+-0x6*-0x287)],_0x27a0c5,-0x1*-0x317f899c+-0x9d3408d*-0x5+-0x1b180633);continue;case'14':_0x48c2f7=_0x1277d8;continue;case'15':_0x391ed3=_0x19c244[_0x252fbf(0x583)](_0x97bec1,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x7ae)](_0x658527,-0x1f7f+-0x1c85+0x2*0x1e04)],_0x5c9ee6,-0x87f41286+0x3612135*-0x5b+0xeb2b051*0x2f);continue;case'16':_0x391ed3=_0x19c244[_0x252fbf(0x5ee)](_0x5c612b,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x2da)](_0x658527,0x15b7+0xd12+-0xc*0x2e6)],_0x2f093b,0x18b*-0xb3ebf3+-0x6ece286f*-0x1+0x6*0x37424da1);continue;case'17':_0x1277d8=_0x19c244[_0x252fbf(0x2e3)](_0x4d7e8d,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x480)](_0x658527,-0x1c35*-0x1+0x1ad7+-0x3709)],_0x28b0ec,-0xcc260af9*-0x1+0xf6a3640f+-0x1010ba01a);continue;case'18':_0x391ed3=_0x19c244[_0x252fbf(0x2e3)](_0x97bec1,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x426)](_0x658527,-0x377*-0x1+0x6*-0x36b+0x1*0x1117)],_0x5c9ee6,-0x2ee6f85d+0x899a492f+0xaa808f1);continue;case'19':_0x64e885=_0x19c244[_0x252fbf(0x69b)](_0x97bec1,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x570)](_0x658527,-0x59*-0x6d+0x89*-0x7+-0x17c*0x17)],_0x1d1505,0x3deee843+0x3168b186+0x16d5425a*-0x3);continue;case'20':_0x1277d8=_0x19c244[_0x252fbf(0x4a3)](_0x97bec1,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x426)](_0x658527,-0x21a9+-0x2350+0x4502)],_0x549b5b,-0xdbcc98da+0x154bfe96a+0x72938301);continue;case'21':_0x64e885=_0x19c244[_0x252fbf(0x791)](_0x5c612b,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x360)](_0x658527,-0x214e+0x7e*-0x45+0xa1*0x6b)],_0x16d81f,-0x198da0b76+-0x121*0xf265bd+0x3a13a3133);continue;case'22':_0x64e885=_0x19c244[_0x252fbf(0x268)](_0x5c612b,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x67b)](_0x658527,-0x1dfd+-0xd97+0x2ba3)],_0x16d81f,0x1a1*-0x112a23+0xae93ee1*-0x1+0x46815edc);continue;case'23':_0x391ed3=_0x19c244[_0x252fbf(0x791)](_0x203deb,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x385)](_0x658527,-0x4f4*-0x5+0x6b*-0x1+0x2*-0xc28)],_0x30428b,0x117d53d*0x35+-0x13b3f8c8+-0x4595ef3);continue;case'24':_0x64e885=_0x19c244[_0x252fbf(0x5de)](_0x4d7e8d,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x61a)](_0x658527,0x731+0xbe3+-0x130a)],_0x2bbe7e,0x33b*0x8f2b31+-0x9e1c581*-0x11+-0x1767f492b);continue;case'25':_0x1277d8=_0x19c244[_0x252fbf(0x5de)](_0x97bec1,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x480)](_0x658527,0x3*-0x493+0x12f+0x5*0x283)],_0x549b5b,-0x4de0cbd1+-0x18fe46696+-0x5a8a0*-0x8111);continue;case'26':_0x92034b=_0x19c244[_0x252fbf(0x2d9)](_0x97bec1,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x62c)](_0x658527,-0x1186+-0x2*0x593+-0x991*-0x3)],_0x633ce8,0x1ff8ccd5+0x577f346a+-0x344d01a8);continue;case'27':_0x64e885=_0x19c244[_0x252fbf(0x3e9)](_0x5c612b,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x773)](_0x658527,-0x1687*0x1+-0x1210+0x28a2)],_0x16d81f,0x8beedce9+0xcff46fed+-0xee45ebb4);continue;case'28':_0x64e885=_0x19c244[_0x252fbf(0x791)](_0x203deb,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x67b)](_0x658527,-0x9d+0x154b+-0x14a3)],_0x58c574,0x9*0x6088557+0xc8d3b30+-0xe3dc877*0x2);continue;case'29':_0x391ed3=_0x19c244[_0x252fbf(0x5bb)](_0x4af469,_0x391ed3,_0x5d7ad3);continue;case'30':_0x64e885=_0x19c244[_0x252fbf(0x659)](_0x5c612b,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x284)](_0x658527,0x1a61*0x1+-0x2024+-0x2e3*-0x2)],_0x16d81f,-0xd02c224d+0xe14990b2+0x10434*0xc0a8);continue;case'31':_0x92034b=_0x19c244[_0x252fbf(0x4b6)](_0x4d7e8d,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x65d)](_0x658527,-0x1ffd+0x1*0x34c+0x1cba)],_0x27a0c5,-0xc0ddbe94+-0xfa8cdde9+0x246af942c);continue;case'32':_0x64e885=_0x19c244[_0x252fbf(0x5de)](_0x4d7e8d,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x426)](_0x658527,0x1efe+0xa0*0xb+0x4*-0x976)],_0x2bbe7e,0xbcfaa743+0x100bd5edd*0x1+0x297ff67*-0x6b);continue;case'33':_0x391ed3=_0x19c244[_0x252fbf(0x2d9)](_0x203deb,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x348)](_0x658527,0x26ff+0x1*-0x23c5+-0x335)],_0x30428b,0x6ee5cef1+-0xbf*0x42481f+0x98bd108d);continue;case'34':_0x391ed3=_0x19c244[_0x252fbf(0x61d)](_0x97bec1,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x360)](_0x658527,-0x1*-0x19c4+-0x1*-0xedb+-0x2897)],_0x5c9ee6,-0x646682d5+0xc9d*-0xb3141+-0x1613b4201*-0x1);continue;case'35':_0x92034b=_0x19c244[_0x252fbf(0x3ff)](_0x4d7e8d,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x7ae)](_0x658527,-0x18*0x10c+0x11f*0x1d+-0x272*0x3)],_0x27a0c5,-0x1cb78ff36+-0xee3ac90e+-0x1*-0x3b74c39d7);continue;case'36':_0x92034b=_0x19c244[_0x252fbf(0x227)](_0x203deb,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x6c0)](_0x658527,-0xf42+-0x3*0x7ff+0x2745)],_0x33de70,0x13aa87dd6+0x754b4883+0x8e0b4db*-0x1b);continue;case'37':_0x1277d8=_0x19c244[_0x252fbf(0x227)](_0x4d7e8d,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x47c)](_0x658527,-0x3a*0x43+0x1f9+0xd3c)],_0x28b0ec,-0x18*0xd295c56+0x359b4360+0x2038bf9b1);continue;case'38':_0x92034b=_0x19c244[_0x252fbf(0x3e9)](_0x203deb,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x2da)](_0x658527,-0x1730+0x6e*0x37+-0xe*0x8)],_0x33de70,-0x195b87114+-0x2d68e3bd+0x2c010f8c9);continue;case'39':_0x1277d8=_0x19c244[_0x252fbf(0x659)](_0x5c612b,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x68f)](_0x658527,0x1314*0x2+0x6b9*0x1+-0x3*0xef1)],_0x5b5613,0x3888c1df+0x1ed27ab95+-0x127cb3568);continue;case'40':_0x391ed3=_0x19c244[_0x252fbf(0x659)](_0x97bec1,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x722)](_0x658527,0xc7*0x17+0x539+-0x171a)],_0x5c9ee6,-0xc73e700+0x1*0x75a24a69+0x21b*0x420241);continue;case'41':_0x1277d8=_0x19c244[_0x252fbf(0x5de)](_0x203deb,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x5f6)](_0x658527,-0x45*-0x19+-0x20fa+0x8bf*0x3)],_0x5b5555,-0x1ae40335a+0x8a2f839b+-0xaf427d23*-0x3);continue;case'42':_0x92034b=_0x19c244[_0x252fbf(0x5d0)](_0x5c612b,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x570)](_0x658527,-0x15a3+-0xd5a*-0x1+0x855)],_0x289854,-0x1bcea58fe+-0x37eaf052*0x1+0x2dbb0e335);continue;case'43':_0x64e885=_0x19c244[_0x252fbf(0x659)](_0x4d7e8d,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x711)](_0x658527,0x13cc+-0xa0a*0x1+-0x9c0)],_0x2bbe7e,-0x3661995a+-0x1cbad51b+0x36e8*0x22bf2);continue;case'44':_0x1277d8=_0x19c244[_0x252fbf(0x26a)](_0x97bec1,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x47c)](_0x658527,-0x76f*-0x1+-0x2ed*-0x3+-0x3*0x563)],_0x549b5b,-0x25d1af80+0x4bb766ab+0x28225a76);continue;case'45':_0x64e885=_0x19c244[_0x252fbf(0x4bf)](_0x4d7e8d,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x47c)](_0x658527,-0xc16+-0x38c+0x10*0xfb)],_0x2bbe7e,-0xc6885eb2+-0x9d9c7b36+0x20a9e1d76);continue;case'46':_0x64e885=_0x19c244[_0x252fbf(0x39f)](_0x97bec1,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x68f)](_0x658527,0x86*-0x1+0x1*0x23de+-0x234a)],_0x1d1505,0x4352a*-0x447+0x1307195*-0x40+0x109afef8d);continue;case'47':_0x391ed3=_0x19c244[_0x252fbf(0x62f)](_0x4d7e8d,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x6c0)](_0x658527,0x216f+0xa2a+-0x2b95)],_0x24fa35,-0x751b115*0x39+-0x64879a31+0x2fb34178d);continue;case'48':_0x64e885=_0x19c244[_0x252fbf(0x791)](_0x203deb,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x71a)](_0x658527,0x9*0x107+0x1b7a+-0x24aa)],_0x58c574,-0xe219c89*0xf+-0x5*-0x40957b0e+0x69aeab42);continue;case'49':_0x391ed3=_0x19c244[_0x252fbf(0x6f2)](_0x4d7e8d,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x54b)](_0x658527,-0x1d3a+-0x35*0xb5+0x42bf)],_0x24fa35,-0x33eb*0x1f4f1+0x6ab3ad2f+0x6674402e);continue;case'50':_0x92034b=_0x19c244[_0x252fbf(0x544)](_0x97bec1,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x426)](_0x658527,0x4*-0x100+-0x1*-0x9b9+-0x5ae)],_0x633ce8,0x1b080129+0x1710470ed+0x144d1ab*-0xa3);continue;case'51':_0x1277d8=_0x19c244[_0x252fbf(0x5d0)](_0x5c612b,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x773)](_0x658527,0x2*-0x135a+0x1*0xeb1+0x1805)],_0x5b5613,-0xb417cecf*-0x1+0xd6bc9198+0x5*-0x27a19b9a);continue;case'52':_0x391ed3=_0x19c244[_0x252fbf(0x42f)](_0x5c612b,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x2bf)](_0x658527,-0xad5+0x82+0xa58)],_0x2f093b,-0x5f*-0x13130e9+-0xcbed30bf+0x15aa6438a);continue;case'53':_0x3f96e2=_0x64e885;continue;case'54':_0x1277d8=_0x19c244[_0x252fbf(0x4b7)](_0x97bec1,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x385)](_0x658527,-0x1*0x1007+-0x6a0+0x16a8)],_0x549b5b,-0xa0ab6a6d+-0x4fd70ca3*0x2+0x1c5dde184);continue;case'55':_0x92034b=_0x19c244[_0x252fbf(0x25e)](_0x203deb,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x4fa)](_0x658527,0x1f2d+0x872+-0x1*0x2795)],_0x33de70,-0x436a096+-0x207388+0x23f3*0x2f0b);continue;case'56':_0x1277d8=_0x19c244[_0x252fbf(0x3ff)](_0x5c612b,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x430)](_0x658527,0x1fb7+-0x385*0x9+0x0)],_0x5b5613,-0x1*-0x530719b3+0xf*0x17180645+-0x3551b3*0x47a);continue;case'57':_0x92034b=_0x19c244[_0x252fbf(0x3ff)](_0x5c612b,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x577)](_0x658527,-0x184*0xd+0x24a1+0x1*-0x10ed)],_0x289854,-0x10a29c93a+-0x1c344dca3+0x3b80fcdd7);continue;case'58':_0x92034b=_0x19c244[_0x252fbf(0x259)](_0x4af469,_0x92034b,_0xf76f94);continue;case'59':_0xf76f94=_0x92034b;continue;case'60':_0x64e885=_0x19c244[_0x252fbf(0x39f)](_0x203deb,_0x64e885,_0x92034b,_0x391ed3,_0x1277d8,_0x4f484c[_0x19c244[_0x252fbf(0x60d)](_0x658527,0x13e8+-0x1196+-0x24f)],_0x58c574,-0x132fc07e+-0x1*0x1830f9183+0x28b145f88);continue;case'61':_0x92034b=_0x19c244[_0x252fbf(0x583)](_0x5c612b,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x76d)](_0x658527,-0x4*-0x22f+-0x2*0x7bf+0x2*0x363)],_0x289854,0x6f*-0x432281+0x1dd87bb+-0x225f149f*-0x3);continue;case'62':_0x92034b=_0x19c244[_0x252fbf(0x647)](_0x203deb,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x6e9)](_0x658527,-0x22a3+-0x9*0x119+0x2c92)],_0x33de70,0x1*0x9451d1e+0x25d880*-0x6ad+0x1b6983938);continue;case'63':_0x92034b=_0x19c244[_0x252fbf(0x6f2)](_0x5c612b,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x624)](_0x658527,-0x15ec+0xe3b*0x1+0x1*0x7b9)],_0x289854,-0x6fd9ca2b+-0xb260e35*-0x6+0xb4676b6e);continue;case'64':_0x391ed3=_0x19c244[_0x252fbf(0x4b6)](_0x203deb,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x2da)](_0x658527,-0x1bfd+-0xce7+-0xdf*-0x2f)],_0x30428b,0x9ae3b89+-0x1a3b68f1*0x5+0x1235eba31);continue;case'65':_0x92034b=_0x19c244[_0x252fbf(0x3bd)](_0x4d7e8d,_0x92034b,_0x391ed3,_0x1277d8,_0x64e885,_0x4f484c[_0x19c244[_0x252fbf(0x786)](_0x658527,0x1bd1+-0x1de0+0x210)],_0x27a0c5,-0x1ed*0x27783f+-0x18e17f5c+-0x5c73b*-0x39bf);continue;case'66':_0x391ed3=_0x19c244[_0x252fbf(0x5d0)](_0x4d7e8d,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x480)](_0x658527,0x1*-0x2458+0x2516*-0x1+-0x24bb*-0x2)],_0x24fa35,0x73ec7927+-0x6fa502ef+0xd82b*0x77e0);continue;case'67':_0x1277d8=_0x19c244[_0x252fbf(0x331)](_0x203deb,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x57e)](_0x658527,0x117*0x9+-0x47*-0x2c+-0x15ff)],_0x5b5555,-0x1a4d128a6+-0x782a91ed+0x304cfb65b);continue;case'68':_0x1277d8=_0x19c244[_0x252fbf(0x268)](_0x4d7e8d,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x360)](_0x658527,0x138*0x1a+-0xb2*0x5+0x1*-0x1c2b)],_0x28b0ec,0x572dc353+0x4e6eedfb+0x22463*-0xd30);continue;case'69':_0x391ed3=_0x19c244[_0x252fbf(0x1f0)](_0x5c612b,_0x391ed3,_0x1277d8,_0x64e885,_0x92034b,_0x4f484c[_0x19c244[_0x252fbf(0x76d)](_0x658527,0x1*0x1ce2+0x1*-0xbcb+-0x110e)],_0x2f093b,-0x2369127e+0x2e78d2*0x93c+0x1*-0xafe5d081);continue;case'70':_0x1277d8=_0x19c244[_0x252fbf(0x227)](_0x4d7e8d,_0x1277d8,_0x64e885,_0x92034b,_0x391ed3,_0x4f484c[_0x19c244[_0x252fbf(0x47c)](_0x658527,0x2*-0xa7f+0x3c*-0x67+0x2d31)],_0x28b0ec,-0x7f67db11+-0x57d87d7b+-0x6051758f*-0x3);continue;case'71':_0x64e885=_0x19c244[_0x252fbf(0x236)](_0x4af469,_0x64e885,_0x3f96e2);continue;}break;}}return _0x19c244[_0x252fbf(0x76d)](_0x19c244[_0x252fbf(0x65d)](_0x19c244[_0x252fbf(0x360)](_0x19c244[_0x252fbf(0x21d)](_0x20133a,_0x391ed3),_0x19c244[_0x252fbf(0x75f)](_0x20133a,_0x1277d8)),_0x19c244[_0x252fbf(0x3af)](_0x20133a,_0x64e885)),_0x19c244[_0x252fbf(0x561)](_0x20133a,_0x92034b))[_0x252fbf(0x281)+'e']();}function resetCustomRequests(){const _0x298252=_0xb46521,_0x1882a7={'eerjY':_0x298252(0x43a),'PGsxY':_0x298252(0x375)+_0x298252(0x249),'ohamJ':_0x298252(0x4a8),'MYSuS':_0x298252(0x689)+')','JtfiV':function(_0x17cdfb,_0x484e79,_0x5d5af0){return _0x17cdfb(_0x484e79,_0x5d5af0);}},_0x2ccd80=document[_0x298252(0x310)+_0x298252(0x31c)](_0x1882a7[_0x298252(0x5b5)]);_0x2ccd80&&(_0x2ccd80[_0x298252(0x703)]=0x45*0x45+0x1b3c+-0x2dd5,_0x2ccd80[_0x298252(0x30a)][_0x298252(0x65b)]=_0x1882a7[_0x298252(0x455)],_0x2ccd80[_0x298252(0x30a)][_0x298252(0x3b3)]=_0x1882a7[_0x298252(0x6c3)],_0x1882a7[_0x298252(0x795)](setTimeout,()=>{const _0x244e26=_0x298252;_0x2ccd80[_0x244e26(0x30a)][_0x244e26(0x3b3)]=_0x1882a7[_0x244e26(0x314)];},0x2*-0x11b7+0x1461+0xf71));}function addToCustomView(_0x4eb343){const _0x2cf326=_0xb46521,_0x53de2c={'csabc':_0x2cf326(0x43a),'iqARB':_0x2cf326(0x3df)+_0x2cf326(0x524),'Kkzho':_0x2cf326(0x375)+_0x2cf326(0x249),'CRZlJ':function(_0x55a68c,_0x14a601){return _0x55a68c(_0x14a601);},'SZxXy':function(_0x290515,_0x1e3d8a){return _0x290515+_0x1e3d8a;},'RdxMQ':function(_0x23648a,_0x98f473){return _0x23648a>_0x98f473;},'bPZCN':_0x2cf326(0x4a8),'XYiSS':_0x2cf326(0x244),'eOKIT':_0x2cf326(0x620),'UVRdB':function(_0x257381,_0x534ca9,_0x20caab){return _0x257381(_0x534ca9,_0x20caab);}},_0x1ddaa1=document[_0x2cf326(0x310)+_0x2cf326(0x31c)](_0x53de2c[_0x2cf326(0x5c2)]);if(_0x1ddaa1){let _0x37ee10=_0x53de2c[_0x2cf326(0x2a2)](parseInt,_0x1ddaa1[_0x2cf326(0x703)])||0x1*0xe2f+0x1e05+-0x2c34,_0x38e940=_0x53de2c[_0x2cf326(0x71e)](_0x37ee10,_0x4eb343);if(_0x53de2c[_0x2cf326(0x450)](_0x38e940,-0x2*-0x1286+0x20d5+-0x1ed1))_0x38e940=0x34e2+-0x4*0xc8e+0x2466;_0x1ddaa1[_0x2cf326(0x703)]=_0x38e940,_0x1ddaa1[_0x2cf326(0x30a)][_0x2cf326(0x65b)]=_0x53de2c[_0x2cf326(0x73e)],_0x1ddaa1[_0x2cf326(0x30a)][_0x2cf326(0x3b3)]=_0x53de2c[_0x2cf326(0x6b5)],_0x1ddaa1[_0x2cf326(0x30a)][_0x2cf326(0x698)]=_0x53de2c[_0x2cf326(0x653)],_0x53de2c[_0x2cf326(0x21f)](setTimeout,()=>{const _0x2d4057=_0x2cf326;_0x1ddaa1[_0x2d4057(0x30a)][_0x2d4057(0x3b3)]=_0x53de2c[_0x2d4057(0x4e8)],_0x1ddaa1[_0x2d4057(0x30a)][_0x2d4057(0x698)]=_0x53de2c[_0x2d4057(0x6dc)];},0x795+-0x5*0x35f+0x1*0x9dc);}}function togglePassword(){const _0x496148=_0xb46521,_0x4f946c={'OrDIw':_0x496148(0x1f1),'xTfsa':_0x496148(0x6ad)+_0x496148(0x691),'fVOSo':function(_0x36be78,_0x49f7ed){return _0x36be78===_0x49f7ed;},'ZNJlf':_0x496148(0x482),'usQsO':_0x496148(0x628)},_0x1fda63=document[_0x496148(0x310)+_0x496148(0x31c)](_0x4f946c[_0x496148(0x30c)]),_0x34215b=document[_0x496148(0x660)+_0x496148(0x701)](_0x4f946c[_0x496148(0x23f)]);_0x4f946c[_0x496148(0x4c3)](_0x1fda63[_0x496148(0x5fb)],_0x4f946c[_0x496148(0x30c)])?(_0x1fda63[_0x496148(0x5fb)]=_0x4f946c[_0x496148(0x393)],_0x34215b[_0x496148(0x386)+'t']='🙈'):(_0x1fda63[_0x496148(0x5fb)]=_0x4f946c[_0x496148(0x30c)],_0x34215b[_0x496148(0x386)+'t']=_0x4f946c[_0x496148(0x21b)]);}function validateForm(){const _0x369d3a=_0xb46521,_0x2b1d7b={'JXLhZ':_0x369d3a(0x670),'utnwF':_0x369d3a(0x1f1),'JyVNU':_0x369d3a(0x681),'wqUXI':_0x369d3a(0x479)+_0x369d3a(0x329),'OaPgj':_0x369d3a(0x74d),'bqXsk':_0x369d3a(0x572),'YTqDB':_0x369d3a(0x77f),'KGNrK':_0x369d3a(0x210),'YmssZ':function(_0x3795d4,_0x2dd646){return _0x3795d4<_0x2dd646;}},_0x4542c9=document[_0x369d3a(0x310)+_0x369d3a(0x31c)](_0x2b1d7b[_0x369d3a(0x4e2)]),_0x5d8041=document[_0x369d3a(0x310)+_0x369d3a(0x31c)](_0x2b1d7b[_0x369d3a(0x5b3)]),_0x386ff3=document[_0x369d3a(0x310)+_0x369d3a(0x31c)](_0x2b1d7b[_0x369d3a(0x451)]),_0x35a73d=document[_0x369d3a(0x310)+_0x369d3a(0x31c)](_0x2b1d7b[_0x369d3a(0x6cd)]);let _0x39ae7a=!![];_0x386ff3[_0x369d3a(0x30a)][_0x369d3a(0x2c4)]=_0x2b1d7b[_0x369d3a(0x504)],_0x35a73d[_0x369d3a(0x30a)][_0x369d3a(0x2c4)]=_0x2b1d7b[_0x369d3a(0x504)],_0x4542c9[_0x369d3a(0x30a)][_0x369d3a(0x2c3)+'r']=_0x2b1d7b[_0x369d3a(0x383)],_0x5d8041[_0x369d3a(0x30a)][_0x369d3a(0x2c3)+'r']=_0x2b1d7b[_0x369d3a(0x383)];const _0x8e348b=/^(0[3|5|7|8|9])+([0-9]{8})$/;return(!_0x4542c9[_0x369d3a(0x703)][_0x369d3a(0x76c)]()||!_0x8e348b[_0x369d3a(0x601)](_0x4542c9[_0x369d3a(0x703)][_0x369d3a(0x76c)]()))&&(_0x386ff3[_0x369d3a(0x30a)][_0x369d3a(0x2c4)]=_0x2b1d7b[_0x369d3a(0x3a6)],_0x4542c9[_0x369d3a(0x30a)][_0x369d3a(0x2c3)+'r']=_0x2b1d7b[_0x369d3a(0x325)],_0x39ae7a=![]),(!_0x5d8041[_0x369d3a(0x703)]||_0x2b1d7b[_0x369d3a(0x34d)](_0x5d8041[_0x369d3a(0x703)][_0x369d3a(0x75c)],-0x1*0x259f+0xd87+-0x3f*-0x62))&&(_0x35a73d[_0x369d3a(0x30a)][_0x369d3a(0x2c4)]=_0x2b1d7b[_0x369d3a(0x3a6)],_0x5d8041[_0x369d3a(0x30a)][_0x369d3a(0x2c3)+'r']=_0x2b1d7b[_0x369d3a(0x325)],_0x39ae7a=![]),_0x39ae7a;}const GLOBAL_CONFIG={'liveId':0xfacdf,'anchorId':0x78d063bf};let selectedIdol=null,apiIdolsData=[],originalIdolsData=[],currentSearchTerm='';function renderIdolList(){const _0x4c3a8f=_0xb46521,_0x1aee77={'TklKt':_0x4c3a8f(0x272),'vUirh':function(_0xa6e3ae,_0x52bb32){return _0xa6e3ae>_0x52bb32;},'ozRof':function(_0x2ba83b,_0x59bea5){return _0x2ba83b(_0x59bea5);},'fbKeb':_0x4c3a8f(0x39c)+_0x4c3a8f(0x545)+_0x4c3a8f(0x223)+_0x4c3a8f(0x56e)+_0x4c3a8f(0x25b)+_0x4c3a8f(0x5b6)+_0x4c3a8f(0x5da)+_0x4c3a8f(0x657)+_0x4c3a8f(0x63a)+_0x4c3a8f(0x4fc)+_0x4c3a8f(0x48d)+_0x4c3a8f(0x2db)+_0x4c3a8f(0x7a8)+_0x4c3a8f(0x2ca)+_0x4c3a8f(0x5ec)+_0x4c3a8f(0x567)+_0x4c3a8f(0x672)},_0x9f0540=document[_0x4c3a8f(0x310)+_0x4c3a8f(0x31c)](_0x1aee77[_0x4c3a8f(0x6e4)]);if(!_0x9f0540)return;if(apiIdolsData&&_0x1aee77[_0x4c3a8f(0x2eb)](apiIdolsData[_0x4c3a8f(0x75c)],-0x16f0+0x5cc*-0x5+0xcfb*0x4)){_0x1aee77[_0x4c3a8f(0x6cb)](renderApiIdolList,apiIdolsData);return;}_0x9f0540[_0x4c3a8f(0x215)]=_0x1aee77[_0x4c3a8f(0x474)];}function selectIdol(_0x59f6c4){const _0x4217f1=_0xb46521,_0x4f88a7={'IdMKP':_0x4217f1(0x549)+'2','lLaiv':function(_0x3304cc){return _0x3304cc();},'lAtKE':function(_0x159a57,_0x154dc9){return _0x159a57(_0x154dc9);}},_0x3cd99a=_0x4f88a7[_0x4217f1(0x3bf)][_0x4217f1(0x43c)]('|');let _0x4ae848=0xcb9+0x1*0xcec+0x521*-0x5;while(!![]){switch(_0x3cd99a[_0x4ae848++]){case'0':_0x4f88a7[_0x4217f1(0x242)](updateIdolCardSelection);continue;case'1':selectedIdol=_0x59f6c4;continue;case'2':_0x4f88a7[_0x4217f1(0x29f)](updateToolSectionDisplay,_0x59f6c4);continue;case'3':_0x4f88a7[_0x4217f1(0x29f)](updateSelectedIdolInfo,_0x59f6c4);continue;case'4':GLOBAL_CONFIG[_0x4217f1(0x5fd)]=_0x59f6c4[_0x4217f1(0x5fd)];continue;case'5':GLOBAL_CONFIG[_0x4217f1(0x73c)]=_0x59f6c4[_0x4217f1(0x73c)];continue;}break;}}function updateToolSectionDisplay(_0x2b35c5){const _0xc06c40=_0xb46521,_0x23bc23={'vxAjO':_0xc06c40(0x610)+_0xc06c40(0x532),'GxHIn':_0xc06c40(0x39d)},_0x4cb53d=document[_0xc06c40(0x310)+_0xc06c40(0x31c)](_0x23bc23[_0xc06c40(0x50c)]);_0x4cb53d&&(_0x4cb53d[_0xc06c40(0x386)+'t']=_0x2b35c5[_0xc06c40(0x73c)],_0x4cb53d[_0xc06c40(0x30a)][_0xc06c40(0x698)]=_0x23bc23[_0xc06c40(0x5a6)],_0x4cb53d[_0xc06c40(0x313)]=_0xc06c40(0x295)+_0xc06c40(0x4f6)+_0x2b35c5[_0xc06c40(0x461)]);}function updateSelectedIdolInfo(_0x45e57a){const _0x234f30=_0xb46521,_0x4549f9={'NoBgy':_0x234f30(0x2c6)+_0x234f30(0x43d),'igWpi':_0x234f30(0x2c6)+_0x234f30(0x2b2),'rPtfQ':function(_0x1926a5,_0x19a7ae){return _0x1926a5&&_0x19a7ae;},'kGMXk':_0x234f30(0x79e),'ajUUh':_0x234f30(0x3c3),'gpqkU':_0x234f30(0x462)},_0x507f32=document[_0x234f30(0x310)+_0x234f30(0x31c)](_0x4549f9[_0x234f30(0x25f)]),_0x21480f=document[_0x234f30(0x310)+_0x234f30(0x31c)](_0x4549f9[_0x234f30(0x728)]);_0x4549f9[_0x234f30(0x7b1)](_0x507f32,_0x21480f)&&(_0x21480f[_0x234f30(0x215)]=_0x234f30(0x473)+_0x234f30(0x431)+_0x234f30(0x4c1)+_0x234f30(0x595)+_0x234f30(0x3d9)+_0x234f30(0x47a)+_0x234f30(0x5d5)+_0x234f30(0x40b)+_0x234f30(0x354)+_0x234f30(0x625)+_0x45e57a[_0x234f30(0x580)]+_0x234f30(0x59b)+_0x45e57a[_0x234f30(0x461)]+(_0x234f30(0x7a9)+_0x234f30(0x354)+_0x234f30(0x38b)+_0x234f30(0x778)+_0x234f30(0x789)+_0x234f30(0x5c8)+_0x234f30(0x631)+_0x234f30(0x5ab)+_0x234f30(0x551)+_0x234f30(0x1ff)+_0x234f30(0x334)+_0x234f30(0x792)+_0x234f30(0x3e6)+_0x234f30(0x754)+_0x234f30(0x1f3)+_0x234f30(0x472)+_0x234f30(0x473)+_0x234f30(0x354)+_0x234f30(0x702)+_0x234f30(0x335)+_0x234f30(0x2ba)+_0x234f30(0x6dd)+_0x234f30(0x354)+_0x234f30(0x2f7)+_0x234f30(0x473)+_0x234f30(0x354)+_0x234f30(0x7b2)+_0x234f30(0x5a2)+_0x234f30(0x501)+_0x234f30(0x2a3)+_0x234f30(0x6a0)+'>')+(_0x45e57a[_0x234f30(0x461)]||_0x4549f9[_0x234f30(0x400)])+(_0x234f30(0x66a)+_0x234f30(0x354)+_0x234f30(0x640)+_0x234f30(0x70c)+_0x234f30(0x255)+_0x234f30(0x2b5)+_0x234f30(0x487)+_0x234f30(0x467)+_0x234f30(0x5cb))+_0x45e57a[_0x234f30(0x5fd)]+(_0x234f30(0x66a)+_0x234f30(0x354)+_0x234f30(0x49e)+_0x234f30(0x354)+_0x234f30(0x724)+_0x234f30(0x354)+_0x234f30(0x7b2)+_0x234f30(0x5a2)+_0x234f30(0x643)+_0x234f30(0x68c)+_0x234f30(0x579)+_0x234f30(0x503)+_0x234f30(0x34f)+_0x234f30(0x4d7)+_0x234f30(0x3d5)+_0x234f30(0x46c)+_0x234f30(0x4e4)+_0x234f30(0x79b)+_0x234f30(0x5ca)+_0x234f30(0x473)+_0x234f30(0x5d8)+_0x234f30(0x31a))+(_0x45e57a[_0x234f30(0x73c)]||_0x4549f9[_0x234f30(0x58b)])+(_0x234f30(0x473)+_0x234f30(0x49e)+_0x234f30(0x364)),_0x507f32[_0x234f30(0x30a)][_0x234f30(0x2c4)]=_0x4549f9[_0x234f30(0x3ea)]);}function updateIdolCardSelection(){const _0x3b4d8c=_0xb46521,_0x25486d={'wuiiB':_0x3b4d8c(0x2ed)+'id','ATDMd':function(_0x17ab16,_0xee63ae){return _0x17ab16==_0xee63ae;},'xAptZ':function(_0x3ae5e8,_0x57200f){return _0x3ae5e8===_0x57200f;},'WLtPo':function(_0x2e360b,_0x1f096e){return _0x2e360b(_0x1f096e);},'vCcvF':function(_0x5f4987,_0x49f021){return _0x5f4987||_0x49f021;},'NQvHo':_0x3b4d8c(0x28e),'Qcdcd':_0x3b4d8c(0x79c)},_0x5db1b6=document[_0x3b4d8c(0x660)+_0x3b4d8c(0x2e5)](_0x25486d[_0x3b4d8c(0x306)]);_0x5db1b6[_0x3b4d8c(0x37d)](_0x56f917=>_0x56f917[_0x3b4d8c(0x415)][_0x3b4d8c(0x476)](_0x3b4d8c(0x28e))),selectedIdol&&_0x5db1b6[_0x3b4d8c(0x37d)]((_0xbd1378,_0x7e3049)=>{const _0x5d7186=_0x3b4d8c,_0x1c9320=_0xbd1378[_0x5d7186(0x475)+'te'](_0x25486d[_0x5d7186(0x3eb)]),_0x22e197=_0x25486d[_0x5d7186(0x4d6)](_0x1c9320,selectedIdol['id']),_0x584794=_0x25486d[_0x5d7186(0x5fc)](_0x1c9320,_0x25486d[_0x5d7186(0x324)](String,selectedIdol['id'])),_0x5065c=_0x25486d[_0x5d7186(0x613)](_0x22e197,_0x584794);_0x5065c&&_0xbd1378[_0x5d7186(0x415)][_0x5d7186(0x747)](_0x25486d[_0x5d7186(0x772)]);});}function renderApiIdolList(_0x4af525){const _0x37abba=_0xb46521,_0x4b97fe={'uZVyY':_0x37abba(0x37b)+_0x37abba(0x429),'rBwKN':function(_0x409678,_0x42774e){return _0x409678===_0x42774e;},'ibzyz':_0x37abba(0x294)+_0x37abba(0x357)+_0x37abba(0x52b)+_0x37abba(0x6d3)+_0x37abba(0x6c6)+'>','tEQlw':_0x37abba(0x294)+_0x37abba(0x357)+_0x37abba(0x52b)+_0x37abba(0x55f)+_0x37abba(0x492)+_0x37abba(0x6c9),'ZkEUv':function(_0x172643){return _0x172643();},'wqiEQ':function(_0xa93281){return _0xa93281();},'Xeuax':_0x37abba(0x272),'xQscO':function(_0x4541c5,_0x4c082c){return _0x4541c5===_0x4c082c;},'lCepR':_0x37abba(0x39c)+_0x37abba(0x545)+_0x37abba(0x223)+_0x37abba(0x56e)+_0x37abba(0x25b)+_0x37abba(0x5b6)+_0x37abba(0x6a2)+_0x37abba(0x423)+_0x37abba(0x523),'FocGY':function(_0x329450,_0x35aa3e){return _0x329450===_0x35aa3e;},'gWjPb':function(_0x208e77,_0x1cecea,_0x683686,_0x45af2e){return _0x208e77(_0x1cecea,_0x683686,_0x45af2e);},'RHYoh':function(_0x1655de,_0x2e3750,_0x4ac53e){return _0x1655de(_0x2e3750,_0x4ac53e);},'eEddM':function(_0x43515c,_0x328641){return _0x43515c>_0x328641;},'vCBhV':_0x37abba(0x2d0)+_0x37abba(0x3db),'RUwZm':function(_0x57f621,_0x428fb5){return _0x57f621(_0x428fb5);},'JUUKo':function(_0x5eb88e,_0x48b815,_0x286383){return _0x5eb88e(_0x48b815,_0x286383);}},_0x333653=document[_0x37abba(0x310)+_0x37abba(0x31c)](_0x4b97fe[_0x37abba(0x5bc)]);if(!_0x333653)return;if(!_0x4af525||!Array[_0x37abba(0x68b)](_0x4af525)||_0x4b97fe[_0x37abba(0x66b)](_0x4af525[_0x37abba(0x75c)],-0x24*-0x106+0x1896+-0xa3d*0x6)){_0x333653[_0x37abba(0x215)]=_0x4b97fe[_0x37abba(0x4f1)];return;}apiIdolsData=_0x4af525;_0x4b97fe[_0x37abba(0x43f)](originalIdolsData[_0x37abba(0x75c)],-0x1736+0x121*0x14+0xa2)&&(originalIdolsData=[..._0x4af525]);let _0x15d0f6='';_0x4af525[_0x37abba(0x37d)]((_0xf2c3d6,_0x2382ea)=>{const _0x4d5f32=_0x37abba;_0x15d0f6+=_0x4d5f32(0x473)+_0x4d5f32(0x744)+_0x4d5f32(0x4fb)+_0x4d5f32(0x496)+_0x4d5f32(0x56f)+_0x4d5f32(0x73a)+_0x4d5f32(0x33c)+_0xf2c3d6[_0x4d5f32(0x73c)]+(_0x4d5f32(0x697)+_0x4d5f32(0x3f7)+'\x22')+_0x2382ea+(_0x4d5f32(0x35f)+_0x4d5f32(0x5f8))+_0xf2c3d6[_0x4d5f32(0x73c)]+(_0x4d5f32(0x207)+_0x4d5f32(0x615)+_0x4d5f32(0x347))+_0xf2c3d6[_0x4d5f32(0x580)]+_0x4d5f32(0x59b)+(_0xf2c3d6[_0x4d5f32(0x461)]||_0xf2c3d6[_0x4d5f32(0x20d)])+(_0x4d5f32(0x2b8)+_0x4d5f32(0x741)+_0x4d5f32(0x2cd)+_0x4d5f32(0x282)+_0x4d5f32(0x3c4)+_0x4d5f32(0x6ab)+_0x4d5f32(0x396)+_0x4d5f32(0x337)+_0x4d5f32(0x5cc)+_0x4d5f32(0x354)+_0x4d5f32(0x3f4)+_0x4d5f32(0x2fa)+_0x4d5f32(0x6a7))+(_0xf2c3d6[_0x4d5f32(0x461)]||_0xf2c3d6[_0x4d5f32(0x20d)])+(_0x4d5f32(0x66a)+_0x4d5f32(0x354)+_0x4d5f32(0x744)+_0x4d5f32(0x4fb)+_0x4d5f32(0x3da))+(_0xf2c3d6[_0x4d5f32(0x395)]||_0x4b97fe[_0x4d5f32(0x646)])+(_0x4d5f32(0x66a)+_0x4d5f32(0x354)+_0x4d5f32(0x431)+_0x4d5f32(0x4c1)+_0x4d5f32(0x528)+_0x4d5f32(0x552)+_0x4d5f32(0x708)+_0x4d5f32(0x39e)+_0x4d5f32(0x36e)+_0x4d5f32(0x78e)+_0x4d5f32(0x354)+_0x4d5f32(0x354))+(_0x4b97fe[_0x4d5f32(0x5ad)](_0xf2c3d6[_0x4d5f32(0x57d)],0x184e+0x1*0x16ae+-0x2efb*0x1)?_0x4b97fe[_0x4d5f32(0x25d)]:_0x4b97fe[_0x4d5f32(0x3e3)])+(_0x4d5f32(0x473)+_0x4d5f32(0x354)+_0x4d5f32(0x731)+_0x4d5f32(0x437)+_0x4d5f32(0x75d)+_0x4d5f32(0x49a)+_0x4d5f32(0x41a)+_0x4d5f32(0x29b)+_0x4d5f32(0x74a))+_0xf2c3d6[_0x4d5f32(0x73c)]+(_0x4d5f32(0x4cd)+_0x4d5f32(0x354)+_0x4d5f32(0x26e)+_0x4d5f32(0x473)+_0x4d5f32(0x49e)+_0x4d5f32(0x364));}),_0x333653[_0x37abba(0x215)]=_0x15d0f6,_0x4b97fe[_0x37abba(0x748)](setupSearchInput);currentSearchTerm?_0x4b97fe[_0x37abba(0x5ac)](updateSearchResultsCount,_0x4af525[_0x37abba(0x75c)],originalIdolsData[_0x37abba(0x75c)],currentSearchTerm):_0x4b97fe[_0x37abba(0x57c)](updateSearchResultsCount,_0x4af525[_0x37abba(0x75c)],originalIdolsData[_0x37abba(0x75c)]||_0x4af525[_0x37abba(0x75c)]);_0x4b97fe[_0x37abba(0x57c)](setTimeout,()=>{const _0xe231da=_0x37abba;_0x4b97fe[_0xe231da(0x6d6)](updateIdolCardSelection);},0xc5*0x8+-0x1096+0xad2);if(!selectedIdol&&_0x4b97fe[_0x37abba(0x44f)](_0x4af525[_0x37abba(0x75c)],-0x14f*-0x3+0x9f1+0x47*-0x32)){const _0x309dec={'id':_0x4af525[-0x1574+-0x80*0x1b+0x22f4][_0x37abba(0x73c)],'nickname':_0x4af525[0x5c*0x4d+0x2*0x1135+-0x2*0x1f0b][_0x37abba(0x461)]||_0x4af525[0x26bb+0x1*-0x875+-0x1*0x1e46][_0x37abba(0x20d)],'signature':_0x4af525[-0x1b7d+0x189*-0x3+-0x100c*-0x2][_0x37abba(0x395)]||_0x4af525[0x2cd+0x1*-0x89b+0x5ce*0x1][_0x37abba(0x662)]||_0x4b97fe[_0x37abba(0x72d)],'avatar':_0x4af525[-0x16d3*-0x1+-0x7fc+-0xed7][_0x37abba(0x580)],'liveId':_0x4af525[-0x65c+0x3dd*0x3+-0x53b][_0x37abba(0x5fd)]||_0x4af525[0x11*-0xa2+-0x2*-0x513+0x9c][_0x37abba(0x73c)],'anchorId':_0x4af525[-0x14a9+0x1*-0x10f8+0x25a1][_0x37abba(0x73c)],'liveStatus':_0x4af525[0x1*0x13fa+-0x2398+-0x2*-0x7cf][_0x37abba(0x57d)]};_0x4b97fe[_0x37abba(0x278)](selectIdol,_0x309dec),_0x4b97fe[_0x37abba(0x3fe)](setTimeout,()=>{const _0x1d7f16=_0x37abba;_0x4b97fe[_0x1d7f16(0x748)](updateIdolCardSelection);},-0x13c6+-0x2f9+-0x13*-0x13d);}}function selectApiIdolByAnchorId(_0x5abd01){const _0x43a9c9=_0xb46521,_0x2b4cf3={'ZXEGP':function(_0x32de6d){return _0x32de6d();},'ILVKG':function(_0xce241a,_0x2e4af0){return _0xce241a>_0x2e4af0;},'RinPN':_0x43a9c9(0x2d0)+_0x43a9c9(0x3db),'Hfith':function(_0x524909,_0x25169f){return _0x524909(_0x25169f);},'wVdai':function(_0x528750,_0x51097f,_0x1d6e2b){return _0x528750(_0x51097f,_0x1d6e2b);}},_0x313e88=_0x2b4cf3[_0x43a9c9(0x69f)](originalIdolsData[_0x43a9c9(0x75c)],0x267e+-0x49*-0x2+0x1f4*-0x14)?originalIdolsData:apiIdolsData,_0x436337=_0x313e88[_0x43a9c9(0x62a)](_0x520c82=>String(_0x520c82[_0x43a9c9(0x73c)])===String(_0x5abd01));if(_0x436337){const _0x32bcb5={'id':_0x436337[_0x43a9c9(0x73c)],'nickname':_0x436337[_0x43a9c9(0x461)]||_0x436337[_0x43a9c9(0x20d)],'avatar':_0x436337[_0x43a9c9(0x580)],'liveId':_0x436337[_0x43a9c9(0x5fd)]||_0x436337[_0x43a9c9(0x73c)],'anchorId':_0x436337[_0x43a9c9(0x73c)],'signature':_0x436337[_0x43a9c9(0x395)]||_0x436337[_0x43a9c9(0x662)]||_0x2b4cf3[_0x43a9c9(0x70f)],'liveStatus':_0x436337[_0x43a9c9(0x57d)]};_0x2b4cf3[_0x43a9c9(0x779)](selectIdol,_0x32bcb5),_0x2b4cf3[_0x43a9c9(0x6a4)](setTimeout,()=>{const _0x4fed5f=_0x43a9c9;_0x2b4cf3[_0x4fed5f(0x705)](updateIdolCardSelection);},-0x182*0x3+0xfb8+-0x16*0x80);}}function searchIdols(){const _0x5b20d8=_0xb46521,_0x2915a0={'CDzsG':function(_0x25fa87,_0x28b435){return _0x25fa87(_0x28b435);},'zLGYB':_0x5b20d8(0x5c7)+_0x5b20d8(0x5e1),'iMSbH':function(_0x37c4a5,_0x586c07){return _0x37c4a5===_0x586c07;},'vqdZP':function(_0xb313ce,_0xac0bfa,_0x572514,_0x3f5c25){return _0xb313ce(_0xac0bfa,_0x572514,_0x3f5c25);},'AEYAJ':_0x5b20d8(0x767)+_0x5b20d8(0x371),'jMakf':function(_0x264b25,_0x420174){return _0x264b25===_0x420174;},'rTGXS':function(_0x135f9d,_0x56e2ca,_0x1dd646){return _0x135f9d(_0x56e2ca,_0x1dd646);},'oODDX':function(_0x480c40,_0x233236,_0x2f3d1c,_0x40c613){return _0x480c40(_0x233236,_0x2f3d1c,_0x40c613);}},_0x468511=document[_0x5b20d8(0x310)+_0x5b20d8(0x31c)](_0x2915a0[_0x5b20d8(0x59f)]),_0x53eda4=_0x468511[_0x5b20d8(0x703)][_0x5b20d8(0x76c)]()[_0x5b20d8(0x281)+'e']();if(!apiIdolsData||_0x2915a0[_0x5b20d8(0x2d6)](apiIdolsData[_0x5b20d8(0x75c)],0xcee*-0x3+-0x199b+0x4065)){_0x2915a0[_0x5b20d8(0x241)](updateSearchResultsCount,0x1449+0x16+-0x145f,-0x1*-0x1462+-0xc33+-0x82f,_0x2915a0[_0x5b20d8(0x24b)]);return;}_0x2915a0[_0x5b20d8(0x742)](originalIdolsData[_0x5b20d8(0x75c)],0x1087+0x305*0xc+-0x34c3)&&(originalIdolsData=[...apiIdolsData]);currentSearchTerm=_0x53eda4;if(!_0x53eda4){_0x2915a0[_0x5b20d8(0x489)](renderApiIdolList,originalIdolsData),_0x2915a0[_0x5b20d8(0x206)](updateSearchResultsCount,originalIdolsData[_0x5b20d8(0x75c)],originalIdolsData[_0x5b20d8(0x75c)]);return;}const _0x433577=originalIdolsData[_0x5b20d8(0x44b)](_0x440051=>{const _0x3b64e7=_0x5b20d8,_0x43388e=(_0x440051[_0x3b64e7(0x461)]||_0x440051[_0x3b64e7(0x20d)]||'')[_0x3b64e7(0x281)+'e'](),_0xbd315f=_0x2915a0[_0x3b64e7(0x489)](String,_0x440051[_0x3b64e7(0x73c)]||'')[_0x3b64e7(0x281)+'e'](),_0x329409=(_0x440051[_0x3b64e7(0x395)]||_0x440051[_0x3b64e7(0x662)]||'')[_0x3b64e7(0x281)+'e']();return _0x43388e[_0x3b64e7(0x686)](_0x53eda4)||_0xbd315f[_0x3b64e7(0x686)](_0x53eda4)||_0x329409[_0x3b64e7(0x686)](_0x53eda4);});_0x2915a0[_0x5b20d8(0x489)](renderApiIdolList,_0x433577),_0x2915a0[_0x5b20d8(0x77a)](updateSearchResultsCount,_0x433577[_0x5b20d8(0x75c)],originalIdolsData[_0x5b20d8(0x75c)],_0x53eda4);}function clearSearch(){const _0x3ad65a=_0xb46521,_0x1fe8db={'TrYQw':_0x3ad65a(0x5c7)+_0x3ad65a(0x5e1),'yFBWc':function(_0x46fd35,_0x3eefa3){return _0x46fd35>_0x3eefa3;},'VKmfU':function(_0x36c8cb,_0x2021c6){return _0x36c8cb(_0x2021c6);},'dVShO':function(_0x549de4,_0x2794a7,_0x5c39ba){return _0x549de4(_0x2794a7,_0x5c39ba);}},_0x18145d=document[_0x3ad65a(0x310)+_0x3ad65a(0x31c)](_0x1fe8db[_0x3ad65a(0x321)]);_0x18145d[_0x3ad65a(0x703)]='',currentSearchTerm='',_0x1fe8db[_0x3ad65a(0x49d)](originalIdolsData[_0x3ad65a(0x75c)],0x1*-0x9d+0x1a33+-0x106*0x19)&&(_0x1fe8db[_0x3ad65a(0x64d)](renderApiIdolList,originalIdolsData),_0x1fe8db[_0x3ad65a(0x45a)](updateSearchResultsCount,originalIdolsData[_0x3ad65a(0x75c)],originalIdolsData[_0x3ad65a(0x75c)]));}function updateSearchResultsCount(_0x57e655,_0x1b6ba3,_0x201f0f=''){const _0x353cf7=_0xb46521,_0x22202a={'Bebfo':_0x353cf7(0x465)+_0x353cf7(0x2b7),'ZLEBs':function(_0x378604,_0x278f7f){return _0x378604!==_0x278f7f;},'UclMI':function(_0x73e2fd,_0x4a753a){return _0x73e2fd===_0x4a753a;},'FtGMN':_0x353cf7(0x210),'yzHMJ':_0x353cf7(0x39d),'ximAe':_0x353cf7(0x3c5)},_0x39dc3f=document[_0x353cf7(0x310)+_0x353cf7(0x31c)](_0x22202a[_0x353cf7(0x367)]);if(!_0x39dc3f)return;_0x201f0f&&_0x22202a[_0x353cf7(0x441)](_0x201f0f,'')?_0x22202a[_0x353cf7(0x2b4)](_0x57e655,-0x1156+-0x13f4+-0x1*-0x254a)?(_0x39dc3f[_0x353cf7(0x215)]=_0x353cf7(0x555)+_0x353cf7(0x424)+_0x353cf7(0x4a0)+_0x353cf7(0x65f)+_0x201f0f+_0x353cf7(0x529),_0x39dc3f[_0x353cf7(0x30a)][_0x353cf7(0x698)]=_0x22202a[_0x353cf7(0x4ac)]):(_0x39dc3f[_0x353cf7(0x215)]=_0x353cf7(0x22e)+_0x353cf7(0x3a5)+_0x57e655+(_0x353cf7(0x500)+_0x353cf7(0x707)+_0x353cf7(0x245)+'>')+_0x201f0f+(_0x353cf7(0x529)+_0x353cf7(0x727))+_0x1b6ba3+_0x353cf7(0x6f6),_0x39dc3f[_0x353cf7(0x30a)][_0x353cf7(0x698)]=_0x22202a[_0x353cf7(0x389)]):(_0x39dc3f[_0x353cf7(0x215)]=_0x353cf7(0x42c)+_0x353cf7(0x24f)+_0x353cf7(0x495)+_0x1b6ba3+(_0x353cf7(0x500)+_0x353cf7(0x4c5)),_0x39dc3f[_0x353cf7(0x30a)][_0x353cf7(0x698)]=_0x22202a[_0x353cf7(0x67f)]);}function setupSearchInput(){const _0x579269=_0xb46521,_0x3e9581={'GpEOo':function(_0x24a08b,_0x3a8f9f){return _0x24a08b===_0x3a8f9f;},'KFucp':_0x579269(0x68d),'fhjod':function(_0x24c366){return _0x24c366();},'HNyxv':function(_0x149e68,_0x5282fe){return _0x149e68(_0x5282fe);},'GPaZO':function(_0x91641b,_0x3c5a4d,_0x5a3a65){return _0x91641b(_0x3c5a4d,_0x5a3a65);},'YrFtb':_0x579269(0x5c7)+_0x579269(0x5e1),'tbOfd':_0x579269(0x232),'kCbZC':_0x579269(0x502)},_0x5ac702=document[_0x579269(0x310)+_0x579269(0x31c)](_0x3e9581[_0x579269(0x3e4)]);if(_0x5ac702){_0x5ac702[_0x579269(0x51e)+_0x579269(0x745)](_0x3e9581[_0x579269(0x358)],function(_0x5e23fc){const _0xb5f5c4=_0x579269;_0x3e9581[_0xb5f5c4(0x414)](_0x5e23fc[_0xb5f5c4(0x47e)],_0x3e9581[_0xb5f5c4(0x765)])&&_0x3e9581[_0xb5f5c4(0x22c)](searchIdols);});let _0x319c05;_0x5ac702[_0x579269(0x51e)+_0x579269(0x745)](_0x3e9581[_0x579269(0x408)],function(_0x403643){const _0x2c6eab=_0x579269,_0x414965={'ntBXA':function(_0x5b51d6){const _0x5ece8a=_0x273f;return _0x3e9581[_0x5ece8a(0x22c)](_0x5b51d6);}};_0x3e9581[_0x2c6eab(0x23b)](clearTimeout,_0x319c05),_0x319c05=_0x3e9581[_0x2c6eab(0x764)](setTimeout,()=>{const _0x3ebcc9=_0x2c6eab;_0x414965[_0x3ebcc9(0x3ee)](searchIdols);},-0x274*-0x8+-0x1a4b+0x9*0xdf);});}}function _0xfbef(){const _0x1397bd=['://ui-avat','pwdTt','.password-','ilsEN','center-cli','userSignat','2|4|3|7|0|','jerQG','📡\x20Checking','ped\x20due\x20to','XYiSS','HbHAU','\x20|\x20❌\x20Lỗi:\x20','\x20not\x20ok','sidebarSec','Mac\x20OS\x20X\x201','IGN4PSIzMC','DwJhr','1315688BDmHpW','FPJJh','❌\x20Đăng\x20nhậ','abuKD','replace','inline-blo','MYSuS','*/*','MMoRh','LIVE</span','XYBfN','vòng:\x20','an>','JyXQw','ozRof','📡\x20Server\x20S','wqUXI','table','VoFIG','iJEvk','=\x228\x22,\x20\x22Chr','BLCtT','s-live\x22>🔴\x20','mit\x0a\x0aChỉ\x20d','F0aCBkPSJN','ZkEUv','\x20\x20\x20\x20\x20\x20<p\x20s','VxISm','5px;\x20borde','✅\x20User\x20is\x20','orm:upperc','iqARB','\x27none\x27\x22>\x0a\x20','sAEOy','SbXug','ext-transf','lor:#2ed57','🚨\x20Lỗi\x20kết\x20','bIkNI','TklKt','JdvVq','Lz4KPGV2cG','oxCYC','#74b9ff','isLvC','ra\x20interne','.login-con','Cần\x20đăng\x20n','IOfyU','live.onlin','P\x0a-\x20CHỈ\x20DỪ','vi-VN','wsyrH','uGpmE','csQqA','29;\x20color:','apply','\x20idol)','Không\x20nhận','🏁\x20Vòng\x20','lkhNJ','IiByeD0iOC','🚀\x20TURBO\x20MO','userFans','empty','-size:18px','ztoYC','xlVTr','tor','\x20\x20onerror=','value','rset=UTF-8','ZXEGP','parentElem','kết\x20quả\x20ch','tent:cente','nfig:','ao!\x0a\x0aTiếp\x20','3;\x20font-we','v\x20style=\x22f','.login-btn','\x20\x20\x20📊\x20Tỉ\x20lệ','RinPN','Đã\x20đăng\x20xu','cRPHp','userGoldCo','e;\x20border-','Network\x20re','1|5','OmjPv','ĐỘ\x20PHÁ\x20IDO','udid','ACTIVE','LlmwG','userAvatar','displayUdi','blur','SZxXy','\x0a🏁\x20TURBO\x20M','🚀\x20App\x20Init','n-top:40px','PAmIc','wzElQ','\x20\x20</div>\x0a\x20','⛔\x20App\x20stop','kFBPI','\x20(từ\x20','igWpi','AWPPK','randomVect','ent/sys/us','rOfXc','vCBhV','MvbDV','checked','ODAiLz4KPG','\x20<span\x20cla','HÀNH!','\x20cursor:po','iTiGT','data','EZyVG','\x20(>\x201000\x20r','scrollHeig','35|45|70|0','tApiIdolBy','FXONY','anchorId','znGST','bPZCN','return\x20(fu','setItem','dol-avatar','jMakf','isplay:fle','\x20\x20\x20<div\x20cl','stener','\x20\x20\x20⚡\x20Tốc\x20đ','add','wqiEQ','constructo','#555\x22>ID:\x20','151472qHSOol','qSDIv','none','ng\x20tin\x20đăn','\x20padding:1','dXkEj','LiveID=','Lz4KPC9zdm','PfRog','w:\x200\x204px\x208','jECVI','Gwbvp','oạt\x20động]','hKrlN','qYQpk','userFollow','parentNode','length','-pill\x22\x20sty','958NcIfHm','LGvEl','Lv.','EzOPb','or:white;\x20','mxEoE','GPaZO','KFucp','nyCKG','Chưa\x20có\x20dữ','\x20\x20\x20\x20\x20<div\x20','MsYYg','🛑\x20Đang\x20dừn','message','trim','FZEtj','CsWYu','KQgjU','ctor(\x22retu','BeCRk','NQvHo','FtoXK','p\x20lệ','vh;\x20backgr','r-radius:1','bWVJA','\x22width:\x2050','Hfith','oODDX','HTTP\x20','iKWQJ','📊\x20Config:\x20','follows','block','SdDGI','oKXOW','17|47|13|3','TML,\x20like\x20','hắc\x20chắn\x20m','RgmnK','AcudR','54|34|3|9|','cloneNode','px;\x20height','smooth','thành\x20công','jMKXR','afjJt','op:5px;\x22>\x0a','\x20Chạy\x20VÒNG','EFLJo','Vgspb','olid\x20#fff;','wClXU','nối!\x0a\x0a','JtfiV','ministrato','jbYDo','tPOnQ','3px','ction','order-radi','.idol-card','TypeError','Unknown','100IzqAue','V2Y2lyY2xl','WuUii','hạy\x20khác!\x20','qQBML','📞\x20Calling\x20','|11|64|38|',':100%;\x20z-i','div>\x0a\x20\x20\x20\x20\x20','\x20lòng\x20đăng','\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20','t-family:s','onclick=\x22l','SvrWo','userId','xuLWO','jgyh,kasd','\x20req/s\x20|\x20T','rPtfQ','\x20<div\x20styl','ne/login','10px;\x22>⛔\x20T','vAvMW','\x20về\x20dữ\x20liệ','hật','Ij4KPGNpcm','displayUse','zfXJv','th/new/pho','uPoiH','.5;\x20max-wi','pMyeA','password','12|14|53|5','px\x20rgba(0,','RIjnX','vpgxR','thấy','QFIdt','Tool\x20suspe',';\x20padding:','i\x20hạn\x20-\x2050','LdYqM','Uvwot','numeric','bTelR','cover;\x20bor','euli/mmliv','progressCo','tTbbm','JfPny','#636e72;\x22>','action','rTGXS','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20','ight:bold;','dklXK','50\x20threads','lkRYp','UHMWA','nickName','YoiuP','qWczv','#dc3545','e)\x20{}','U3IDMwIDI1','1.0.0','EmXmg','innerHTML','khi\x20lấy\x20da','ol!','NkVVt','ase64,PHN2','dmvKp','usQsO','DỪNG!\x0a\x0a⛔\x20C','vVkTI','eaYNF','UVRdB','HqxtQ','replaceChi','or:',':\x20center;\x20','aBGRP','\x20bởi\x20người','wTeZK','mapme','iuGJU','cqFfN','uxEAo','ộ\x20CỰC\x20NHAN','fhjod','💥\x20CHẾ\x20ĐỘ\x20P','✅\x20Tìm\x20thấy','eXeHy','RItTQ','ag\x20tạm\x20thờ','keypress','\x20BÁO\x20CỰC\x20M','ODE\x20HOÀN\x20T','ring','pLDab','ên\x20hệ\x20Admi','cmTDH','idPeY','A2MCA2MCIg','HNyxv','lrPJU','14|6|4|13|','\x0a⛔\x20Đã\x20dừng','xTfsa','ing\x20initia','vqdZP','lLaiv','focus','scale(1.1)','o\x20\x22<strong','top:0;\x20lef','nNdzT','height:100','ests','lInUf','AEYAJ','ngMti','IzMCIgcj0i','\x0a💥\x20===\x20KẾT','\x20tất\x20cả\x20<s','MMLive','/537.36','px;\x20positi','wcWsa','jNlKv','ont-size:\x20','\x22macOS\x22','userCity','T\x20ĐẦU!','msHYj','dth:600px;','6;\x20grid-co','uErtx','ibzyz','xIlcw','NoBgy','HzpVX','Đăng\x20nhập\x20','Lỗi\x20kết\x20nố','XevAL','n/json,\x20te','v\x20style=\x22d','RuRZd','\x20công:\x20','GcaeU','\x20style=\x22co','ZJxNQ','.idol-cont','CwcqF','UqJkx','\x20\x20\x20\x20</div>','9|20|29|4|','\x5c(\x20*\x5c)','\x20\x20\x20⏱️\x20Thời\x20','idolGrid','NVbhn','padding:20','pZDhJ','chain','cors','RUwZm','\x20THÚC\x20CHẾ\x20','ffdzZ','rn\x20this\x22)(','jicNX','OOIFL','kground:#3','EQNfs','MzAiIGN5PS','toLowerCas','ror=\x22this.','progressBa','EVCSS','QprdA','IGZpbGw9Ii','\x20\x20\x20\x20\x20\x20\x20\x20</','g:\x205000\x20re','savedPassw','nh\x20sách\x20id','stopBtn','gUCNG','LRGYI','selected','tục?','\x20\x20\x20\x20\x20\x20\x20\x20<p','u\x20không\x20hợ','RirHL','div','<span\x20clas','Anchor\x20ID\x20','ục?','QvvSF','console','TURBO\x20MODE','hPxMr','f6;\x20color:','độ:\x20','YYDoP','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','lAtKE','⚠️\x20Nhấn\x20nút','TSEnx','CRZlJ','\x20font-size','GVUuC','random','WWDgA','|36|28|41|','quests\x20với','xcWVP','hể\x20làm\x20trì','ất\x20và\x20xóa\x20','YAhnG','NyAxNi43MT','ECxdf','pleWebKit/',':#ff4757;\x20','WelaU','olDetails','I\x20THẬT\x20SỰ\x20','UclMI','0.85rem;\x20o','Mozilla/5.','ltsCount','\x22\x20class=\x22i','\x0a\x0aBạn\x20có\x20c','e.display=','Bkrjz','ErQel','povGI','SHHcj','kkwrd','sULLS','IgY3k9IjI1','JBcfy','borderColo','display','YWOMd','selectedId',';\x20margin:2','Không\x20có\x20t','yle=\x22margi','\x20nhập\x20để\x20x','isRemember','hxqcq','-img\x22\x20oner','t:center;\x20','RIsxs','Chưa\x20có\x20mô','YourDevice','IotsY','hép\x20rate\x20c','\x20\x20<button\x20','\x20\x20\x20\x20\x20\x20\x20','iMSbH','now','/svg+xml;b','JxEuK','FViSg','<small>Vui','YuNzE1NyA1','XyMuY','while\x20(tru','mXLHE','pkyGU','grHxz','bBniq','fdABk','KJHFF','torAll','GCMog','s:center;\x20','unt','cAfay','trace','vUirh','wIYIU','data-idol-','IEKJg','fPpsu','PahNy','\x20req/s','vDkZf','ve.online/','pGATt','iner','PUASe','\x20\x20\x20\x20\x20<div>','EmmyL','DJjYw','ss=\x22idol-n','vQKvg','POST','sponse\x20was','EyrmM','9uZSIgeG1s','sywSV','ALOfD','randomKey','style=\x22bac','tất\x20cả\x20thô','font-size:','Qcdcd','er/room/','statusText','với\x20','style','djpCW','OrDIw','...','substring','rình\x20duyệt','getElement','Sfzrn','DE:\x20','title','eerjY','cXxeO','kHdQg','CẦN\x20THIẾT!',',255,0.1);','VYRAs','HOR:\x20','ZvGjh','ById','/list','MgPRw','info','ùng\x20khi\x20se','TrYQw','NG\x20KHI\x20BẠN','FYLAk','WLtPo','KGNrK','removeItem','Rirre','getTime','ror','wBXpS','pnRUx','0\x20(Macinto','ivWAv','...\x20(local','floor','VVvbe','SiVXt','EVLkT','joGUe','der:\x202px\x20s','\x22this.styl','\x20requests/','i/?name=Id','xTqDl','n:center;\x20','width','HMQIa','AnchorId(\x27','ome/141.0.','XwbOR','\x0a⚡\x20Mỗi\x20vòn','l\x20data:','EprFd','OSrir','lzGlj','GfaDo','Chưa\x20cập\x20n','.\x20Showing\x20','img\x20src=\x22','PaGcg','preventDef','LkeJb','lfVjx','DuvwZ','YmssZ','VOZyO','round:\x20rgb','WXUEg','SOFvo','0_15_7)\x20Ap','t/live/new','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x0a⚠️\x20Cảnh\x20bá','ans-serif;','s=\x22status-','tbOfd','\x20text-alig','loginConta','QpWDx','euli158.gi','GbDQv','GZhIQ','\x22\x20data-ido','zlzoM','PHÁ\x20IDOL\x20M','XAyvJ','inTime','\x20\x20\x20\x20\x20\x20\x20\x20','ZumCj','tainer','Bebfo','/4231/1529','loginAPI..','\x5c+\x5c+\x20*(?:[','TREah','ocation.re','Wmylo',';\x20margin-t','WtYrW','lccha','\x20liệu\x20idol','data:image','CdGAW','12px\x2030px;','customRequ','zVaat','uuid','userLevel','n/json;cha','JaGVi','No\x20descrip','xmjND','forEach','KfnLf','n-top:20px','|40|26|46|','s/vòng\x20-\x201','rswwL','bqXsk','search','IEIDt','textConten','Jmsuy','bAtla','yzHMJ','m\x20trọng\x0a-\x20','\x20\x20\x20\x20style=','b3g9IjAgMC','qIenT','ain\x20UI\x20imm','Tyupr','parse','IwMDAvc3Zn','62892QUovzB','ZNJlf','|27|39|16|','signature','ars.com/ap','\x20DỪNG\x20để\x20k','0.0\x20Safari','AiCsF','ành\x20hoặc\x20d','qRDIR','<p\x20style=\x22','#28a745','r;\x20gap:5px','UVGkS','XIlHb','nded\x20by\x20Ad','\x20\x20\x20\x20\x20</div','gger','KTpTI','\x20<strong>','YTqDB','cXJcD','MCA0NVY1ME','287BQlWGj','g\x0a-\x20Tốc\x20độ','ify-conten','WsCbs','displayLog','qAXUO','USMQh','HPTcm','load()\x22\x20st','rver\x20cho\x20p','transform','A6Ly93d3cu','NywIZ','GnJoH','\x20dùng!','i\x20-\x20Kiểm\x20t',':16px;\x20tra','name','GdBhm','toFixed','QKybX','hfqpu','IdMKP','GNwah','271PwtTEn','YZMTg','N/A','src=\x27https','#6c757d','progressTe','HÔNG\x20BÁO\x20H','H\x20(có\x20thể\x20','kBslA','wwaCu','gtTSP','|57|30|2|6','Weegi','QvONi','\x20cho\x20đến\x20k','ộ\x20trung\x20bì','PuTBg','ent/sys/au','CmMkk','MBlIZ','255,0.3);\x20','substr','acUZJ','định','align-item','desc\x22>','\x20tả','yhHYH','radius:50p','CiAQz','var(--acce','MTAgNDVDMT','hập\x20trước\x20','ZdUhE','tEQlw','YrFtb','loginTime','\x20box-shado','TvDVv','Ệ\x20THỐNG</h','ZmQpE','gpqkU','wuiiB','x;\x20font-we','rvuZz','ntBXA','ainer','GvnEz','inter;\x20bac','nction()\x20','vNlUR','\x20\x20<div\x20cla','KMKCa','#ff7675','dol-index=','AugaK','zIQSw','NrNKM','hờ\x20hoàn\x20th','\x22Google\x20Ch','function\x20*','JUUKo','zeKob','kGMXk','afuPk','Fynwq','upjxy','gOddv','{}.constru','ndex:99999','hạy\x20','kCbZC','a-zA-Z_$][','ZlcZD',';\x22>\x0a\x20\x20\x20\x20\x20\x20','qgNMN','ặn\x20rate\x20li','41\x22,\x20\x22Not?','savEH','debu','71|58','hi\x20bạn\x20dừn','string','GpEOo','classList','Không\x20tìm\x20','PyRVQ','🔥\x20Vòng\x20lặp','9|42|22|51','ound:#f1f2','\x20logged\x20in','JEuMk','fans','SPizn','HCeSo','\x20-\x20','Igcnk9Ijgi','CFrUL','\x20có\x20idol\x20n','m\x20thấy\x20kết','Gecko)\x20Chr','LhEdT','ẠNH:\x0a-\x20Chạ','🔄\x20Tổng\x20số\x20','tion','THZlI','user_id','📋\x20Hiển\x20thị','aPtzw','g\x20lại...','mSRlj','KTGHx','\x20\x20\x20<div\x20st','userInfoSe','\x20CỰC\x20NHANH','WCnNW','ymrbm','#55efc4','ss=\x22status','KFbYP','FUqow','scale(1)','QsfzA','split','olInfo','o:\x0a-\x20Tốc\x20đ','FocGY','GkMel','ZLEBs','#f1c40f;\x20t','Không\x20xác\x20','src','KxqpU','xt/plain,\x20','qYsut','eZBVt','Login\x20UI.','SWHJO','filter','pETpq','jdJIh','init','eEddM','RdxMQ','JyVNU','QbyKH','lgHkV','kwVmF','ohamJ','goldCoin','Đang\x20có\x20ti','t/live/int','onerror','dVShO','arEkD','oxZXl','splice','nh\x20duyệt\x20l','ồng\x20thời!\x0a','lGFAA','nickname','flex','BtPAj','G\x20THÁI:\x20','searchResu','device_id','8;\x22>Live\x20I','TWnQU','HSBox\x20','ChkRK','ppxXJ','padding:\x205','toString','3|0|4|2|6|','marginBott','TNZFw','hsoUC','0,0,0.1);\x22','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20','fbKeb','getAttribu','remove','ound:#0f0c','n\x20từ\x20serve','passwordEr','s:\x20center;','CKcYK','HKZQu','PZRsQ','key','rome\x22;v=\x221','MwdKE','BRPjU','text','lumn;\x20just','sLNRA','sEVRG','A_Brand\x22;v','pacity:\x200.','2|37|66|31','CDzsG','QnZnp','#ffc107','g\x20nhập','dol...<br>','vmdtf','logged\x20in.','e=\x22color:\x20','contact','>⚫\x20OFF</sp','lJFVU','iDpxm','trong>','card\x22\x20oncl','View','WXNOi','\x20LẶP\x20KHÔNG','le=\x22backgr','\x20hoàn\x20thàn','wLAyE','yFBWc','\x20\x20\x20</div>\x0a','\x20threads\x20h','\x20quả\x20cho\x20\x22','2|9|11|8|0','\x20150\x20threa','XJdTq','7|23|62|60','(((.+)+)+)','#a4b0be','userNickna','all\x200.1s','SJqQv','10|3|12|7|','FIloP','FtGMN','Chưa\x20có\x20ch','\x20threads\x20đ','|24|68|49|','\x20thể\x20làm\x20t','4|3|1|2|0','fudJw','son','FexBJ','khi\x20chạy!','eTkSE','bHuyb','nsition:al','atus...','44|15|50|1','MpKaj','8952449hPQeZY','YiXpq','ữ\x20ký','KtPsR','iWbsi','yle=\x22displ','applicatio','fVOSo','LAaQA','idol','aWdodD0iNj','Panel','ault','prototype','SoYcq','RsRrN','omium\x22;v=\x22','</span>\x0a\x20\x20',']</span>\x20','Sẵn\x20sàng','HoUWg','ase;\x22>TRẠN','QEaxK','\x20\x20\x20<h3\x20sty','warn','ZZqAN','ATDMd','a(255,255,','le=\x22color:','#17a2b8','dhxkR','YYfeO','zAMZF','jypJx','teway.mmli','HỈ\x20DÙNG\x20KH','NKWZN','KQZiH','JXLhZ','log','px\x2010px;\x20b','KpFvU','fNEfl',',\x20AnchorID','csabc','yle=\x22color','requests:\x20','\x20được\x20toke','aQqzJ','9|5|65|43|','2-digit','i\x20mạng','yyLGn','lCepR','Config\x20Err','nhập...','i\x0a-\x20Server','#667eea','từ\x20','indexOf','uid','5|3|1|2|4|','Qbfbx','ass=\x22idol-','anh\x20sách\x20i','TFgxd','<span\x20styl','zYEbz','</strong>\x20','ight:\x20800;','input','ace;\x20backg','OaPgj','25|18|7|6|','\x20\x20\x20\x20<h1\x20st','ediately.','error','ổng:\x20','zTula','FhrVo','vxAjO','xGfpJ','OBDgN','ing\x20data:','savedMobil','WkhqK','TMJvK','\x20Vòng\x20','ttkMV','meString','lPlQM','eUSLu','LhMXq','InfoHere','NGRkM2MDci','lrHFj','rLSzA','ến\x20trình\x20c','addEventLi','FNdew','fromCharCo','viQvD','koEVW','ào</p>','nt-color)','KDfTQ','IZQID','\x20không\x20giớ','ay:flex;\x20j','</strong>\x22','white;\x20fon','pill\x20statu','iyOPw','\x20remote\x20st','then','mbgcY','537.36\x20(KH','SxUEN','horId','ℹ️\x20User\x20not','MzAgNTAgMz','AeKTy','HjZkh','💥\x20Phá\x20Idol','6|5|1','498db;\x20col','sOrNC','getItem','code','xBydz','ZmlsbD0ibm','2.5.0','1>\x0a\x20\x20\x20\x20\x20\x20\x20','HMbNG','authToken','ZyB3aWR0aD','HOLvh','text-align','p\x20thất\x20bại','40px;\x20marg','ết\x20thúc!\x0a','1|4|5|3|0|','>\x201000\x20req','NTeAT','stringify','UljES','0px;\x20margi','1044234ZHIsmK','xMMuf','ject-fit:\x20','ustify-con','https://ti','w9IiNGRkY5','❌\x20Không\x20tì','KFsjl','Server\x20có\x20','rection:co','IIpRs','scale(1.02','appendChil','ừng\x20lại.','ds\x0a\x0a⚠️\x20CẢNH','L\x20===','s-offline\x22','ent','zcdmm','gxMFY0NVoi','https://mm','fWvTd','uQuIn','epvhR','ch\x20idol</s','nZJxX','bind','HÁ\x20IDOL\x20BẮ','deviceId','l\x200.3s;\x22>T','AIUfa','color:\x20#66','ick=\x22selec','haHyC','\x20Showing\x20M','#e1e1e1','runResults','</p>\x0a\x20\x20\x20\x20\x20','saZvO','kHoWD','vVaTc','AwgyS','ly:\x20monosp','IDMwSDM1Qz','uốn\x20tiếp\x20t','RHYoh','liveStatus','oOsxB','odedc','avatar','\x20GIỚI\x20HẠN!','📊\x20TỔNG\x20KẾT','kGEGv','ihHWa','xCLPi','cJPcO','</h3>\x0a\x20\x20\x20\x20','YjTKJ','counter','\x20có\x20thể\x20ch','ajUUh','0px\x200;\x20lin','e_config.j','HÁ\x20IDOL\x0a\x0a🔥','\x20\x20\x20📈\x20Tổng\x20','live-clien','rId','141\x22','bnM9Imh0dH','push','ay:\x20flex;\x20','toLocaleDa','MzAiIGZpbG','fCqym','nh:\x20','\x20\x20\x20❌\x20Lỗi:\x20','\x22\x20alt=\x22','iwhcy','nearest','\x20remote\x20co','zLGYB','exception','1.0.2','e=\x22font-we','sh;\x20Intel\x20','initApp','ZVsXZ','GxHIn','hZmsO','QzLjI4NDMg',':18px;\x20mar','wJZtO','s:\x2050%;\x20ob','gWjPb','rBwKN','UGlrg','in-bottom:','8|10|52|63','ord','kFuug','utnwF','yAggT','PGsxY','lumn:\x201\x20/\x20','RHuoi','PmhJv','Rlqox','RHbio','odgip','Xeuax','GDEKC','NsZSBjeD0i','EbSny','XJJuX','eaMkl','Kkzho','\x20BẮT\x20ĐẦU\x20=','Server\x20trả','all','thất\x20bại','idolSearch',':\x2050px;\x20bo','setInterva','us:\x208px;\x22>','D:\x20','ol\x27\x22>\x0a\x20\x20\x20\x20','Dqqcd','SyntaxErro','AgMzYuNzE1','reAtC','bzSSm','0-9a-zA-Z_','\x20NHẤN\x20NÚT\x20','thub.io/Ti','\x20gap:\x2015px','uSQPy','hyzzJ','\x20\x20\x20\x20\x20\x20\x20ANC','STkbn','-1;\x20paddin','vRXTh','kground:rg','FbTdH','aqMZT','pLiog','oWAlG','Input','Vui\x20lòng\x20c','61|21|56|1','\x20(random)','gCFTF','scrollInto','y\x20LIÊN\x20TỤC','r\x20via\x20Remo','submit','ải\x20lại\x20tra','tyle=\x22font','em\x20danh\x20sá','XmamD','QBgTn','msg','AiIHZpZXdC','Error\x20load','s\x20|\x20⚡\x20Tốc\x20','pxlIW','PXpYY','gian:\x20','sELYq','sRmez','l-id=\x22','tatus:','__proto__','type','xAptZ','liveId','rIAZT','loginForm','JiQLK','test','DZnGb','\x20thành\x20côn','CptFc','Sffzo','udCgp','dzMub3JnLz','nSeob','g:\x20','pqXeq','x;\x20flex-di','Lrtea','woMVw','kUazH','NWTfV','displayAnc','body','QxQTP','vCcvF','createElem','\x20\x20\x20\x20\x20\x20\x20\x20\x20<','ndSJP','!\x0a\x0a','\x20\x20\x20⏱️\x20Tổng\x20','HgiOf','IRZbm','gin:0;\x22>Li','LjsIh','ZWapD','success','thể\x20chặn\x20I','#fff','gKrfl','Turbo\x20Mode','ure','gOPyt','<img\x20src=\x22','HcPOu','KZqwK','👁️','sub','find','10dUfPAO','fShDR','xNnCZ','city','wCJes','negFF','rder-radiu','OEIfY','https://ga','tTzdk','/s)\x0a-\x20Có\x20t','vNvqn','toLocaleSt','n:\x20','TTwCh','Đang\x20tải\x20d','hDaFC','\x20lag\x20nghiê','\x20threads!','RPbWm','WAIGP','\x20\x20\x20\x20\x20\x20\x20<di','0iNjAiIGhl','json','ight:\x20700;','\x20\x20\x20✅\x20Thành','AnjxX','uZVyY','wndVs','race','Zsufo','GPDlI','er/get/inf','jtKLk','VKmfU','LDCbz','ba(255,255','same-site','|1|5','thời\x20gian:','eOKIT','teString','FGqkx','ng</button','g:\x2040px;\x22>','00\x20request','pgPex','IHwTG','transition','t:0;\x20width','stiAY','ODE\x20hoàn\x20t','<strong>','querySelec','status','desc','UsOjP','toISOStrin','eq/s)\x0a-\x20Có','DrGWw','rsKsB','e-height:1','Đang\x20đăng\x20','</div>\x0a\x20\x20\x20','xQscO','true','token','giây','TFtEb','email','qferm','mall></p>','on:fixed;\x20','PRFBf','disabled','stateObjec','HOvXj','OCnwU','zHXhg','wNgkd','WpvKC','\x0a🔄\x20===\x20VÒN','IAjxU','zxjkx','ximAe','SlyLK','emailError','call','33|55|48|6','hành!','izoPw','includes','oxqzP','?v=','scale(0.95','te\x20Config','isArray','\x20font-fami','Enter','toLocaleTi','LkTbZ','ializing..','toggle','ZEfzU','scrollTop','UpsXF','zRcdy','vUaIa','\x27)\x22\x20data-i','color','ZDsNI','charCodeAt','FEloe','remember','prUxJ','DE\x0a\x0a⚡\x20Sẽ\x20c','ILVKG',':\x201.1rem;\x22','\x20requests\x20','-1;\x22>Không','577374ILyJPu','wVdai','border:non','IlLNU','ame\x22>','JsLcg','$]*)','bCEXI'];_0xfbef=function(){return _0x1397bd;};return _0xfbef();}function getGuid(){const _0x231161=_0xb46521,_0xa678f9={'FGqkx':function(_0x27d1c4,_0x44ab25){return _0x27d1c4*_0x44ab25;},'BRPjU':_0x231161(0x2d1)+_0x231161(0x519),'jMKXR':function(_0x20c45a,_0x2856a1){return _0x20c45a(_0x2856a1);}},_0xfcc638=new Date()[_0x231161(0x328)](),_0x322212=Math[_0x231161(0x32f)](_0xa678f9[_0x231161(0x655)](Math[_0x231161(0x2a5)](),0x2386f26fc10000)),_0x23efa9=_0xa678f9[_0x231161(0x481)],_0x2a6dac=''+_0xfcc638+_0x322212+_0x23efa9,_0x577366=_0xa678f9[_0x231161(0x78c)](md5,_0x2a6dac)[_0x231161(0x3d6)](0x5*0x3c7+-0x116b+-0x4*0x5e,-0x160c+0x3f*-0x91+0x1349*0x3);return _0x577366;}async function loginAPI(_0xb7b6f0,_0x2af603){const _0xeefbf5=_0xb46521,_0x2990ca={'ZVsXZ':function(_0x142716){return _0x142716();},'wNgkd':function(_0x5224ed,_0x5d650d){return _0x5224ed(_0x5d650d);},'TSEnx':function(_0x1e3ed4,_0x454f85){return _0x1e3ed4(_0x454f85);},'SxUEN':_0xeefbf5(0x5a1),'cXxeO':_0xeefbf5(0x213),'qYQpk':function(_0x1894b2,_0x11f66e,_0x4ea45f){return _0x1894b2(_0x11f66e,_0x4ea45f);},'kFuug':_0xeefbf5(0x633)+_0xeefbf5(0x4de)+_0xeefbf5(0x2f3)+_0xeefbf5(0x6af)+_0xeefbf5(0x3d2)+_0xeefbf5(0x1ed)+_0xeefbf5(0x7b3),'SPizn':_0xeefbf5(0x2fc),'djpCW':_0xeefbf5(0x4c2)+_0xeefbf5(0x264)+_0xeefbf5(0x446)+_0xeefbf5(0x6c4),'pxlIW':_0xeefbf5(0x250),'Lrtea':_0xeefbf5(0x4c2)+_0xeefbf5(0x379)+_0xeefbf5(0x704),'rsKsB':_0xeefbf5(0x563)+_0xeefbf5(0x6ee)+'e','FYLAk':_0xeefbf5(0x563)+_0xeefbf5(0x6ee)+'e/','QbyKH':_0xeefbf5(0x3fc)+_0xeefbf5(0x47f)+_0xeefbf5(0x40e)+_0xeefbf5(0x486)+_0xeefbf5(0x6d1)+_0xeefbf5(0x4cc)+_0xeefbf5(0x592),'GvnEz':_0xeefbf5(0x256),'TTwCh':_0xeefbf5(0x6fd),'mxEoE':_0xeefbf5(0x277),'SJqQv':_0xeefbf5(0x650),'SbXug':_0xeefbf5(0x2b6)+_0xeefbf5(0x32c)+_0xeefbf5(0x5a3)+_0xeefbf5(0x6ba)+_0xeefbf5(0x352)+_0xeefbf5(0x2af)+_0xeefbf5(0x530)+_0xeefbf5(0x783)+_0xeefbf5(0x425)+_0xeefbf5(0x33d)+_0xeefbf5(0x398)+_0xeefbf5(0x251),'NrNKM':_0xeefbf5(0x53f),'GkMel':_0xeefbf5(0x5c4)+_0xeefbf5(0x1e8)+_0xeefbf5(0x291)+_0xeefbf5(0x774),'WuUii':function(_0x1720d0,_0x1240d8){return _0x1720d0===_0x1240d8;},'wTeZK':_0xeefbf5(0x46e)+_0xeefbf5(0x715),'Sfzrn':_0xeefbf5(0x542),'KTpTI':_0xeefbf5(0x718),'grHxz':_0xeefbf5(0x72a)+'or','YAhnG':_0xeefbf5(0x6f7)+_0xeefbf5(0x4eb)+_0xeefbf5(0x478)+'r','DwJhr':_0xeefbf5(0x302),'xCLPi':_0xeefbf5(0x261)+_0xeefbf5(0x78b),'DuvwZ':_0xeefbf5(0x3e5),'iTiGT':_0xeefbf5(0x262)+_0xeefbf5(0x4ef),'FIloP':_0xeefbf5(0x79d),'AugaK':_0xeefbf5(0x262)+_0xeefbf5(0x3b8)+_0xeefbf5(0x6ea)+'t','mbgcY':function(_0x3a5e34,_0x455d1c){return _0x3a5e34===_0x455d1c;},'udCgp':_0xeefbf5(0x5ce)+'r'},_0x17cd33=new Date()[_0xeefbf5(0x328)](),_0x562197=_0x2990ca[_0xeefbf5(0x5a5)](getGuid),_0x569e25=_0x2990ca[_0xeefbf5(0x67a)](md5,_0x562197+_0xeefbf5(0x7af)+_0x17cd33),_0x27e449=_0x2990ca[_0xeefbf5(0x2a1)](md5,_0x562197+_0xeefbf5(0x7af)+_0x17cd33),_0x34098c={'os':0x0,'sign':_0x569e25,'timestamp':_0x17cd33,'udid':_0x562197,'model':'PC','mobile':_0xb7b6f0,'password':_0x2af603,'version':_0x2990ca[_0xeefbf5(0x531)],'softVersion':_0x2990ca[_0xeefbf5(0x315)]};try{const _0x146b2a=await _0x2990ca[_0xeefbf5(0x759)](fetch,_0x2990ca[_0xeefbf5(0x5b2)],{'method':_0x2990ca[_0xeefbf5(0x41e)],'headers':{'accept':_0x2990ca[_0xeefbf5(0x30b)],'accept-language':'VI','appid':_0x2990ca[_0xeefbf5(0x5f3)],'content-type':_0x2990ca[_0xeefbf5(0x60c)],'n-l':'Y','origin':_0x2990ca[_0xeefbf5(0x667)],'os':'0','p-g':'N','referer':_0x2990ca[_0xeefbf5(0x323)],'sec-ch-ua':_0x2990ca[_0xeefbf5(0x452)],'sec-ch-ua-mobile':'?0','sec-ch-ua-platform':_0x2990ca[_0xeefbf5(0x3f0)],'sec-fetch-dest':_0x2990ca[_0xeefbf5(0x639)],'sec-fetch-mode':_0x2990ca[_0xeefbf5(0x763)],'sec-fetch-site':_0x2990ca[_0xeefbf5(0x4a9)],'user-agent':_0x2990ca[_0xeefbf5(0x6df)],'x-appversion':_0x2990ca[_0xeefbf5(0x3fa)],'x-language':'VI','x-sign':_0x27e449,'x-timestamp':_0x17cd33[_0xeefbf5(0x46d)](),'x-udid':_0x562197},'body':JSON[_0xeefbf5(0x54c)](_0x34098c)});let _0xc081c7;try{_0xc081c7=await _0x146b2a[_0xeefbf5(0x642)]();}catch(_0x488635){return{'success':![],'error':_0x2990ca[_0xeefbf5(0x440)]};}if(_0x146b2a['ok']&&_0x2990ca[_0xeefbf5(0x7a1)](_0xc081c7[_0xeefbf5(0x53c)],-0x7f2+-0x2313+0x2b05)){const _0x33655d=_0x2990ca[_0xeefbf5(0x226)][_0xeefbf5(0x43c)]('|');let _0x2a5572=-0x1149*-0x1+-0x26ae+-0x1*-0x1565;while(!![]){switch(_0x33655d[_0x2a5572++]){case'0':localStorage[_0xeefbf5(0x740)](_0x2990ca[_0xeefbf5(0x311)],_0xc081c7[_0xeefbf5(0x735)][_0xeefbf5(0x66d)]);continue;case'1':localStorage[_0xeefbf5(0x740)](_0x2990ca[_0xeefbf5(0x3a4)],_0x562197);continue;case'2':localStorage[_0xeefbf5(0x740)](_0x2990ca[_0xeefbf5(0x2e1)],_0xc081c7[_0xeefbf5(0x735)][_0xeefbf5(0x72a)+'or']||'');continue;case'3':if(!_0xc081c7[_0xeefbf5(0x735)]||!_0xc081c7[_0xeefbf5(0x735)][_0xeefbf5(0x66d)])return{'success':![],'error':_0x2990ca[_0xeefbf5(0x2ac)]};continue;case'4':localStorage[_0xeefbf5(0x740)](_0x2990ca[_0xeefbf5(0x6bc)],_0xc081c7[_0xeefbf5(0x735)][_0xeefbf5(0x302)]||'');continue;case'5':return{'success':!![],'data':_0xc081c7[_0xeefbf5(0x735)],'message':_0xc081c7[_0xeefbf5(0x5ef)]||_0x2990ca[_0xeefbf5(0x585)]};case'6':localStorage[_0xeefbf5(0x740)](_0x2990ca[_0xeefbf5(0x34c)],new Date()[_0xeefbf5(0x664)+'g']());continue;}break;}}else{const _0x5b360d=_0xc081c7[_0xeefbf5(0x5ef)]||_0xc081c7[_0xeefbf5(0x76b)]||_0xeefbf5(0x77b)+_0x146b2a[_0xeefbf5(0x661)]+':\x20'+_0x146b2a[_0xeefbf5(0x308)];return{'success':![],'error':_0x5b360d};}}catch(_0x4fd34a){let _0x43e0b5=_0x2990ca[_0xeefbf5(0x734)];if(_0x2990ca[_0xeefbf5(0x7a1)](_0x4fd34a[_0xeefbf5(0x3ba)],_0x2990ca[_0xeefbf5(0x4ab)]))_0x43e0b5=_0x2990ca[_0xeefbf5(0x3f8)];else{if(_0x2990ca[_0xeefbf5(0x52f)](_0x4fd34a[_0xeefbf5(0x3ba)],_0x2990ca[_0xeefbf5(0x606)]))_0x43e0b5=_0x2990ca[_0xeefbf5(0x440)];else{if(_0x4fd34a[_0xeefbf5(0x76b)])_0x43e0b5=_0x4fd34a[_0xeefbf5(0x76b)];}}return{'success':![],'error':_0x43e0b5};}}function isLoggedIn(){const _0x18341f=_0xb46521,_0x3fb950={'PXpYY':_0x18341f(0x542),'AiCsF':function(_0x2ce2ea,_0x3149a6){return _0x2ce2ea>_0x3149a6;}},_0x42098a=localStorage[_0x18341f(0x53b)](_0x3fb950[_0x18341f(0x5f4)]);return _0x42098a&&_0x3fb950[_0x18341f(0x399)](_0x42098a[_0x18341f(0x75c)],0x6a6+-0x485+-0x221);}function getLoginInfo(){const _0x55c776=_0xb46521,_0x196a71={'idPeY':_0x55c776(0x542),'vmdtf':_0x55c776(0x302),'ttkMV':_0x55c776(0x72a)+'or','wwaCu':_0x55c776(0x3e5)};return{'token':localStorage[_0x55c776(0x53b)](_0x196a71[_0x55c776(0x239)]),'randomKey':localStorage[_0x55c776(0x53b)](_0x196a71[_0x55c776(0x48e)]),'randomVector':localStorage[_0x55c776(0x53b)](_0x196a71[_0x55c776(0x514)]),'loginTime':localStorage[_0x55c776(0x53b)](_0x196a71[_0x55c776(0x3ca)])};}function logout(){const _0x28dd3a=_0xb46521,_0x373538={'sEVRG':_0x28dd3a(0x4f9)+'0','Tyupr':_0x28dd3a(0x710)+_0x28dd3a(0x2ab)+_0x28dd3a(0x304)+_0x28dd3a(0x74e)+_0x28dd3a(0x48c),'cXJcD':_0x28dd3a(0x72a)+'or','EbSny':_0x28dd3a(0x3e5),'hPxMr':_0x28dd3a(0x302),'BLCtT':_0x28dd3a(0x718),'oxCYC':_0x28dd3a(0x542)},_0x1b5f40=_0x373538[_0x28dd3a(0x485)][_0x28dd3a(0x43c)]('|');let _0x50cc3b=0x9b5*0x4+0x19e9+-0x40bd;while(!![]){switch(_0x1b5f40[_0x50cc3b++]){case'0':console[_0x28dd3a(0x4e3)](_0x373538[_0x28dd3a(0x38f)]);continue;case'1':localStorage[_0x28dd3a(0x326)](_0x373538[_0x28dd3a(0x3a7)]);continue;case'2':localStorage[_0x28dd3a(0x326)](_0x373538[_0x28dd3a(0x5bf)]);continue;case'3':localStorage[_0x28dd3a(0x326)](_0x373538[_0x28dd3a(0x29a)]);continue;case'4':localStorage[_0x28dd3a(0x326)](_0x373538[_0x28dd3a(0x6d2)]);continue;case'5':localStorage[_0x28dd3a(0x326)](_0x373538[_0x28dd3a(0x6e7)]);continue;}break;}}function getTokenData(){const _0x4c992d=_0xb46521,_0x41756b={'YiXpq':_0x4c992d(0x542),'XYBfN':function(_0x3cbd7e,_0x53646f){return _0x3cbd7e!==_0x53646f;},'AeKTy':function(_0x395f62,_0x491595){return _0x395f62%_0x491595;},'QFIdt':function(_0x55a2a1,_0x4756a1){return _0x55a2a1(_0x4756a1);}},_0x463687=localStorage[_0x4c992d(0x53b)](_0x41756b[_0x4c992d(0x4bd)]);if(!_0x463687)return{'userId':null,'udid':null};try{const _0x224188=_0x463687[_0x4c992d(0x43c)]('.');if(_0x41756b[_0x4c992d(0x6c7)](_0x224188[_0x4c992d(0x75c)],-0x4*-0x502+-0xdc5+-0x64*0x10))return{'userId':null,'udid':null};let _0x156cd3=_0x224188[0x1593+0x232a+-0x38bc];_0x156cd3=_0x156cd3[_0x4c992d(0x6c1)](/-/g,'+')[_0x4c992d(0x6c1)](/_/g,'/');while(_0x41756b[_0x4c992d(0x535)](_0x156cd3[_0x4c992d(0x75c)],0x72c+-0x1*-0x98b+-0x3*0x591)){_0x156cd3+='=';}const _0x551e72=_0x41756b[_0x4c992d(0x1f7)](atob,_0x156cd3),_0x1d8ee7=JSON[_0x4c992d(0x390)](_0x551e72),_0x1e421d=_0x1d8ee7[_0x4c992d(0x7ad)]||_0x1d8ee7['id']||_0x1d8ee7[_0x4c992d(0x629)]||_0x1d8ee7[_0x4c992d(0x42b)]||_0x1d8ee7[_0x4c992d(0x4f8)],_0x4057b1=_0x1d8ee7[_0x4c992d(0x718)]||_0x1d8ee7[_0x4c992d(0x56b)]||_0x1d8ee7[_0x4c992d(0x466)]||_0x1d8ee7[_0x4c992d(0x377)];return{'userId':_0x1e421d,'udid':_0x4057b1};}catch(_0x15d12b){return{'userId':null,'udid':null};}}async function getUserInfo(){const _0x1baa1d=_0xb46521,_0x468ab4={'DrGWw':function(_0x185851){return _0x185851();},'nZJxX':function(_0x1f48b8){return _0x1f48b8();},'pwdTt':_0x1baa1d(0x718),'zIQSw':function(_0x213ba6,_0x5e2501){return _0x213ba6(_0x5e2501);},'STkbn':function(_0x341a56,_0x41867e,_0x2a990f){return _0x341a56(_0x41867e,_0x2a990f);},'QprdA':_0x1baa1d(0x633)+_0x1baa1d(0x4de)+_0x1baa1d(0x2f3)+_0x1baa1d(0x6af)+_0x1baa1d(0x72b)+_0x1baa1d(0x64b)+'o','AwgyS':_0x1baa1d(0x2fc),'lGFAA':_0x1baa1d(0x4c2)+_0x1baa1d(0x264)+_0x1baa1d(0x446)+_0x1baa1d(0x6c4),'wClXU':_0x1baa1d(0x250),'rLSzA':_0x1baa1d(0x4c2)+_0x1baa1d(0x379)+_0x1baa1d(0x704),'uErtx':_0x1baa1d(0x563)+_0x1baa1d(0x6ee)+'e','rIAZT':_0x1baa1d(0x563)+_0x1baa1d(0x6ee)+'e/','gOddv':_0x1baa1d(0x3fc)+_0x1baa1d(0x47f)+_0x1baa1d(0x40e)+_0x1baa1d(0x486)+_0x1baa1d(0x6d1)+_0x1baa1d(0x4cc)+_0x1baa1d(0x592),'iJEvk':_0x1baa1d(0x256),'uQuIn':_0x1baa1d(0x6fd),'THZlI':_0x1baa1d(0x277),'NWTfV':_0x1baa1d(0x650),'ZlcZD':_0x1baa1d(0x2b6)+_0x1baa1d(0x32c)+_0x1baa1d(0x5a3)+_0x1baa1d(0x6ba)+_0x1baa1d(0x352)+_0x1baa1d(0x2af)+_0x1baa1d(0x530)+_0x1baa1d(0x783)+_0x1baa1d(0x425)+_0x1baa1d(0x33d)+_0x1baa1d(0x398)+_0x1baa1d(0x251),'fCqym':_0x1baa1d(0x53f),'SHHcj':function(_0x337000,_0x579146){return _0x337000===_0x579146;}},_0x14e5b6=_0x468ab4[_0x1baa1d(0x666)](getLoginInfo);if(!_0x14e5b6[_0x1baa1d(0x66d)])return null;const _0x9e5c52=_0x468ab4[_0x1baa1d(0x568)](getTokenData),_0x4b278d=_0x9e5c52[_0x1baa1d(0x718)]||localStorage[_0x1baa1d(0x53b)](_0x468ab4[_0x1baa1d(0x6ac)])||_0x468ab4[_0x1baa1d(0x568)](getGuid),_0x5a7ca1=new Date()[_0x1baa1d(0x328)](),_0x53829e=_0x468ab4[_0x1baa1d(0x3f9)](md5,_0x4b278d+_0x1baa1d(0x7af)+_0x5a7ca1);try{const _0x1bec57=await _0x468ab4[_0x1baa1d(0x5d9)](fetch,_0x468ab4[_0x1baa1d(0x285)],{'method':_0x468ab4[_0x1baa1d(0x578)],'headers':{'accept':_0x468ab4[_0x1baa1d(0x460)],'accept-language':'VI','appid':_0x468ab4[_0x1baa1d(0x793)],'authorization':_0x1baa1d(0x469)+_0x14e5b6[_0x1baa1d(0x66d)],'content-type':_0x468ab4[_0x1baa1d(0x51c)],'n-l':'Y','origin':_0x468ab4[_0x1baa1d(0x25c)],'os':'0','p-g':'N','referer':_0x468ab4[_0x1baa1d(0x5fe)],'sec-ch-ua':_0x468ab4[_0x1baa1d(0x404)],'sec-ch-ua-mobile':'?0','sec-ch-ua-platform':_0x468ab4[_0x1baa1d(0x6d0)],'sec-fetch-dest':_0x468ab4[_0x1baa1d(0x565)],'sec-fetch-mode':_0x468ab4[_0x1baa1d(0x42a)],'sec-fetch-site':_0x468ab4[_0x1baa1d(0x60f)],'user-agent':_0x468ab4[_0x1baa1d(0x40a)],'x-appversion':_0x468ab4[_0x1baa1d(0x598)],'x-language':'VI','x-sign':_0x53829e,'x-timestamp':_0x5a7ca1[_0x1baa1d(0x46d)](),'x-udid':_0x4b278d},'body':JSON[_0x1baa1d(0x54c)]({'os':0x0})}),_0x39240c=await _0x1bec57[_0x1baa1d(0x642)]();return _0x468ab4[_0x1baa1d(0x2be)](_0x39240c[_0x1baa1d(0x53c)],-0x2435+0x56*-0x52+0x1*0x3fc1)&&_0x39240c[_0x1baa1d(0x735)]?_0x39240c[_0x1baa1d(0x735)]:null;}catch(_0x1357ff){return null;}}async function getIdolList(){const _0x2f2d7e=_0xb46521,_0x206a7d={'RsRrN':function(_0x1096f2){return _0x1096f2();},'WXNOi':_0x2f2d7e(0x6ec)+_0x2f2d7e(0x3e1)+_0x2f2d7e(0x216)+_0x2f2d7e(0x28a)+_0x2f2d7e(0x217),'TvDVv':function(_0x5338e6){return _0x5338e6();},'jypJx':_0x2f2d7e(0x718),'zTula':function(_0x46d107,_0x5db0f9){return _0x46d107(_0x5db0f9);},'povGI':function(_0x3a1ec8,_0x37db1a,_0x53a274){return _0x3a1ec8(_0x37db1a,_0x53a274);},'HoUWg':_0x2f2d7e(0x633)+_0x2f2d7e(0x4de)+_0x2f2d7e(0x2f3)+_0x2f2d7e(0x590)+_0x2f2d7e(0x353)+_0x2f2d7e(0x368)+_0x2f2d7e(0x31d),'savEH':_0x2f2d7e(0x2fc),'XwbOR':_0x2f2d7e(0x4c2)+_0x2f2d7e(0x264)+_0x2f2d7e(0x446)+_0x2f2d7e(0x6c4),'qSDIv':_0x2f2d7e(0x250),'cqFfN':_0x2f2d7e(0x4c2)+_0x2f2d7e(0x379)+_0x2f2d7e(0x704),'vUaIa':_0x2f2d7e(0x563)+_0x2f2d7e(0x6ee)+'e','KQZiH':_0x2f2d7e(0x563)+_0x2f2d7e(0x6ee)+'e/','xlVTr':_0x2f2d7e(0x3fc)+_0x2f2d7e(0x47f)+_0x2f2d7e(0x40e)+_0x2f2d7e(0x486)+_0x2f2d7e(0x6d1)+_0x2f2d7e(0x4cc)+_0x2f2d7e(0x592),'LRGYI':_0x2f2d7e(0x256),'IOfyU':_0x2f2d7e(0x6fd),'HcPOu':_0x2f2d7e(0x277),'IotsY':_0x2f2d7e(0x650),'rswwL':_0x2f2d7e(0x2b6)+_0x2f2d7e(0x32c)+_0x2f2d7e(0x5a3)+_0x2f2d7e(0x6ba)+_0x2f2d7e(0x352)+_0x2f2d7e(0x2af)+_0x2f2d7e(0x530)+_0x2f2d7e(0x783)+_0x2f2d7e(0x425)+_0x2f2d7e(0x33d)+_0x2f2d7e(0x398)+_0x2f2d7e(0x251),'LAaQA':_0x2f2d7e(0x53f),'rOfXc':function(_0x4a2124,_0x2e20fb){return _0x4a2124>_0x2e20fb;}},_0x1526e3=_0x206a7d[_0x2f2d7e(0x4cb)](getLoginInfo);if(!_0x1526e3[_0x2f2d7e(0x66d)])return console[_0x2f2d7e(0x508)](_0x206a7d[_0x2f2d7e(0x498)]),null;const _0x4363b4=_0x206a7d[_0x2f2d7e(0x3e7)](getTokenData),_0xbea8ad=_0x4363b4[_0x2f2d7e(0x7ad)],_0x1b0b94=_0x4363b4[_0x2f2d7e(0x718)]||localStorage[_0x2f2d7e(0x53b)](_0x206a7d[_0x2f2d7e(0x4dd)])||_0x206a7d[_0x2f2d7e(0x3e7)](getGuid),_0x49c149=new Date()[_0x2f2d7e(0x328)](),_0x3efa02=_0x206a7d[_0x2f2d7e(0x50a)](md5,_0x1b0b94+_0x2f2d7e(0x7af)+_0x49c149);try{const _0x5a8aa5=await _0x206a7d[_0x2f2d7e(0x2bd)](fetch,_0x206a7d[_0x2f2d7e(0x4d0)],{'method':_0x206a7d[_0x2f2d7e(0x40f)],'headers':{'accept':_0x206a7d[_0x2f2d7e(0x33e)],'accept-language':'VI','appid':_0x206a7d[_0x2f2d7e(0x74c)],'authorization':_0x2f2d7e(0x469)+_0x1526e3[_0x2f2d7e(0x66d)],'content-type':_0x206a7d[_0x2f2d7e(0x229)],'n-l':'Y','origin':_0x206a7d[_0x2f2d7e(0x696)],'os':'0','p-g':'N','referer':_0x206a7d[_0x2f2d7e(0x4e1)],'sec-ch-ua':_0x206a7d[_0x2f2d7e(0x700)],'sec-ch-ua-mobile':'?0','sec-ch-ua-platform':_0x206a7d[_0x2f2d7e(0x28d)],'sec-fetch-dest':_0x206a7d[_0x2f2d7e(0x6ed)],'sec-fetch-mode':_0x206a7d[_0x2f2d7e(0x626)],'sec-fetch-site':_0x206a7d[_0x2f2d7e(0x2d2)],'user-agent':_0x206a7d[_0x2f2d7e(0x382)],'x-appversion':_0x206a7d[_0x2f2d7e(0x4c4)],'x-language':'VI','x-sign':_0x3efa02,'x-timestamp':_0x49c149[_0x2f2d7e(0x46d)](),'x-udid':_0x1b0b94},'body':JSON[_0x2f2d7e(0x54c)]({'uid':_0xbea8ad,'type':0x1,'os':0x0})}),_0x173b44=await _0x5a8aa5[_0x2f2d7e(0x642)]();return _0x206a7d[_0x2f2d7e(0x72c)](_0x173b44[_0x2f2d7e(0x735)][_0x2f2d7e(0x75c)],0x168b+0x66*-0x59+0xceb*0x1)?_0x173b44[_0x2f2d7e(0x735)]:null;}catch(_0x407c05){return null;}}function updateUserInfoDisplay(_0x3a34a2=null){const _0x3b9d41=_0xb46521,_0x5d7d9d={'uPoiH':function(_0x1a43a5){return _0x1a43a5();},'pLiog':_0x3b9d41(0x3e5),'lJFVU':_0x3b9d41(0x1eb)+_0x3b9d41(0x591),'ihHWa':_0x3b9d41(0x4f5),'YjTKJ':_0x3b9d41(0x416)+_0x3b9d41(0x1f6),'eaYNF':_0x3b9d41(0x210),'acUZJ':_0x3b9d41(0x71c)+'d','pETpq':function(_0x2b6024,_0x228aa2){return _0x2b6024+_0x228aa2;},'kFBPI':_0x3b9d41(0x30d),'EprFd':_0x3b9d41(0x4d9),'sOrNC':_0x3b9d41(0x718),'IAjxU':function(_0x594370){return _0x594370();},'XmamD':_0x3b9d41(0x32e)+')','RHuoi':_0x3b9d41(0x48b),'SoYcq':_0x3b9d41(0x610)+_0x3b9d41(0x532),'QsfzA':_0x3b9d41(0x39d),'FhrVo':function(_0x4993b9,_0x216366){return _0x4993b9+_0x216366;},'HjZkh':function(_0x19ec76,_0x1d6cd8){return _0x19ec76*_0x1d6cd8;},'wcWsa':_0x3b9d41(0x3ad)+_0x3b9d41(0x363),'HPTcm':_0x3b9d41(0x6f0),'KFbYP':_0x3b9d41(0x4ee),'lgHkV':_0x3b9d41(0x1fd),'RuRZd':_0x3b9d41(0x443)+_0x3b9d41(0x3d8),'tTzdk':function(_0x3ecc63,_0xc8b2f3){return _0x3ecc63(_0xc8b2f3);}},_0x19e153=_0x5d7d9d[_0x3b9d41(0x1ee)](getTokenData),_0x3c771c=_0x19e153[_0x3b9d41(0x7ad)],_0x3df611=_0x19e153[_0x3b9d41(0x718)],_0x4baa26=localStorage[_0x3b9d41(0x53b)](_0x5d7d9d[_0x3b9d41(0x5df)]),_0x7d5e5f=document[_0x3b9d41(0x310)+_0x3b9d41(0x31c)](_0x5d7d9d[_0x3b9d41(0x493)]);_0x3c771c?(_0x7d5e5f[_0x3b9d41(0x386)+'t']=_0x3c771c,_0x7d5e5f[_0x3b9d41(0x30a)][_0x3b9d41(0x698)]=_0x5d7d9d[_0x3b9d41(0x584)]):(_0x7d5e5f[_0x3b9d41(0x386)+'t']=_0x5d7d9d[_0x3b9d41(0x588)],_0x7d5e5f[_0x3b9d41(0x30a)][_0x3b9d41(0x698)]=_0x5d7d9d[_0x3b9d41(0x21e)]);const _0x1707e1=document[_0x3b9d41(0x310)+_0x3b9d41(0x31c)](_0x5d7d9d[_0x3b9d41(0x3d7)]);if(_0x3df611)_0x1707e1[_0x3b9d41(0x386)+'t']=_0x5d7d9d[_0x3b9d41(0x44c)](_0x3df611[_0x3b9d41(0x30e)](0x17f6+0x76c+-0x27*0xce,0x1d41+0x5*0x577+0x2*-0x1c42),_0x5d7d9d[_0x3b9d41(0x726)]),_0x1707e1[_0x3b9d41(0x313)]=_0x3df611,_0x1707e1[_0x3b9d41(0x30a)][_0x3b9d41(0x698)]=_0x5d7d9d[_0x3b9d41(0x341)];else{const _0x1fabee=localStorage[_0x3b9d41(0x53b)](_0x5d7d9d[_0x3b9d41(0x53a)])||_0x5d7d9d[_0x3b9d41(0x67d)](getGuid);_0x1707e1[_0x3b9d41(0x386)+'t']=_0x5d7d9d[_0x3b9d41(0x44c)](_0x1fabee[_0x3b9d41(0x30e)](-0x832*-0x2+-0x229a+0x1236,-0x1*0x1a02+-0x11*-0x13b+0x527),_0x5d7d9d[_0x3b9d41(0x5ed)]),_0x1707e1[_0x3b9d41(0x313)]=_0x1fabee,_0x1707e1[_0x3b9d41(0x30a)][_0x3b9d41(0x698)]=_0x5d7d9d[_0x3b9d41(0x5b7)];}const _0x354904=document[_0x3b9d41(0x310)+_0x3b9d41(0x31c)](_0x5d7d9d[_0x3b9d41(0x4ca)]);if(_0x3c771c)_0x354904[_0x3b9d41(0x386)+'t']=_0x3c771c,_0x354904[_0x3b9d41(0x30a)][_0x3b9d41(0x698)]=_0x5d7d9d[_0x3b9d41(0x43b)];else{const _0x426996=_0x5d7d9d[_0x3b9d41(0x50b)](Math[_0x3b9d41(0x32f)](_0x5d7d9d[_0x3b9d41(0x536)](Math[_0x3b9d41(0x2a5)](),-0x60a131a4*-0x1+-0x34e14ea3+0xfdae6fe)),0x67a63*0x1622+-0x1031b65*-0x7b+-0x94a958ad);_0x354904[_0x3b9d41(0x386)+'t']=_0x426996+_0x3b9d41(0x5e4),_0x354904[_0x3b9d41(0x30a)][_0x3b9d41(0x698)]=_0x5d7d9d[_0x3b9d41(0x5b7)];}const _0x44c520=document[_0x3b9d41(0x310)+_0x3b9d41(0x31c)](_0x5d7d9d[_0x3b9d41(0x253)]);if(_0x4baa26){const _0x3e4185=new Date(_0x4baa26),_0x44f9c5=_0x3e4185[_0x3b9d41(0x68e)+_0x3b9d41(0x515)](_0x5d7d9d[_0x3b9d41(0x3b0)],{'hour':_0x5d7d9d[_0x3b9d41(0x438)],'minute':_0x5d7d9d[_0x3b9d41(0x438)],'hour12':!![]}),_0x58d1bc=_0x3e4185[_0x3b9d41(0x596)+_0x3b9d41(0x654)](_0x5d7d9d[_0x3b9d41(0x3b0)],{'day':_0x5d7d9d[_0x3b9d41(0x438)],'month':_0x5d7d9d[_0x3b9d41(0x438)],'year':_0x5d7d9d[_0x3b9d41(0x453)]});_0x44c520[_0x3b9d41(0x386)+'t']=_0x44f9c5+_0x3b9d41(0x420)+_0x58d1bc;}else _0x44c520[_0x3b9d41(0x386)+'t']=_0x5d7d9d[_0x3b9d41(0x266)];_0x3a34a2&&_0x5d7d9d[_0x3b9d41(0x634)](updateUserProfileDisplay,_0x3a34a2);}function updateUserProfileDisplay(_0x50c73f){const _0x4b2ba8=_0xb46521,_0x3445e0={'KMKCa':_0x4b2ba8(0x372)+_0x4b2ba8(0x2d8)+_0x4b2ba8(0x219)+_0x4b2ba8(0x543)+_0x4b2ba8(0x641)+_0x4b2ba8(0x4c6)+_0x4b2ba8(0x5f0)+_0x4b2ba8(0x38c)+_0x4b2ba8(0x23a)+_0x4b2ba8(0x53e)+_0x4b2ba8(0x2ff)+_0x4b2ba8(0x593)+_0x4b2ba8(0x3b4)+_0x4b2ba8(0x607)+_0x4b2ba8(0x391)+_0x4b2ba8(0x1ea)+_0x4b2ba8(0x5be)+_0x4b2ba8(0x280)+_0x4b2ba8(0x24d)+_0x4b2ba8(0x597)+_0x4b2ba8(0x554)+_0x4b2ba8(0x730)+_0x4b2ba8(0x7a0)+_0x4b2ba8(0x6bb)+_0x4b2ba8(0x2c1)+_0x4b2ba8(0x6fa)+_0x4b2ba8(0x421)+_0x4b2ba8(0x286)+_0x4b2ba8(0x51a)+_0x4b2ba8(0x6e6)+_0x4b2ba8(0x6d5)+_0x4b2ba8(0x3e0)+_0x4b2ba8(0x5cf)+_0x4b2ba8(0x2ad)+_0x4b2ba8(0x212)+_0x4b2ba8(0x57a)+_0x4b2ba8(0x5a8)+_0x4b2ba8(0x534)+_0x4b2ba8(0x2dc)+_0x4b2ba8(0x3a8)+_0x4b2ba8(0x562)+_0x4b2ba8(0x286)+_0x4b2ba8(0x51a)+_0x4b2ba8(0x752)+'c+','VxISm':_0x4b2ba8(0x432)+_0x4b2ba8(0x79a),'SOFvo':_0x4b2ba8(0x71b),'zHXhg':function(_0x262900,_0x4d5a3c){return _0x262900!==_0x4d5a3c;},'vQKvg':_0x4b2ba8(0x4a7)+'me','yhHYH':_0x4b2ba8(0x2c8)+'ên','qIenT':function(_0x8e759c,_0x113587){return _0x8e759c+_0x113587;},'sRmez':_0x4b2ba8(0x6fc),'AnjxX':_0x4b2ba8(0x6f0),'yyLGn':_0x4b2ba8(0x75a)+'s','WelaU':_0x4b2ba8(0x6b0)+_0x4b2ba8(0x623),'afuPk':_0x4b2ba8(0x4ad)+_0x4b2ba8(0x4be),'MsYYg':_0x4b2ba8(0x257),'CmMkk':_0x4b2ba8(0x345)+_0x4b2ba8(0x1e9),'xMMuf':_0x4b2ba8(0x378),'PahNy':_0x4b2ba8(0x712)+'in','OSrir':function(_0x34615e,_0x50bcf3){return _0x34615e(_0x50bcf3);}},_0x156762=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x6d8)]);if(_0x50c73f){const _0x29bdad=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x351)]);_0x50c73f[_0x4b2ba8(0x580)]&&_0x3445e0[_0x4b2ba8(0x679)](_0x50c73f[_0x4b2ba8(0x580)][_0x4b2ba8(0x76c)](),'')?(_0x29bdad[_0x4b2ba8(0x444)]=_0x50c73f[_0x4b2ba8(0x580)],_0x29bdad[_0x4b2ba8(0x459)]=function(){const _0x364bc1=_0x4b2ba8;this[_0x364bc1(0x444)]=_0x3445e0[_0x364bc1(0x3f5)];}):_0x29bdad[_0x4b2ba8(0x444)]=_0x3445e0[_0x4b2ba8(0x3f5)];const _0x42dce7=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x2fb)]);let _0x577954=_0x50c73f[_0x4b2ba8(0x461)]||_0x3445e0[_0x4b2ba8(0x3dc)];try{_0x577954=JSON[_0x4b2ba8(0x390)](_0x3445e0[_0x4b2ba8(0x38d)](_0x3445e0[_0x4b2ba8(0x38d)]('\x22',_0x577954[_0x4b2ba8(0x6c1)](/\\/g,'\x5c')),'\x22'));}catch(_0x15252b){}_0x42dce7[_0x4b2ba8(0x386)+'t']=_0x577954;const _0xf68651=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x5f7)]);_0xf68651[_0x4b2ba8(0x386)+'t']=(_0x50c73f[_0x4b2ba8(0x41d)]||0x210c+-0x7f*0x1+-0x208d)[_0x4b2ba8(0x637)+_0x4b2ba8(0x235)](_0x3445e0[_0x4b2ba8(0x645)]);const _0x5574af=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x4f0)]);_0x5574af[_0x4b2ba8(0x386)+'t']=(_0x50c73f[_0x4b2ba8(0x77e)]||-0x17f*0x18+-0x2b*0xce+-0x2341*-0x2)[_0x4b2ba8(0x637)+_0x4b2ba8(0x235)](_0x3445e0[_0x4b2ba8(0x645)]);const _0x1b4367=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x2b1)]);_0x1b4367[_0x4b2ba8(0x386)+'t']=_0x50c73f[_0x4b2ba8(0x395)]||_0x3445e0[_0x4b2ba8(0x401)];const _0x27363a=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x769)]);_0x27363a[_0x4b2ba8(0x386)+'t']=_0x50c73f[_0x4b2ba8(0x62e)]||_0x3445e0[_0x4b2ba8(0x3d3)];const _0x33086b=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x550)]);_0x33086b[_0x4b2ba8(0x386)+'t']=_0x4b2ba8(0x760)+(_0x50c73f[_0x4b2ba8(0x378)]||-0x335*0x1+0x338+0x3*-0x1);const _0x536795=document[_0x4b2ba8(0x310)+_0x4b2ba8(0x31c)](_0x3445e0[_0x4b2ba8(0x2f0)]),_0x508344=_0x3445e0[_0x4b2ba8(0x342)](parseFloat,_0x50c73f[_0x4b2ba8(0x456)])||0x2319+0x189b+-0x3bb4;_0x536795[_0x4b2ba8(0x386)+'t']=_0x508344[_0x4b2ba8(0x637)+_0x4b2ba8(0x235)](_0x3445e0[_0x4b2ba8(0x645)],{'minimumFractionDigits':0x2,'maximumFractionDigits':0x2});}}let isRunning=![],shouldStop=![];function showRunResultsPanel(){const _0x4c9c56=_0xb46521,_0x2a2b7e={'RItTQ':_0x4c9c56(0x573)+_0x4c9c56(0x4c7),'KJHFF':_0x4c9c56(0x77f),'eZBVt':_0x4c9c56(0x78a),'SlyLK':_0x4c9c56(0x59d),'GNwah':_0x4c9c56(0x28b),'ErQel':_0x4c9c56(0x6c2)+'ck','xBydz':_0x4c9c56(0x573)},_0x5db03f=document[_0x4c9c56(0x310)+_0x4c9c56(0x31c)](_0x2a2b7e[_0x4c9c56(0x230)]);_0x5db03f[_0x4c9c56(0x30a)][_0x4c9c56(0x2c4)]=_0x2a2b7e[_0x4c9c56(0x2e4)],_0x5db03f[_0x4c9c56(0x5e6)+_0x4c9c56(0x497)]({'behavior':_0x2a2b7e[_0x4c9c56(0x448)],'block':_0x2a2b7e[_0x4c9c56(0x680)]}),document[_0x4c9c56(0x310)+_0x4c9c56(0x31c)](_0x2a2b7e[_0x4c9c56(0x3c0)])[_0x4c9c56(0x30a)][_0x4c9c56(0x2c4)]=_0x2a2b7e[_0x4c9c56(0x2bc)],document[_0x4c9c56(0x310)+_0x4c9c56(0x31c)](_0x2a2b7e[_0x4c9c56(0x53d)])[_0x4c9c56(0x215)]='';}function updateProgress(_0x356be0,_0x447cb7,_0x17bb80,_0x9a20d7=0xb3*0x35+-0x4*-0x4cd+-0x12c1*0x3){const _0x1aab92=_0xb46521,_0x2111a1={'CKcYK':function(_0x361cd2,_0x2cac8e){return _0x361cd2>_0x2cac8e;},'ndSJP':function(_0x19ccb4,_0x38619e){return _0x19ccb4*_0x38619e;},'RHbio':function(_0x1f33bf,_0x14ce13){return _0x1f33bf/_0x14ce13;},'pnRUx':_0x1aab92(0x283)+'r','zRcdy':function(_0x348cef,_0xf1b809){return _0x348cef+_0xf1b809;},'qQBML':_0x1aab92(0x3c6)+'xt','tTbbm':_0x1aab92(0x201)+_0x1aab92(0x2e8)},_0x17f1f4=_0x2111a1[_0x1aab92(0x47b)](_0x447cb7,-0x10da+-0xb*0x7c+0x162e)?_0x2111a1[_0x1aab92(0x616)](_0x2111a1[_0x1aab92(0x5ba)](_0x356be0,_0x447cb7),-0x1a6b*-0x1+-0xdf0*-0x2+-0x35e7):-0x106b+0x247a+-0x140f;document[_0x1aab92(0x310)+_0x1aab92(0x31c)](_0x2111a1[_0x1aab92(0x32b)])[_0x1aab92(0x30a)][_0x1aab92(0x33a)]=_0x2111a1[_0x1aab92(0x695)](_0x17f1f4,'%');const _0xab019c=_0x2111a1[_0x1aab92(0x47b)](_0x9a20d7,-0x26f4+0x24bf+0x235)?_0x17bb80+'\x20['+_0x9a20d7+(_0x1aab92(0x49f)+_0x1aab92(0x757)):_0x17bb80;document[_0x1aab92(0x310)+_0x1aab92(0x31c)](_0x2111a1[_0x1aab92(0x7a3)])[_0x1aab92(0x386)+'t']=_0xab019c,document[_0x1aab92(0x310)+_0x1aab92(0x31c)](_0x2111a1[_0x1aab92(0x202)])[_0x1aab92(0x386)+'t']=_0x356be0+'/'+_0x447cb7;}function logResult(_0x2fe31e,_0x53677e=_0xb46521(0x31f)){const _0x414897=_0xb46521,_0x573e4c={'GbDQv':_0x414897(0x573),'SvrWo':_0x414897(0x4a6),'XevAL':function(_0x3872c0,_0x5e7ed3){return _0x3872c0===_0x5e7ed3;},'CptFc':_0x414897(0x61e),'jNlKv':_0x414897(0x436),'CFrUL':function(_0x2085a2,_0x136c6d){return _0x2085a2===_0x136c6d;},'YZMTg':_0x414897(0x508),'qAXUO':_0x414897(0x3f6),'EyrmM':_0x414897(0x31f),'qYsut':_0x414897(0x6e8),'xmjND':_0x414897(0x293),'zAMZF':_0x414897(0x799)},_0x59c7d4=document[_0x414897(0x310)+_0x414897(0x31c)](_0x573e4c[_0x414897(0x35d)]),_0x1c1761=new Date()[_0x414897(0x68e)+_0x414897(0x515)]();let _0xa0b3df=_0x573e4c[_0x414897(0x7ac)];if(_0x573e4c[_0x414897(0x263)](_0x53677e,_0x573e4c[_0x414897(0x604)]))_0xa0b3df=_0x573e4c[_0x414897(0x254)];else{if(_0x573e4c[_0x414897(0x422)](_0x53677e,_0x573e4c[_0x414897(0x3c2)]))_0xa0b3df=_0x573e4c[_0x414897(0x3ae)];else{if(_0x573e4c[_0x414897(0x422)](_0x53677e,_0x573e4c[_0x414897(0x2fe)]))_0xa0b3df=_0x573e4c[_0x414897(0x447)];}}const _0x7780ae=document[_0x414897(0x614)+_0x414897(0x560)](_0x573e4c[_0x414897(0x37c)]);_0x7780ae[_0x414897(0x30a)][_0x414897(0x698)]=_0xa0b3df,_0x7780ae[_0x414897(0x30a)][_0x414897(0x46f)+'om']=_0x573e4c[_0x414897(0x4dc)],_0x7780ae[_0x414897(0x215)]=_0x414897(0x4fe)+_0x414897(0x490)+_0x414897(0x204)+'['+_0x1c1761+_0x414897(0x4ce)+_0x2fe31e,_0x59c7d4[_0x414897(0x55b)+'d'](_0x7780ae),_0x59c7d4[_0x414897(0x693)]=_0x59c7d4[_0x414897(0x738)+'ht'];}function stopRunning(){const _0xde0229=_0xb46521,_0x4567d2={'EQNfs':function(_0x29c3b2,_0x55f7c6,_0x1e905c){return _0x29c3b2(_0x55f7c6,_0x1e905c);},'upjxy':_0xde0229(0x76a)+_0xde0229(0x42e),'YYfeO':_0xde0229(0x31f),'HzpVX':_0xde0229(0x28b),'dhxkR':_0xde0229(0x74d)};isRunning&&(shouldStop=!![],_0x4567d2[_0xde0229(0x27f)](logResult,_0x4567d2[_0xde0229(0x403)],_0x4567d2[_0xde0229(0x4db)]),document[_0xde0229(0x310)+_0xde0229(0x31c)](_0x4567d2[_0xde0229(0x260)])[_0xde0229(0x30a)][_0xde0229(0x2c4)]=_0x4567d2[_0xde0229(0x4da)]);}function clearResults(){const _0x11a159=_0xb46521,_0x545766={'KZqwK':_0x11a159(0x573),'nyCKG':_0x11a159(0x573)+_0x11a159(0x4c7),'lkRYp':_0x11a159(0x74d),'HMbNG':function(_0x19e5bd,_0x290774,_0x510f51,_0x49aefa){return _0x19e5bd(_0x290774,_0x510f51,_0x49aefa);},'BeCRk':_0x11a159(0x4cf)};document[_0x11a159(0x310)+_0x11a159(0x31c)](_0x545766[_0x11a159(0x627)])[_0x11a159(0x215)]='',document[_0x11a159(0x310)+_0x11a159(0x31c)](_0x545766[_0x11a159(0x766)])[_0x11a159(0x30a)][_0x11a159(0x2c4)]=_0x545766[_0x11a159(0x20b)],_0x545766[_0x11a159(0x541)](updateProgress,-0x1b74+-0x1ad5*-0x1+0x9f,0x5c*-0x31+0x1ae7+-0x94b,_0x545766[_0x11a159(0x771)]);}async function runTurboModeWithInput(){const _0x4d6632=_0xb46521,_0x34e9a5={'FexBJ':function(_0x3c9a99,_0x588818){return _0x3c9a99(_0x588818);},'eUSLu':_0x4d6632(0x375)+_0x4d6632(0x249),'uSQPy':function(_0x4dafbc,_0x27e006,_0x2688c5){return _0x4dafbc(_0x27e006,_0x2688c5);}},_0x1bd04a=_0x34e9a5[_0x4d6632(0x4b4)](parseInt,document[_0x4d6632(0x310)+_0x4d6632(0x31c)](_0x34e9a5[_0x4d6632(0x517)])[_0x4d6632(0x703)])||-0x7*0x206+-0x1742+0x38f4,_0x1b6136=-0x270f+-0x30*-0x13+0x1*0x2415;await _0x34e9a5[_0x4d6632(0x5d6)](runTurboMode,_0x1bd04a,_0x1b6136);}async function runTurboMode(_0x30ee9a=-0x1ce*0x6+-0x1fe9+-0x1*-0x3e45,_0xb49c7a=0x1e3d+-0x1aa*0xa+-0xd03){const _0x302fc4=_0xb46521,_0x164ef4={'fWvTd':function(_0x1dde1b,_0x44a205){return _0x1dde1b+_0x44a205;},'joGUe':function(_0x18af9f,_0x276af2){return _0x18af9f*_0x276af2;},'IlLNU':function(_0x303ec6,_0x1afede){return _0x303ec6(_0x1afede);},'wsyrH':function(_0x119def,_0x478f64,_0x1fe0dc){return _0x119def(_0x478f64,_0x1fe0dc);},'Gwbvp':_0x302fc4(0x2fc),'RPbWm':_0x302fc4(0x4c2)+_0x302fc4(0x264)+_0x302fc4(0x446)+_0x302fc4(0x6c4),'OBDgN':_0x302fc4(0x250),'JyXQw':_0x302fc4(0x4c2)+_0x302fc4(0x379)+_0x302fc4(0x704),'RgmnK':_0x302fc4(0x563)+_0x302fc4(0x6ee)+'e','ztoYC':_0x302fc4(0x563)+_0x302fc4(0x6ee)+'e/','KfnLf':_0x302fc4(0x53f),'KQgjU':function(_0x22f397,_0x260869){return _0x22f397>_0x260869;},'WtYrW':function(_0x140589,_0x37ab00){return _0x140589===_0x37ab00;},'hDaFC':function(_0x388475,_0x1cf712){return _0x388475%_0x1cf712;},'FXONY':function(_0x19ec7f,_0x510f77){return _0x19ec7f*_0x510f77;},'vNlUR':function(_0x48b6e0,_0x258922){return _0x48b6e0/_0x258922;},'JiQLK':function(_0x15e191,_0x255dcb){return _0x15e191-_0x255dcb;},'ppxXJ':function(_0x3b8f24,_0x5a58f1,_0x18c4d4,_0x1fbb90,_0x1e4a8a){return _0x3b8f24(_0x5a58f1,_0x18c4d4,_0x1fbb90,_0x1e4a8a);},'IIpRs':function(_0x1cf833,_0x5eaf20){return _0x1cf833(_0x5eaf20);},'kUazH':_0x302fc4(0x457)+_0x302fc4(0x51d)+_0x302fc4(0x7a2)+_0x302fc4(0x5e2)+_0x302fc4(0x3fb)+_0x302fc4(0x39a)+_0x302fc4(0x55c),'VOZyO':function(_0x2a7022,_0x155543){return _0x2a7022(_0x155543);},'RIsxs':function(_0x31358b){return _0x31358b();},'ZvGjh':_0x302fc4(0x6ec)+_0x302fc4(0x3e1)+_0x302fc4(0x4b5),'WkhqK':function(_0x56a097){return _0x56a097();},'oxqzP':_0x302fc4(0x718),'PRFBf':function(_0x659f72,_0x16a3ab,_0x2c9fa2){return _0x659f72(_0x16a3ab,_0x2c9fa2);},'ffdzZ':_0x302fc4(0x31f),'Uvwot':function(_0x15b53f,_0x342a81){return _0x15b53f<=_0x342a81;},'LDCbz':function(_0x51b832,_0x13b8e9){return _0x51b832(_0x13b8e9);},'zVaat':function(_0x2642e6,_0x3163d4){return _0x2642e6>=_0x3163d4;},'gUCNG':function(_0x55f1c5,_0xcc71d0){return _0x55f1c5-_0xcc71d0;},'Zsufo':function(_0x5c4adb,_0x2c052,_0xf4fa85,_0x5354dc,_0x56e115){return _0x5c4adb(_0x2c052,_0xf4fa85,_0x5354dc,_0x56e115);},'pqXeq':_0x302fc4(0x299)+_0x302fc4(0x49b)+'h!','bzSSm':function(_0x315462,_0x17289d,_0x143f98){return _0x315462(_0x17289d,_0x143f98);},'zfXJv':_0x302fc4(0x61e),'hsoUC':function(_0xa59bed,_0x479509,_0x4b2a1a){return _0xa59bed(_0x479509,_0x4b2a1a);},'jtKLk':_0x302fc4(0x508),'OmjPv':function(_0x4cf50a,_0x4ca435,_0x5a717d){return _0x4cf50a(_0x4ca435,_0x5a717d);},'UpsXF':_0x302fc4(0x28b),'KDfTQ':_0x302fc4(0x74d)};if(isRunning){_0x164ef4[_0x302fc4(0x559)](alert,_0x164ef4[_0x302fc4(0x60e)]);return;}const _0x472209=_0x164ef4[_0x302fc4(0x34e)](confirm,_0x302fc4(0x6fb)+_0x302fc4(0x69e)+_0x302fc4(0x407)+_0x30ee9a+(_0x302fc4(0x6a1)+_0x302fc4(0x309))+_0xb49c7a+(_0x302fc4(0x4ae)+_0x302fc4(0x45f)+_0x302fc4(0x355)+_0x302fc4(0x43e)+_0x302fc4(0x22b)+_0x302fc4(0x3c8)+_0x302fc4(0x54a)+_0x302fc4(0x635)+_0x302fc4(0x2aa)+_0x302fc4(0x45e)+_0x302fc4(0x231)+_0x302fc4(0x4f4)+_0x302fc4(0x58a)+_0x302fc4(0x40d)+_0x302fc4(0x6d4)+_0x302fc4(0x320)+_0x302fc4(0x3b2)+_0x302fc4(0x2d3)+_0x302fc4(0x70a)+_0x302fc4(0x28f)));if(!_0x472209)return;const _0x376ca7=_0x164ef4[_0x302fc4(0x2cf)](getLoginInfo);if(!_0x376ca7[_0x302fc4(0x66d)]){_0x164ef4[_0x302fc4(0x6a6)](alert,_0x164ef4[_0x302fc4(0x31b)]);return;}_0x164ef4[_0x302fc4(0x2cf)](showRunResultsPanel),isRunning=!![],shouldStop=![];const _0x3c7a2a=GLOBAL_CONFIG[_0x302fc4(0x5fd)],_0x15c402=GLOBAL_CONFIG[_0x302fc4(0x73c)],_0x54d525=_0x164ef4[_0x302fc4(0x2cf)](getTokenData)[_0x302fc4(0x7ad)]||_0x164ef4[_0x302fc4(0x564)](Math[_0x302fc4(0x32f)](_0x164ef4[_0x302fc4(0x333)](Math[_0x302fc4(0x2a5)](),-0x6c1cdbbb+0x19cc803e+0x8deb257c)),-0x47a*0x1ab43c+-0xb39ef03b+0x1a25f58d3),_0x221a2a=_0x164ef4[_0x302fc4(0x511)](getTokenData)[_0x302fc4(0x718)]||localStorage[_0x302fc4(0x53b)](_0x164ef4[_0x302fc4(0x687)])||_0x164ef4[_0x302fc4(0x2cf)](getGuid);_0x164ef4[_0x302fc4(0x674)](logResult,_0x302fc4(0x6fb)+_0x302fc4(0x312)+_0x30ee9a+(_0x302fc4(0x6a1)+_0x302fc4(0x309))+_0xb49c7a+_0x302fc4(0x63d),_0x164ef4[_0x302fc4(0x27a)]),_0x164ef4[_0x302fc4(0x6f1)](logResult,_0x302fc4(0x77d)+_0x302fc4(0x751)+_0x3c7a2a+(_0x302fc4(0x4e7)+'=')+_0x15c402,_0x164ef4[_0x302fc4(0x27a)]);let _0x33d2b1=-0xccf+0x53*0x35+-0x460,_0x1c4c15=-0x1314+-0x2416+0x372a*0x1,_0x573b61=0x1fa4+-0x1*-0x15d+-0x77*0x47;const _0x268491=Date[_0x302fc4(0x2d7)](),_0x2ce866=[],_0x2e765b=async _0x45b61d=>{const _0x41486d=_0x302fc4;if(shouldStop)return{'success':![],'stopped':!![]};try{const _0x38339c=_0x164ef4[_0x41486d(0x564)](new Date()[_0x41486d(0x328)](),_0x164ef4[_0x41486d(0x333)](_0x45b61d,0x1f55+-0x37d*-0x1+-0x22cd)),_0x586407=_0x164ef4[_0x41486d(0x6a6)](md5,_0x221a2a+_0x41486d(0x7af)+_0x38339c),_0x6670d6=0x14*0x113+-0x193c*0x1+0x49c,_0x1bc8d4=await _0x164ef4[_0x41486d(0x6f1)](fetch,_0x41486d(0x633)+_0x41486d(0x4de)+_0x41486d(0x2f3)+_0x41486d(0x590)+_0x41486d(0x458)+_0x41486d(0x307)+_0x6670d6,{'method':_0x164ef4[_0x41486d(0x756)],'headers':{'accept':_0x164ef4[_0x41486d(0x63e)],'accept-language':'VI','appid':_0x164ef4[_0x41486d(0x50e)],'authorization':_0x41486d(0x469)+_0x376ca7[_0x41486d(0x66d)],'content-type':_0x164ef4[_0x41486d(0x6ca)],'n-l':'Y','new-pk':'1','origin':_0x164ef4[_0x41486d(0x785)],'os':'0','p-g':'N','referer':_0x164ef4[_0x41486d(0x6ff)],'x-appversion':_0x164ef4[_0x41486d(0x37e)],'x-language':'VI','x-sign':_0x586407,'x-timestamp':_0x38339c,'x-udid':_0x221a2a},'body':JSON[_0x41486d(0x54c)]({'liveId':_0x3c7a2a,'uid':_0x54d525,'adJumpUrl':'','anchorId':_0x15c402,'isRoomPreview':0x0,'os':0x0})});return _0x573b61++,_0x1bc8d4['ok']?(await _0x1bc8d4[_0x41486d(0x642)](),_0x33d2b1++,{'success':!![],'index':_0x45b61d}):(_0x1c4c15++,{'success':![],'index':_0x45b61d,'status':_0x1bc8d4[_0x41486d(0x661)]});}catch(_0x46a03d){return _0x573b61++,_0x1c4c15++,{'success':![],'index':_0x45b61d,'error':_0x46a03d[_0x41486d(0x76b)]};}};for(let _0x2ebedf=0x3aa+0xb5d+-0xf06;_0x164ef4[_0x302fc4(0x1fc)](_0x2ebedf,_0x30ee9a)&&!shouldStop;_0x2ebedf++){const _0x57c2d3=_0x164ef4[_0x302fc4(0x64e)](_0x2e765b,_0x2ebedf)[_0x302fc4(0x52e)](_0x374854=>{const _0x56d492=_0x302fc4,_0x15ab87=_0x2ce866[_0x56d492(0x4f7)](_0x57c2d3);if(_0x164ef4[_0x56d492(0x76f)](_0x15ab87,-(-0x1*-0x25bf+0x5*-0xf3+-0x20ff)))_0x2ce866[_0x56d492(0x45d)](_0x15ab87,0x1fc*-0x11+-0xa*0x15e+0x2f69);if(_0x164ef4[_0x56d492(0x36f)](_0x164ef4[_0x56d492(0x63b)](_0x573b61,-0x106d*-0x2+-0x1557+-0xd*0xdb),0x1*0x2395+0x1542+-0x38d7*0x1)){const _0x2493e9=_0x164ef4[_0x56d492(0x73b)](_0x164ef4[_0x56d492(0x3f3)](_0x573b61,_0x164ef4[_0x56d492(0x600)](Date[_0x56d492(0x2d7)](),_0x268491)),-0x2*0x2c+-0x239f+0xad*0x3b)[_0x56d492(0x3bc)](-0x745*0x5+0x9e*-0x4+-0x26d1*-0x1);_0x164ef4[_0x56d492(0x46b)](updateProgress,_0x573b61,_0x30ee9a,_0x56d492(0x622)+':\x20'+_0x2493e9+_0x56d492(0x2f1),_0x2ce866[_0x56d492(0x75c)]);}return _0x374854;});_0x2ce866[_0x302fc4(0x594)](_0x57c2d3),_0x164ef4[_0x302fc4(0x376)](_0x2ce866[_0x302fc4(0x75c)],_0xb49c7a)&&await Promise[_0x302fc4(0x648)](_0x2ce866);}_0x164ef4[_0x302fc4(0x76f)](_0x2ce866[_0x302fc4(0x75c)],-0xdb0+0xd89+0x27)&&await Promise[_0x302fc4(0x5c5)](_0x2ce866);isRunning=![];const _0x41367b=_0x164ef4[_0x302fc4(0x3f3)](_0x164ef4[_0x302fc4(0x600)](Date[_0x302fc4(0x2d7)](),_0x268491),0x5*0x5bf+0x2047*0x1+-0x391a)[_0x302fc4(0x3bc)](-0x2a*-0x1f+0x3*-0x655+-0xdeb*-0x1),_0x48409a=_0x164ef4[_0x302fc4(0x333)](_0x164ef4[_0x302fc4(0x3f3)](_0x573b61,_0x164ef4[_0x302fc4(0x28c)](Date[_0x302fc4(0x2d7)](),_0x268491)),0xb61*0x2+0xef2+-0x21cc)[_0x302fc4(0x3bc)](0x1*0x1e95+0x2ff+0x4*-0x865);_0x164ef4[_0x302fc4(0x649)](updateProgress,_0x30ee9a,_0x30ee9a,_0x164ef4[_0x302fc4(0x60a)],-0x1bf4+-0xfd7+0xe99*0x3),_0x164ef4[_0x302fc4(0x5d1)](logResult,_0x302fc4(0x71f)+_0x302fc4(0x65e)+_0x302fc4(0x684),_0x164ef4[_0x302fc4(0x27a)]),_0x164ef4[_0x302fc4(0x5d1)](logResult,_0x302fc4(0x644)+_0x302fc4(0x267)+_0x33d2b1,_0x164ef4[_0x302fc4(0x1ec)]),_0x164ef4[_0x302fc4(0x471)](logResult,_0x302fc4(0x59a)+_0x1c4c15,_0x164ef4[_0x302fc4(0x64c)]),_0x164ef4[_0x302fc4(0x6f1)](logResult,_0x302fc4(0x271)+_0x302fc4(0x5f5)+_0x41367b+'s',_0x164ef4[_0x302fc4(0x27a)]),_0x164ef4[_0x302fc4(0x471)](logResult,_0x302fc4(0x746)+_0x302fc4(0x3d0)+_0x302fc4(0x599)+_0x48409a+(_0x302fc4(0x336)+_0x302fc4(0x66e)),_0x164ef4[_0x302fc4(0x27a)]),_0x164ef4[_0x302fc4(0x716)](logResult,_0x302fc4(0x70e)+_0x302fc4(0x603)+_0x302fc4(0x609)+_0x164ef4[_0x302fc4(0x73b)](_0x164ef4[_0x302fc4(0x3f3)](_0x33d2b1,_0x573b61),0x1*0x229d+-0x1*0x19be+0xd*-0xa7)[_0x302fc4(0x3bc)](-0x1b*0x3f+-0x2*-0xf0e+-0x111*0x16)+'%',_0x164ef4[_0x302fc4(0x27a)]),document[_0x302fc4(0x310)+_0x302fc4(0x31c)](_0x164ef4[_0x302fc4(0x694)])[_0x302fc4(0x30a)][_0x302fc4(0x2c4)]=_0x164ef4[_0x302fc4(0x525)];}async function runPhaIdolMode(){const _0x4595d2=_0xb46521,_0x10b418={'jECVI':function(_0xcf2be2,_0x42ad09){return _0xcf2be2+_0x42ad09;},'JdvVq':function(_0x5a435d,_0xea6a28){return _0x5a435d*_0xea6a28;},'Bkrjz':function(_0x595a8d,_0x4d0cb8){return _0x595a8d(_0x4d0cb8);},'vAvMW':function(_0x497162,_0x4fd16e,_0x23c441){return _0x497162(_0x4fd16e,_0x23c441);},'wzElQ':_0x4595d2(0x2fc),'FNdew':_0x4595d2(0x4c2)+_0x4595d2(0x264)+_0x4595d2(0x446)+_0x4595d2(0x6c4),'bIkNI':_0x4595d2(0x250),'RIjnX':_0x4595d2(0x4c2)+_0x4595d2(0x379)+_0x4595d2(0x704),'cAfay':_0x4595d2(0x563)+_0x4595d2(0x6ee)+'e','cJPcO':_0x4595d2(0x563)+_0x4595d2(0x6ee)+'e/','lkhNJ':_0x4595d2(0x53f),'SWHJO':_0x4595d2(0x4b1),'iyOPw':function(_0x3d1a50,_0xf6fe4c){return _0x3d1a50>_0xf6fe4c;},'FUqow':function(_0x362030,_0x13b7b7){return _0x362030===_0x13b7b7;},'EmmyL':function(_0x46b314,_0x55b432){return _0x46b314%_0x55b432;},'lfVjx':function(_0x6c7cc1,_0x209a26){return _0x6c7cc1/_0x209a26;},'EZyVG':function(_0x54da65,_0x3f41cf){return _0x54da65-_0x3f41cf;},'xNnCZ':function(_0x42b879,_0x5937fc){return _0x42b879/_0x5937fc;},'ZdUhE':function(_0xb52daf,_0x4fc354){return _0xb52daf-_0x4fc354;},'JaGVi':function(_0x1270f2,_0x240501,_0x4b3816,_0x259b79,_0x28a4ef){return _0x1270f2(_0x240501,_0x4b3816,_0x259b79,_0x28a4ef);},'HMQIa':function(_0x3b5eab,_0x32e58c){return _0x3b5eab(_0x32e58c);},'kHoWD':_0x4595d2(0x457)+_0x4595d2(0x51d)+_0x4595d2(0x7a2)+_0x4595d2(0x5e2)+_0x4595d2(0x3fb)+_0x4595d2(0x39a)+_0x4595d2(0x55c),'WCnNW':function(_0x193aed,_0x5d5a6a){return _0x193aed(_0x5d5a6a);},'kwVmF':function(_0x4e4886){return _0x4e4886();},'YWOMd':_0x4595d2(0x6ec)+_0x4595d2(0x3e1)+_0x4595d2(0x4b5),'Fynwq':function(_0x5f1b16,_0x435e17){return _0x5f1b16+_0x435e17;},'iKWQJ':function(_0x506451,_0x24c1c4){return _0x506451*_0x24c1c4;},'jdJIh':function(_0x164fbd){return _0x164fbd();},'hKrlN':_0x4595d2(0x718),'CdGAW':function(_0x2fcca5,_0x252ab7,_0x18b66e){return _0x2fcca5(_0x252ab7,_0x18b66e);},'GfaDo':_0x4595d2(0x508),'PZRsQ':function(_0x19eb69,_0x19b226,_0xdd0fb5){return _0x19eb69(_0x19b226,_0xdd0fb5);},'NkVVt':_0x4595d2(0x31f),'MBlIZ':function(_0x5c5fb4,_0x59ec94){return _0x5c5fb4<=_0x59ec94;},'VYRAs':function(_0x566767,_0x23d056){return _0x566767>=_0x23d056;},'KxqpU':function(_0x3da487,_0x4fcbea){return _0x3da487/_0x4fcbea;},'epvhR':function(_0x1c76da,_0x203f0e){return _0x1c76da*_0x203f0e;},'znGST':function(_0x31676c,_0x5d282a){return _0x31676c/_0x5d282a;},'saZvO':function(_0x29cc4b,_0x453567,_0x377a83){return _0x29cc4b(_0x453567,_0x377a83);},'bBniq':_0x4595d2(0x61e),'sywSV':function(_0x345940,_0x10fded,_0x171323){return _0x345940(_0x10fded,_0x171323);},'negFF':function(_0x1f8a75,_0xed5731){return _0x1f8a75-_0xed5731;},'viQvD':function(_0x5e277b,_0x56b313){return _0x5e277b-_0x56b313;},'VoFIG':_0x4595d2(0x361)+_0x4595d2(0x234)+_0x4595d2(0x732),'PfRog':function(_0x17abf4,_0x29d19c,_0x21d52b){return _0x17abf4(_0x29d19c,_0x21d52b);},'Sffzo':function(_0x2ae166,_0x53d79c,_0x1dd9d0){return _0x2ae166(_0x53d79c,_0x1dd9d0);},'fudJw':function(_0x4017b9,_0x569aa1,_0x42f632){return _0x4017b9(_0x569aa1,_0x42f632);},'GnJoH':function(_0x404c97,_0xe3bd1e,_0x294b5a){return _0x404c97(_0xe3bd1e,_0x294b5a);},'xGfpJ':function(_0xa160ba,_0x3c1763,_0x4cda38){return _0xa160ba(_0x3c1763,_0x4cda38);},'TREah':function(_0x2f3cb3,_0xb1af91,_0x41b617){return _0x2f3cb3(_0xb1af91,_0x41b617);},'TWnQU':function(_0x579b25,_0x51dab4){return _0x579b25/_0x51dab4;},'ZEfzU':_0x4595d2(0x28b),'GZhIQ':_0x4595d2(0x74d)};if(isRunning){_0x10b418[_0x4595d2(0x33b)](alert,_0x10b418[_0x4595d2(0x576)]);return;}const _0x3bab2a=_0x10b418[_0x4595d2(0x434)](confirm,_0x4595d2(0x22d)+_0x4595d2(0x58e)+_0x4595d2(0x78f)+_0x4595d2(0x499)+_0x4595d2(0x581)+_0x4595d2(0x33f)+_0x4595d2(0x288)+_0x4595d2(0x2a8)+_0x4595d2(0x4a2)+_0x4595d2(0x55d)+_0x4595d2(0x233)+_0x4595d2(0x427)+_0x4595d2(0x5e7)+_0x4595d2(0x3cf)+_0x4595d2(0x412)+_0x4595d2(0x3aa)+_0x4595d2(0x433)+_0x4595d2(0x737)+_0x4595d2(0x665)+_0x4595d2(0x4b0)+_0x4595d2(0x30f)+_0x4595d2(0x63c)+_0x4595d2(0x38a)+_0x4595d2(0x557)+_0x4595d2(0x61f)+_0x4595d2(0x6ef)+_0x4595d2(0x322)+_0x4595d2(0x5d3)+_0x4595d2(0x21c)+_0x4595d2(0x4df)+_0x4595d2(0x2b3)+_0x4595d2(0x317)+_0x4595d2(0x2b9)+_0x4595d2(0x784)+_0x4595d2(0x57b)+_0x4595d2(0x296));if(!_0x3bab2a)return;const _0x321b5=_0x10b418[_0x4595d2(0x454)](getLoginInfo);if(!_0x321b5[_0x4595d2(0x66d)]){_0x10b418[_0x4595d2(0x2bb)](alert,_0x10b418[_0x4595d2(0x2c5)]);return;}_0x10b418[_0x4595d2(0x454)](showRunResultsPanel),isRunning=!![],shouldStop=![];const _0x29a679=GLOBAL_CONFIG[_0x4595d2(0x5fd)],_0x388414=GLOBAL_CONFIG[_0x4595d2(0x73c)],_0x5c86f0=_0x10b418[_0x4595d2(0x454)](getTokenData)[_0x4595d2(0x7ad)]||_0x10b418[_0x4595d2(0x402)](Math[_0x4595d2(0x32f)](_0x10b418[_0x4595d2(0x77c)](Math[_0x4595d2(0x2a5)](),0x3a*-0x20cac20+0x3d55fba3*0x1+0x7523cd9c)),-0x809aad+-0x10799*-0x8ed3+-0x3*0x91dfb7a),_0x3b3df0=_0x10b418[_0x4595d2(0x44d)](getTokenData)[_0x4595d2(0x718)]||localStorage[_0x4595d2(0x53b)](_0x10b418[_0x4595d2(0x758)])||_0x10b418[_0x4595d2(0x44d)](getGuid);_0x10b418[_0x4595d2(0x373)](logResult,_0x4595d2(0x22d)+_0x4595d2(0x56a)+_0x4595d2(0x258),_0x10b418[_0x4595d2(0x344)]),_0x10b418[_0x4595d2(0x47d)](logResult,_0x4595d2(0x418)+_0x4595d2(0x527)+_0x4595d2(0x1fa)+_0x4595d2(0x658)+_0x4595d2(0x381)+_0x4595d2(0x20a),_0x10b418[_0x4595d2(0x344)]),_0x10b418[_0x4595d2(0x1e7)](logResult,_0x4595d2(0x77d)+_0x4595d2(0x751)+_0x29a679+(_0x4595d2(0x4e7)+'=')+_0x388414,_0x10b418[_0x4595d2(0x218)]),_0x10b418[_0x4595d2(0x1e7)](logResult,_0x4595d2(0x2a0)+_0x4595d2(0x397)+_0x4595d2(0x548),_0x10b418[_0x4595d2(0x218)]);let _0x3c1025=0x1*0x6e1+-0xa8e*0x2+-0xe3b*-0x1,_0x24bf3a=-0x13f1+0xd*-0xb9+0x1d56,_0x5d4c61=0xa1c+0x174e+-0x216a,_0x1ce3da=-0x1*0x1b0b+-0x17*-0x185+-0x7e8;const _0x4d4b44=Date[_0x4595d2(0x2d7)]();while(!shouldStop){_0x1ce3da++,_0x10b418[_0x4595d2(0x373)](logResult,_0x4595d2(0x67c)+'G\x20'+_0x1ce3da+(_0x4595d2(0x5c3)+'=='),_0x10b418[_0x4595d2(0x218)]);const _0x456dba=0xe9f*-0x1+0x5*0x131+-0x2*-0xe19,_0x34cb45=0x1*-0xebf+0x4*-0x2a1+-0x19d9*-0x1;let _0x575a4d=-0x1*0x18aa+0xde7+-0x5*-0x227,_0x8c81da=-0x11b2+-0x1748+0x832*0x5,_0x10451e=-0xbe8+-0x203c+0x2c24;const _0x45cdd6=Date[_0x4595d2(0x2d7)](),_0xf1ed78=[],_0x50554a=async _0x5cedd8=>{const _0x2ed931=_0x4595d2;if(shouldStop)return{'success':![],'stopped':!![]};try{const _0xa36b4d=_0x10b418[_0x2ed931(0x755)](new Date()[_0x2ed931(0x328)](),_0x10b418[_0x2ed931(0x6e5)](_0x5cedd8,-0x17*0xcf+0x1848+-0x5aa)),_0x380818=_0x10b418[_0x2ed931(0x2bb)](md5,_0x3b3df0+_0x2ed931(0x7af)+_0xa36b4d),_0x19a6b1=0xd*0x2c9+-0xa13*0x2+-0x1*0xf33,_0x30c370=await _0x10b418[_0x2ed931(0x1e7)](fetch,_0x2ed931(0x633)+_0x2ed931(0x4de)+_0x2ed931(0x2f3)+_0x2ed931(0x590)+_0x2ed931(0x458)+_0x2ed931(0x307)+_0x19a6b1,{'method':_0x10b418[_0x2ed931(0x723)],'headers':{'accept':_0x10b418[_0x2ed931(0x51f)],'accept-language':'VI','appid':_0x10b418[_0x2ed931(0x6e3)],'authorization':_0x2ed931(0x469)+_0x321b5[_0x2ed931(0x66d)],'content-type':_0x10b418[_0x2ed931(0x1f4)],'n-l':'Y','new-pk':'1','origin':_0x10b418[_0x2ed931(0x2e9)],'os':'0','p-g':'N','referer':_0x10b418[_0x2ed931(0x586)],'x-appversion':_0x10b418[_0x2ed931(0x6f9)],'x-language':'VI','x-sign':_0x380818,'x-timestamp':_0xa36b4d,'x-udid':_0x3b3df0},'body':JSON[_0x2ed931(0x54c)]({'liveId':_0x29a679,'uid':_0x5c86f0,'adJumpUrl':'','anchorId':_0x388414,'isRoomPreview':0x0,'os':0x0})});return _0x10451e++,_0x5d4c61++,_0x30c370['ok']?(await _0x30c370[_0x2ed931(0x642)](),_0x575a4d++,_0x3c1025++,{'success':!![],'index':_0x5cedd8}):(_0x8c81da++,_0x24bf3a++,{'success':![],'index':_0x5cedd8,'status':_0x30c370[_0x2ed931(0x661)]});}catch(_0x193f7a){const _0x207185=_0x10b418[_0x2ed931(0x44a)][_0x2ed931(0x43c)]('|');let _0x3da73d=0x4*-0x6bf+-0x1139+-0x1*-0x2c35;while(!![]){switch(_0x207185[_0x3da73d++]){case'0':return{'success':![],'index':_0x5cedd8,'error':_0x193f7a[_0x2ed931(0x76b)]};case'1':_0x8c81da++;continue;case'2':_0x24bf3a++;continue;case'3':_0x5d4c61++;continue;case'4':_0x10451e++;continue;}break;}}};for(let _0xc155e=0x138b+-0x3*0x179+-0xf1f;_0x10b418[_0x4595d2(0x3d4)](_0xc155e,_0x456dba)&&!shouldStop;_0xc155e++){const _0x35de68=_0x10b418[_0x4595d2(0x434)](_0x50554a,_0xc155e)[_0x4595d2(0x52e)](_0x5cba3f=>{const _0x15f89c=_0x4595d2,_0x1aafc7=_0xf1ed78[_0x15f89c(0x4f7)](_0x35de68);if(_0x10b418[_0x15f89c(0x52c)](_0x1aafc7,-(-0xdc1+-0x1*0x1f91+-0x11b*-0x29)))_0xf1ed78[_0x15f89c(0x45d)](_0x1aafc7,-0x1*-0x3af+0xec6+-0x1274*0x1);if(_0x10b418[_0x15f89c(0x439)](_0x10b418[_0x15f89c(0x2f8)](_0x10451e,-0x14a4+-0x16*-0x130+-0x28c*0x2),-0x1e0a+-0xbb6+-0x40*-0xa7)){const _0x392250=_0x10b418[_0x15f89c(0x6e5)](_0x10b418[_0x15f89c(0x34b)](_0x10451e,_0x10b418[_0x15f89c(0x736)](Date[_0x15f89c(0x2d7)](),_0x45cdd6)),-0x2573+0xdcd+0x1b8e*0x1)[_0x15f89c(0x3bc)](-0x1f04+0x1b40+0x3c4),_0x3e056b=_0x10b418[_0x15f89c(0x6e5)](_0x10b418[_0x15f89c(0x62d)](_0x5d4c61,_0x10b418[_0x15f89c(0x3e2)](Date[_0x15f89c(0x2d7)](),_0x4d4b44)),0x183f*-0x1+-0x1*-0x2386+-0x75f)[_0x15f89c(0x3bc)](-0x25*-0x4a+0x13d5+-0x1e87);_0x10b418[_0x15f89c(0x37a)](updateProgress,_0x10451e,_0x456dba,_0x15f89c(0x537)+_0x15f89c(0x513)+_0x1ce3da+':\x20'+_0x392250+(_0x15f89c(0x7b0)+_0x15f89c(0x509))+_0x3e056b+_0x15f89c(0x2f1),_0xf1ed78[_0x15f89c(0x75c)]);}return _0x5cba3f;});_0xf1ed78[_0x4595d2(0x594)](_0x35de68),_0x10b418[_0x4595d2(0x319)](_0xf1ed78[_0x4595d2(0x75c)],_0x34cb45)&&await Promise[_0x4595d2(0x648)](_0xf1ed78);}_0x10b418[_0x4595d2(0x52c)](_0xf1ed78[_0x4595d2(0x75c)],0x7*0x3a3+-0x1fe+0x1777*-0x1)&&await Promise[_0x4595d2(0x5c5)](_0xf1ed78);const _0x28fe36=_0x10b418[_0x4595d2(0x445)](_0x10b418[_0x4595d2(0x736)](Date[_0x4595d2(0x2d7)](),_0x45cdd6),0x3ee*-0x2+-0x578*0x3+0x2*0xe16)[_0x4595d2(0x3bc)](0x1*-0x1101+-0xd*0x13f+0x147*0x1a),_0x353e3e=_0x10b418[_0x4595d2(0x566)](_0x10b418[_0x4595d2(0x73d)](_0x10451e,_0x10b418[_0x4595d2(0x3e2)](Date[_0x4595d2(0x2d7)](),_0x45cdd6)),-0x5*-0x55d+-0x91*-0x3b+-0x7*0x80c)[_0x4595d2(0x3bc)](-0xca0+-0x1512+0x21b2*0x1);_0x10b418[_0x4595d2(0x575)](logResult,_0x4595d2(0x6f8)+_0x1ce3da+(_0x4595d2(0x49b)+'h!'),_0x10b418[_0x4595d2(0x2e2)]),_0x10b418[_0x4595d2(0x47d)](logResult,_0x4595d2(0x644)+_0x4595d2(0x267)+_0x575a4d+_0x4595d2(0x6b7)+_0x8c81da,_0x10b418[_0x4595d2(0x218)]),_0x10b418[_0x4595d2(0x1e7)](logResult,_0x4595d2(0x271)+_0x4595d2(0x5f5)+_0x28fe36+(_0x4595d2(0x5f2)+_0x4595d2(0x29c))+_0x353e3e+_0x4595d2(0x2f1),_0x10b418[_0x4595d2(0x218)]);if(shouldStop){_0x10b418[_0x4595d2(0x300)](logResult,_0x4595d2(0x23e)+_0x4595d2(0x225)+_0x4595d2(0x3b7),_0x10b418[_0x4595d2(0x344)]);break;}await new Promise(_0x180c96=>setTimeout(_0x180c96,0x1541+0x213c+-0x3619));}isRunning=![];const _0x5912c5=_0x10b418[_0x4595d2(0x62d)](_0x10b418[_0x4595d2(0x630)](Date[_0x4595d2(0x2d7)](),_0x4d4b44),0xd3*-0x2+-0x1*0xfe9+0x1577)[_0x4595d2(0x3bc)](0xe65+0x463+-0x12c6),_0x3653dd=_0x10b418[_0x4595d2(0x6e5)](_0x10b418[_0x4595d2(0x62d)](_0x5d4c61,_0x10b418[_0x4595d2(0x521)](Date[_0x4595d2(0x2d7)](),_0x4d4b44)),-0x20fb*0x1+-0x2d*0x95+-0x16*-0x2de)[_0x4595d2(0x3bc)](0x7*0x2ab+0x3d*0x35+-0xfa7*0x2);_0x10b418[_0x4595d2(0x37a)](updateProgress,_0x5d4c61,_0x5d4c61,_0x10b418[_0x4595d2(0x6cf)],-0x5ba*0x3+0x16*0x6b+0x124*0x7),_0x10b418[_0x4595d2(0x753)](logResult,_0x4595d2(0x24e)+_0x4595d2(0x279)+_0x4595d2(0x717)+_0x4595d2(0x55e),_0x10b418[_0x4595d2(0x344)]),_0x10b418[_0x4595d2(0x605)](logResult,_0x4595d2(0x428)+_0x4595d2(0x6c8)+_0x1ce3da,_0x10b418[_0x4595d2(0x218)]),_0x10b418[_0x4595d2(0x575)](logResult,_0x4595d2(0x582)+':',_0x10b418[_0x4595d2(0x218)]),_0x10b418[_0x4595d2(0x4b2)](logResult,_0x4595d2(0x644)+_0x4595d2(0x267)+_0x3c1025,_0x10b418[_0x4595d2(0x2e2)]),_0x10b418[_0x4595d2(0x47d)](logResult,_0x4595d2(0x59a)+_0x24bf3a,_0x10b418[_0x4595d2(0x344)]),_0x10b418[_0x4595d2(0x4b2)](logResult,_0x4595d2(0x58f)+_0x4595d2(0x4ea)+_0x5d4c61,_0x10b418[_0x4595d2(0x218)]),_0x10b418[_0x4595d2(0x3b6)](logResult,_0x4595d2(0x618)+_0x4595d2(0x652)+'\x20'+_0x5912c5+'s',_0x10b418[_0x4595d2(0x218)]),_0x10b418[_0x4595d2(0x50d)](logResult,_0x4595d2(0x746)+_0x4595d2(0x3d0)+_0x4595d2(0x599)+_0x3653dd+(_0x4595d2(0x336)+_0x4595d2(0x66e)),_0x10b418[_0x4595d2(0x218)]),_0x10b418[_0x4595d2(0x36b)](logResult,_0x4595d2(0x70e)+_0x4595d2(0x603)+_0x4595d2(0x609)+_0x10b418[_0x4595d2(0x77c)](_0x10b418[_0x4595d2(0x468)](_0x3c1025,_0x5d4c61),-0x7*-0x297+-0x1d5+-0xfe8)[_0x4595d2(0x3bc)](0xa38+-0x44*0x21+0x173*-0x1)+'%',_0x10b418[_0x4595d2(0x218)]),document[_0x4595d2(0x310)+_0x4595d2(0x31c)](_0x10b418[_0x4595d2(0x692)])[_0x4595d2(0x30a)][_0x4595d2(0x2c4)]=_0x10b418[_0x4595d2(0x35e)];}async function initApp(){const _0x562005=_0xb46521,_0x1333b7={'bCEXI':function(_0x33425d){return _0x33425d();},'hZmsO':_0x562005(0x70d),'GdBhm':_0x562005(0x669)+_0x562005(0x4f3),'QpWDx':_0x562005(0x670),'yAggT':_0x562005(0x1f1),'HbHAU':_0x562005(0x69c),'DJjYw':_0x562005(0x7a4)+_0x562005(0x369)+'.','AIUfa':function(_0x3f1179,_0x46c6af,_0x1f6e2b){return _0x3f1179(_0x46c6af,_0x1f6e2b);},'LjsIh':function(_0x1af61e,_0x5d8562){return _0x1af61e===_0x5d8562;},'UsOjP':_0x562005(0x510)+'e','aPtzw':_0x562005(0x289)+_0x562005(0x5b1),'FbTdH':function(_0x5d56a0,_0x24ed0c){return _0x5d56a0(_0x24ed0c);},'Rirre':_0x562005(0x2cb)+'ed','pGATt':_0x562005(0x66c),'AWPPK':function(_0x2205d6){return _0x2205d6();},'wBXpS':_0x562005(0x5f1)+_0x562005(0x50f),'YYDoP':_0x562005(0x6eb)+_0x562005(0x366),'RirHL':_0x562005(0x74d),'gCFTF':_0x562005(0x6b9)+_0x562005(0x429),'GDEKC':_0x562005(0x77f),'vRXTh':_0x562005(0x26b)+_0x562005(0x3ef),'ivWAv':function(_0x2c03c3){return _0x2c03c3();},'KFsjl':_0x562005(0x261)+_0x562005(0x5c6),'KpFvU':function(_0x143b07,_0x13a70b){return _0x143b07+_0x13a70b;},'CiAQz':_0x562005(0x6bf)+_0x562005(0x546)+_0x562005(0x617),'QnZnp':function(_0x28b3be,_0x3f94d7){return _0x28b3be(_0x3f94d7);},'TFtEb':function(_0x3a9767,_0x7dd17){return _0x3a9767+_0x7dd17;},'xcWVP':_0x562005(0x6e2)+_0x562005(0x794),'oWAlG':_0x562005(0x55a)+')','XyMuY':_0x562005(0x43a),'oxZXl':_0x562005(0x243),'eaMkl':_0x562005(0x71d),'iWbsi':function(_0x26eced){return _0x26eced();},'fNEfl':function(_0x2ed669){return _0x2ed669();},'GVUuC':_0x562005(0x5f1)+_0x562005(0x240)+_0x562005(0x340),'arEkD':_0x562005(0x720)+_0x562005(0x690)+'.','wIYIU':function(_0x3f3fab){return _0x3f3fab();},'XJJuX':_0x562005(0x725)+_0x562005(0x6b4)+_0x562005(0x59e)+_0x562005(0x709),'rvuZz':_0x562005(0x35a)+_0x562005(0x2f5),'QEaxK':_0x562005(0x5ff),'JfPny':_0x562005(0x5e9),'fPpsu':_0x562005(0x502),'dXkEj':function(_0x379cb4,_0x29886f){return _0x379cb4&&_0x29886f;},'UqJkx':function(_0x3eec1a,_0x32c2d8){return _0x3eec1a&&_0x32c2d8;},'gtTSP':function(_0x32a1a0,_0x3d3272){return _0x32a1a0(_0x3d3272);},'vpgxR':function(_0xf949e2){return _0xf949e2();},'Rlqox':_0x562005(0x6da)+_0x562005(0x48f)+_0x562005(0x571)+_0x562005(0x38e)+_0x562005(0x507),'dmvKp':_0x562005(0x533)+_0x562005(0x41b)+_0x562005(0x346)+_0x562005(0x449),'vNvqn':function(_0x2c8df5,_0xdb1c17){return _0x2c8df5||_0xdb1c17;}};console[_0x562005(0x4e3)](_0x1333b7[_0x562005(0x45b)]);try{await _0x1333b7[_0x562005(0x2ec)](checkRemoteStatus);}catch(_0x13753c){console[_0x562005(0x508)](_0x1333b7[_0x562005(0x5c0)],_0x13753c);return;}const _0x550f28=document[_0x562005(0x310)+_0x562005(0x31c)](_0x1333b7[_0x562005(0x3ed)]),_0x2d28ce=document[_0x562005(0x310)+_0x562005(0x31c)](_0x1333b7[_0x562005(0x5e5)]),_0x2738ad=document[_0x562005(0x660)+_0x562005(0x701)](_0x1333b7[_0x562005(0x5db)]),_0x4f115f=document[_0x562005(0x310)+_0x562005(0x31c)](_0x1333b7[_0x562005(0x4d2)]);if(_0x4f115f){const _0x5f0b39=_0x4f115f[_0x562005(0x788)](!![]);_0x4f115f[_0x562005(0x75b)][_0x562005(0x221)+'ld'](_0x5f0b39,_0x4f115f),_0x5f0b39[_0x562005(0x51e)+_0x562005(0x745)](_0x1333b7[_0x562005(0x203)],async function(_0x25fd5f){const _0x50f75f=_0x562005;_0x25fd5f[_0x50f75f(0x349)+_0x50f75f(0x4c8)]();if(_0x1333b7[_0x50f75f(0x6aa)](validateForm)){const _0x2a4bc4=document[_0x50f75f(0x660)+_0x50f75f(0x701)](_0x1333b7[_0x50f75f(0x5a7)]),_0x21c058=_0x2a4bc4[_0x50f75f(0x386)+'t'];_0x2a4bc4[_0x50f75f(0x386)+'t']=_0x1333b7[_0x50f75f(0x3bb)],_0x2a4bc4[_0x50f75f(0x675)]=!![];const _0x444c4d=document[_0x50f75f(0x310)+_0x50f75f(0x31c)](_0x1333b7[_0x50f75f(0x35b)])[_0x50f75f(0x703)][_0x50f75f(0x76c)](),_0x52fd26=document[_0x50f75f(0x310)+_0x50f75f(0x31c)](_0x1333b7[_0x50f75f(0x5b4)])[_0x50f75f(0x703)],_0x21e9d6=document[_0x50f75f(0x310)+_0x50f75f(0x31c)](_0x1333b7[_0x50f75f(0x6b6)])[_0x50f75f(0x72f)];try{console[_0x50f75f(0x4e3)](_0x1333b7[_0x50f75f(0x2f9)]);const _0x1c22eb=await _0x1333b7[_0x50f75f(0x56d)](loginAPI,_0x444c4d,_0x52fd26);if(_0x1333b7[_0x50f75f(0x61c)](_0x1c22eb[_0x50f75f(0x61e)],!![])){_0x21e9d6?(localStorage[_0x50f75f(0x740)](_0x1333b7[_0x50f75f(0x663)],_0x444c4d),localStorage[_0x50f75f(0x740)](_0x1333b7[_0x50f75f(0x42d)],_0x1333b7[_0x50f75f(0x5dd)](btoa,_0x52fd26)),localStorage[_0x50f75f(0x740)](_0x1333b7[_0x50f75f(0x327)],_0x1333b7[_0x50f75f(0x2f4)])):(localStorage[_0x50f75f(0x326)](_0x1333b7[_0x50f75f(0x663)]),localStorage[_0x50f75f(0x326)](_0x1333b7[_0x50f75f(0x42d)]),localStorage[_0x50f75f(0x326)](_0x1333b7[_0x50f75f(0x327)]));_0x1333b7[_0x50f75f(0x6aa)](updateUserInfoDisplay);try{const _0x5851eb=await _0x1333b7[_0x50f75f(0x729)](getUserInfo);if(_0x5851eb)_0x1333b7[_0x50f75f(0x5dd)](updateUserInfoDisplay,_0x5851eb);const _0x1a2ae6=await _0x1333b7[_0x50f75f(0x6aa)](getIdolList);if(_0x1a2ae6)_0x1333b7[_0x50f75f(0x5dd)](renderApiIdolList,_0x1a2ae6);}catch(_0x3d3e3a){console[_0x50f75f(0x508)](_0x1333b7[_0x50f75f(0x32a)],_0x3d3e3a);}document[_0x50f75f(0x660)+_0x50f75f(0x701)](_0x1333b7[_0x50f75f(0x29d)])[_0x50f75f(0x30a)][_0x50f75f(0x2c4)]=_0x1333b7[_0x50f75f(0x292)],document[_0x50f75f(0x310)+_0x50f75f(0x31c)](_0x1333b7[_0x50f75f(0x5e5)])[_0x50f75f(0x30a)][_0x50f75f(0x2c4)]=_0x1333b7[_0x50f75f(0x5bd)],document[_0x50f75f(0x660)+_0x50f75f(0x701)](_0x1333b7[_0x50f75f(0x5db)])[_0x50f75f(0x30a)][_0x50f75f(0x2c4)]=_0x1333b7[_0x50f75f(0x5bd)],_0x1333b7[_0x50f75f(0x32d)](renderIdolList);}else{const _0x11a021=_0x1c22eb[_0x50f75f(0x508)]||_0x1333b7[_0x50f75f(0x556)];_0x1333b7[_0x50f75f(0x5dd)](alert,_0x1333b7[_0x50f75f(0x4e5)](_0x1333b7[_0x50f75f(0x3de)],_0x11a021));}}catch(_0xa9739a){_0x1333b7[_0x50f75f(0x48a)](alert,_0x1333b7[_0x50f75f(0x66f)](_0x1333b7[_0x50f75f(0x2a9)],_0xa9739a[_0x50f75f(0x76b)]));}finally{_0x2a4bc4[_0x50f75f(0x386)+'t']=_0x21c058,_0x2a4bc4[_0x50f75f(0x675)]=![];}}});}document[_0x562005(0x660)+_0x562005(0x2e5)](_0x1333b7[_0x562005(0x2ef)])[_0x562005(0x37d)](_0x46c979=>{const _0x332535=_0x562005,_0x3f9ca3={'SdDGI':_0x1333b7[_0x332535(0x5e0)],'BtPAj':_0x1333b7[_0x332535(0x2dd)]};_0x46c979[_0x332535(0x51e)+_0x332535(0x745)](_0x1333b7[_0x332535(0x45c)],function(){const _0x422b44=_0x332535;this[_0x422b44(0x706)+_0x422b44(0x560)][_0x422b44(0x30a)][_0x422b44(0x3b3)]=_0x3f9ca3[_0x422b44(0x780)];}),_0x46c979[_0x332535(0x51e)+_0x332535(0x745)](_0x1333b7[_0x332535(0x5c1)],function(){const _0x380dca=_0x332535;this[_0x380dca(0x706)+_0x380dca(0x560)][_0x380dca(0x30a)][_0x380dca(0x3b3)]=_0x3f9ca3[_0x380dca(0x463)];});});const _0x5900c6=localStorage[_0x562005(0x53b)](_0x1333b7[_0x562005(0x663)]),_0x200f15=localStorage[_0x562005(0x53b)](_0x1333b7[_0x562005(0x42d)]),_0x19730b=_0x1333b7[_0x562005(0x61c)](localStorage[_0x562005(0x53b)](_0x1333b7[_0x562005(0x327)]),_0x1333b7[_0x562005(0x2f4)]);if(_0x1333b7[_0x562005(0x750)](_0x5900c6,_0x19730b)){const _0x89d408=document[_0x562005(0x310)+_0x562005(0x31c)](_0x1333b7[_0x562005(0x35b)]),_0x12dc1d=document[_0x562005(0x310)+_0x562005(0x31c)](_0x1333b7[_0x562005(0x6b6)]);if(_0x89d408)_0x89d408[_0x562005(0x703)]=_0x5900c6;if(_0x12dc1d)_0x12dc1d[_0x562005(0x72f)]=!![];}if(_0x1333b7[_0x562005(0x26d)](_0x200f15,_0x19730b)){const _0x3c676e=document[_0x562005(0x310)+_0x562005(0x31c)](_0x1333b7[_0x562005(0x5b4)]);if(_0x3c676e)try{_0x3c676e[_0x562005(0x703)]=_0x1333b7[_0x562005(0x3cb)](atob,_0x200f15);}catch(_0x5367bc){}}if(_0x1333b7[_0x562005(0x1f5)](isLoggedIn)){console[_0x562005(0x4e3)](_0x1333b7[_0x562005(0x5b9)]);if(_0x550f28)_0x550f28[_0x562005(0x30a)][_0x562005(0x2c4)]=_0x1333b7[_0x562005(0x292)];if(_0x2d28ce)_0x2d28ce[_0x562005(0x30a)][_0x562005(0x2c4)]=_0x1333b7[_0x562005(0x5bd)];if(_0x2738ad)_0x2738ad[_0x562005(0x30a)][_0x562005(0x2c4)]=_0x1333b7[_0x562005(0x5bd)];_0x1333b7[_0x562005(0x4c0)](updateUserInfoDisplay),((async()=>{const _0x66c128=_0x562005;try{const _0x3c4d83=await _0x1333b7[_0x66c128(0x4c0)](getUserInfo);if(_0x3c4d83)_0x1333b7[_0x66c128(0x48a)](updateUserInfoDisplay,_0x3c4d83);const _0x12aa87=await _0x1333b7[_0x66c128(0x4e6)](getIdolList);if(_0x12aa87)_0x1333b7[_0x66c128(0x5dd)](renderApiIdolList,_0x12aa87);}catch(_0x198424){console[_0x66c128(0x508)](_0x1333b7[_0x66c128(0x2a4)],_0x198424);}})());}else{console[_0x562005(0x4e3)](_0x1333b7[_0x562005(0x21a)]);if(_0x550f28)_0x550f28[_0x562005(0x30a)][_0x562005(0x2c4)]=_0x1333b7[_0x562005(0x5bd)];if(_0x2d28ce)_0x2d28ce[_0x562005(0x30a)][_0x562005(0x2c4)]=_0x1333b7[_0x562005(0x292)];if(_0x2738ad)_0x2738ad[_0x562005(0x30a)][_0x562005(0x2c4)]=_0x1333b7[_0x562005(0x292)];const _0x2819fb=document[_0x562005(0x310)+_0x562005(0x31c)](_0x1333b7[_0x562005(0x35b)]);_0x2819fb&&_0x1333b7[_0x562005(0x636)](!_0x5900c6,!_0x19730b)&&_0x1333b7[_0x562005(0x56d)](setTimeout,()=>_0x2819fb[_0x562005(0x243)](),-0x30d+-0x2255+0x25c6),_0x1333b7[_0x562005(0x4e6)](renderIdolList);}_0x1333b7[_0x562005(0x729)](setupSearchInput);}(function(){const _0x431e5d=_0xb46521,_0x597cc8={'NKWZN':function(_0xb0bd2f,_0x4f6aec){return _0xb0bd2f(_0x4f6aec);},'pkyGU':function(_0x3b0da3,_0x41facf){return _0x3b0da3+_0x41facf;},'OOIFL':function(_0x844129,_0x31225f){return _0x844129+_0x31225f;},'cmTDH':_0x431e5d(0x73f)+_0x431e5d(0x3f2),'HgiOf':_0x431e5d(0x405)+_0x431e5d(0x770)+_0x431e5d(0x27b)+'\x20)','ymrbm':function(_0x41892a){return _0x41892a();}},_0x125025=function(){const _0x26c794=_0x431e5d;let _0x273b96;try{_0x273b96=_0x597cc8[_0x26c794(0x4e0)](Function,_0x597cc8[_0x26c794(0x2e0)](_0x597cc8[_0x26c794(0x27d)](_0x597cc8[_0x26c794(0x238)],_0x597cc8[_0x26c794(0x619)]),');'))();}catch(_0x13072a){_0x273b96=window;}return _0x273b96;},_0x54f9b7=_0x597cc8[_0x431e5d(0x435)](_0x125025);_0x54f9b7[_0x431e5d(0x5c9)+'l'](_0x7b8992,0x342*0xb+0x12*-0x67+-0xcf8);}()),window[_0xb46521(0x5a4)]=initApp;function _0x7b8992(_0x45b9f8){const _0x587efb=_0xb46521,_0x3ae31a={'ALOfD':function(_0x41cac7,_0x290edf){return _0x41cac7===_0x290edf;},'OCnwU':_0x587efb(0x413),'FPJJh':_0x587efb(0x2de)+_0x587efb(0x211),'afjJt':_0x587efb(0x589),'PuTBg':function(_0x2344d5,_0x247bb3){return _0x2344d5!==_0x247bb3;},'zYEbz':function(_0x16bab7,_0x6d11a1){return _0x16bab7+_0x6d11a1;},'lInUf':function(_0x49c746,_0x3fa9b4){return _0x49c746/_0x3fa9b4;},'ngMti':_0x587efb(0x75c),'iuGJU':function(_0x3f39f2,_0x280654){return _0x3f39f2%_0x280654;},'Jmsuy':_0x587efb(0x410),'HCeSo':_0x587efb(0x3a3),'GPDlI':_0x587efb(0x205),'xTqDl':function(_0xe09d4a,_0x2efa0f){return _0xe09d4a+_0x2efa0f;},'ZZqAN':_0x587efb(0x676)+'t','EzOPb':function(_0x83806,_0xda1e5e){return _0x83806(_0xda1e5e);},'pZDhJ':function(_0x4a32e7,_0x5b3ece){return _0x4a32e7(_0x5b3ece);}};function _0x3baf8d(_0x4f8d7f){const _0x21852c=_0x587efb;if(_0x3ae31a[_0x21852c(0x301)](typeof _0x4f8d7f,_0x3ae31a[_0x21852c(0x678)]))return function(_0x23495b){}[_0x21852c(0x749)+'r'](_0x3ae31a[_0x21852c(0x6be)])[_0x21852c(0x6f5)](_0x3ae31a[_0x21852c(0x78d)]);else _0x3ae31a[_0x21852c(0x3d1)](_0x3ae31a[_0x21852c(0x4ff)]('',_0x3ae31a[_0x21852c(0x24a)](_0x4f8d7f,_0x4f8d7f))[_0x3ae31a[_0x21852c(0x24c)]],-0x16f3+0x1*0x2069+-0x327*0x3)||_0x3ae31a[_0x21852c(0x301)](_0x3ae31a[_0x21852c(0x228)](_0x4f8d7f,-0x2702+-0x10ce*0x1+0x1bf2*0x2),0x2f3*-0xd+0x1ab0+0x9d*0x13)?function(){return!![];}[_0x21852c(0x749)+'r'](_0x3ae31a[_0x21852c(0x4ff)](_0x3ae31a[_0x21852c(0x387)],_0x3ae31a[_0x21852c(0x41f)]))[_0x21852c(0x682)](_0x3ae31a[_0x21852c(0x64a)]):function(){return![];}[_0x21852c(0x749)+'r'](_0x3ae31a[_0x21852c(0x338)](_0x3ae31a[_0x21852c(0x387)],_0x3ae31a[_0x21852c(0x41f)]))[_0x21852c(0x6f5)](_0x3ae31a[_0x21852c(0x4d5)]);_0x3ae31a[_0x21852c(0x761)](_0x3baf8d,++_0x4f8d7f);}try{if(_0x45b9f8)return _0x3baf8d;else _0x3ae31a[_0x587efb(0x275)](_0x3baf8d,-0x248*0x4+-0x13da+0x1cfa);}catch(_0x3f23bc){}}
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Viewport chuẩn cho Mobile: Chặn zoom, fit màn hình -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    
+    <!-- CẤU HÌNH WEB APP (FULL MÀN HÌNH - iOS/Android) -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="MMLive Tools">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#0f0c29">
+    
+    <!-- ICON APP (Hiển thị khi thêm vào màn hình chính) -->
+    <link rel="apple-touch-icon" href="https://ui-avatars.com/api/?name=MM&background=0D8ABC&color=fff&size=512&font-size=0.5">
+    <link rel="icon" type="image/png" href="https://ui-avatars.com/api/?name=MM&background=0D8ABC&color=fff&size=512&font-size=0.5">
+
+    <title>Long Nguyễn - Tools MMLive (Mobile Layout Fixed)</title>
+    
+    <!-- Thư viện MD5 inline - GIỮ NGUYÊN 100% -->
+    <script>
+        // MD5 implementation
+        function md5(string) {
+            function rotateLeft(value, amount) {
+                var lbits = value << amount;
+                var rbits = value >>> (32 - amount);
+                return (lbits | rbits) & 0xFFFFFFFF;
+            }
+
+            function addUnsigned(lX, lY) {
+                var lX4, lY4, lX8, lY8, lResult;
+                lX8 = (lX & 0x80000000);
+                lY8 = (lY & 0x80000000);
+                lX4 = (lX & 0x40000000);
+                lY4 = (lY & 0x40000000);
+                lResult = (lX & 0x3FFFFFFF) + (lY & 0x3FFFFFFF);
+                if (lX4 & lY4) {
+                    return (lResult ^ 0x80000000 ^ lX8 ^ lY8);
+                }
+                if (lX4 | lY4) {
+                    if (lResult & 0x40000000) {
+                        return (lResult ^ 0xC0000000 ^ lX8 ^ lY8);
+                    } else {
+                        return (lResult ^ 0x40000000 ^ lX8 ^ lY8);
+                    }
+                } else {
+                    return (lResult ^ lX8 ^ lY8);
+                }
+            }
+
+            function F(x, y, z) { return (x & y) | ((~x) & z); }
+            function G(x, y, z) { return (x & z) | (y & (~z)); }
+            function H(x, y, z) { return (x ^ y ^ z); }
+            function I(x, y, z) { return (y ^ (x | (~z))); }
+
+            function FF(a, b, c, d, x, s, ac) {
+                a = addUnsigned(a, addUnsigned(addUnsigned(F(b, c, d), x), ac));
+                return addUnsigned(rotateLeft(a, s), b);
+            }
+
+            function GG(a, b, c, d, x, s, ac) {
+                a = addUnsigned(a, addUnsigned(addUnsigned(G(b, c, d), x), ac));
+                return addUnsigned(rotateLeft(a, s), b);
+            }
+
+            function HH(a, b, c, d, x, s, ac) {
+                a = addUnsigned(a, addUnsigned(addUnsigned(H(b, c, d), x), ac));
+                return addUnsigned(rotateLeft(a, s), b);
+            }
+
+            function II(a, b, c, d, x, s, ac) {
+                a = addUnsigned(a, addUnsigned(addUnsigned(I(b, c, d), x), ac));
+                return addUnsigned(rotateLeft(a, s), b);
+            }
+
+            function convertToWordArray(string) {
+                var lWordCount;
+                var lMessageLength = string.length;
+                var lNumberOfWords_temp1 = lMessageLength + 8;
+                var lNumberOfWords_temp2 = (lNumberOfWords_temp1 - (lNumberOfWords_temp1 % 64)) / 64;
+                var lNumberOfWords = (lNumberOfWords_temp2 + 1) * 16;
+                var lWordArray = Array(lNumberOfWords - 1);
+                var lBytePosition = 0;
+                var lByteCount = 0;
+                while (lByteCount < lMessageLength) {
+                    lWordCount = (lByteCount - (lByteCount % 4)) / 4;
+                    lBytePosition = (lByteCount % 4) * 8;
+                    lWordArray[lWordCount] = (lWordArray[lWordCount] | (string.charCodeAt(lByteCount) << lBytePosition));
+                    lByteCount++;
+                }
+                lWordCount = (lByteCount - (lByteCount % 4)) / 4;
+                lBytePosition = (lByteCount % 4) * 8;
+                lWordArray[lWordCount] = lWordArray[lWordCount] | (0x80 << lBytePosition);
+                lWordArray[lNumberOfWords - 2] = lMessageLength << 3;
+                lWordArray[lNumberOfWords - 1] = lMessageLength >>> 29;
+                return lWordArray;
+            }
+
+            function wordToHex(lValue) {
+                var WordToHexValue = "", WordToHexValue_temp = "", lByte, lCount;
+                for (lCount = 0; lCount <= 3; lCount++) {
+                    lByte = (lValue >>> (lCount * 8)) & 255;
+                    WordToHexValue_temp = "0" + lByte.toString(16);
+                    WordToHexValue = WordToHexValue + WordToHexValue_temp.substr(WordToHexValue_temp.length - 2, 2);
+                }
+                return WordToHexValue;
+            }
+
+            var x = Array();
+            var k, AA, BB, CC, DD, a, b, c, d;
+            var S11 = 7, S12 = 12, S13 = 17, S14 = 22;
+            var S21 = 5, S22 = 9, S23 = 14, S24 = 20;
+            var S31 = 4, S32 = 11, S33 = 16, S34 = 23;
+            var S41 = 6, S42 = 10, S43 = 15, S44 = 21;
+
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+            for (var n = 0; n < string.length; n++) {
+                var c = string.charCodeAt(n);
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                } else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                } else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+            }
+
+            x = convertToWordArray(utftext);
+            a = 0x67452301; b = 0xEFCDAB89; c = 0x98BADCFE; d = 0x10325476;
+
+            for (k = 0; k < x.length; k += 16) {
+                AA = a; BB = b; CC = c; DD = d;
+                a = FF(a, b, c, d, x[k + 0], S11, 0xD76AA478);
+                d = FF(d, a, b, c, x[k + 1], S12, 0xE8C7B756);
+                c = FF(c, d, a, b, x[k + 2], S13, 0x242070DB);
+                b = FF(b, c, d, a, x[k + 3], S14, 0xC1BDCEEE);
+                a = FF(a, b, c, d, x[k + 4], S11, 0xF57C0FAF);
+                d = FF(d, a, b, c, x[k + 5], S12, 0x4787C62A);
+                c = FF(c, d, a, b, x[k + 6], S13, 0xA8304613);
+                b = FF(b, c, d, a, x[k + 7], S14, 0xFD469501);
+                a = FF(a, b, c, d, x[k + 8], S11, 0x698098D8);
+                d = FF(d, a, b, c, x[k + 9], S12, 0x8B44F7AF);
+                c = FF(c, d, a, b, x[k + 10], S13, 0xFFFF5BB1);
+                b = FF(b, c, d, a, x[k + 11], S14, 0x895CD7BE);
+                a = FF(a, b, c, d, x[k + 12], S11, 0x6B901122);
+                d = FF(d, a, b, c, x[k + 13], S12, 0xFD987193);
+                c = FF(c, d, a, b, x[k + 14], S13, 0xA679438E);
+                b = FF(b, c, d, a, x[k + 15], S14, 0x49B40821);
+                a = GG(a, b, c, d, x[k + 1], S21, 0xF61E2562);
+                d = GG(d, a, b, c, x[k + 6], S22, 0xC040B340);
+                c = GG(c, d, a, b, x[k + 11], S23, 0x265E5A51);
+                b = GG(b, c, d, a, x[k + 0], S24, 0xE9B6C7AA);
+                a = GG(a, b, c, d, x[k + 5], S21, 0xD62F105D);
+                d = GG(d, a, b, c, x[k + 10], S22, 0x2441453);
+                c = GG(c, d, a, b, x[k + 15], S23, 0xD8A1E681);
+                b = GG(b, c, d, a, x[k + 4], S24, 0xE7D3FBC8);
+                a = GG(a, b, c, d, x[k + 9], S21, 0x21E1CDE6);
+                d = GG(d, a, b, c, x[k + 14], S22, 0xC33707D6);
+                c = GG(c, d, a, b, x[k + 3], S23, 0xF4D50D87);
+                b = GG(b, c, d, a, x[k + 8], S24, 0x455A14ED);
+                a = GG(a, b, c, d, x[k + 13], S21, 0xA9E3E905);
+                d = GG(d, a, b, c, x[k + 2], S22, 0xFCEFA3F8);
+                c = GG(c, d, a, b, x[k + 7], S23, 0x676F02D9);
+                b = GG(b, c, d, a, x[k + 12], S24, 0x8D2A4C8A);
+                a = HH(a, b, c, d, x[k + 5], S31, 0xFFFA3942);
+                d = HH(d, a, b, c, x[k + 8], S32, 0x8771F681);
+                c = HH(c, d, a, b, x[k + 11], S33, 0x6D9D6122);
+                b = HH(b, c, d, a, x[k + 14], S34, 0xFDE5380C);
+                a = HH(a, b, c, d, x[k + 1], S31, 0xA4BEEA44);
+                d = HH(d, a, b, c, x[k + 4], S32, 0x4BDECFA9);
+                c = HH(c, d, a, b, x[k + 7], S33, 0xF6BB4B60);
+                b = HH(b, c, d, a, x[k + 10], S34, 0xBEBFBC70);
+                a = HH(a, b, c, d, x[k + 13], S31, 0x289B7EC6);
+                d = HH(d, a, b, c, x[k + 0], S32, 0xEAA127FA);
+                c = HH(c, d, a, b, x[k + 3], S33, 0xD4EF3085);
+                b = HH(b, c, d, a, x[k + 6], S34, 0x4881D05);
+                a = HH(a, b, c, d, x[k + 9], S31, 0xD9D4D039);
+                d = HH(d, a, b, c, x[k + 12], S32, 0xE6DB99E5);
+                c = HH(c, d, a, b, x[k + 15], S33, 0x1FA27CF8);
+                b = HH(b, c, d, a, x[k + 2], S34, 0xC4AC5665);
+                a = II(a, b, c, d, x[k + 0], S41, 0xF4292244);
+                d = II(d, a, b, c, x[k + 7], S42, 0x432AFF97);
+                c = II(c, d, a, b, x[k + 14], S43, 0xAB9423A7);
+                b = II(b, c, d, a, x[k + 5], S44, 0xFC93A039);
+                a = II(a, b, c, d, x[k + 12], S41, 0x655B59C3);
+                d = II(d, a, b, c, x[k + 3], S42, 0x8F0CCC92);
+                c = II(c, d, a, b, x[k + 10], S43, 0xFFEFF47D);
+                b = II(b, c, d, a, x[k + 1], S44, 0x85845DD1);
+                a = II(a, b, c, d, x[k + 8], S41, 0x6FA87E4F);
+                d = II(d, a, b, c, x[k + 15], S42, 0xFE2CE6E0);
+                c = II(c, d, a, b, x[k + 6], S43, 0xA3014314);
+                b = II(b, c, d, a, x[k + 13], S44, 0x4E0811A1);
+                a = II(a, b, c, d, x[k + 4], S41, 0xF7537E82);
+                d = II(d, a, b, c, x[k + 11], S42, 0xBD3AF235);
+                c = II(c, d, a, b, x[k + 2], S43, 0x2AD7D2BB);
+                b = II(b, c, d, a, x[k + 9], S44, 0xEB86D391);
+                a = addUnsigned(a, AA);
+                b = addUnsigned(b, BB);
+                c = addUnsigned(c, CC);
+                d = addUnsigned(d, DD);
+            }
+
+            return (wordToHex(a) + wordToHex(b) + wordToHex(c) + wordToHex(d)).toLowerCase();
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+        :root {
+            --primary-gradient: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+            --glass-bg: rgba(255, 255, 255, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.6);
+            --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+            --card-hover-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+            --text-main: #2c3e50;
+            --text-secondary: #596275;
+            --accent-color: #5758BB;
+            --success-color: #009432;
+            --danger-color: #EA2027;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            outline: none;
+            /* Tắt highlight màu xanh khi tap trên mobile */
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        html {
+            width: 100%;
+        }
+
+        body {
+            font-family: 'Inter', 'Segoe UI', sans-serif;
+            background: var(--primary-gradient);
+            background-attachment: fixed;
+            min-height: 100vh;
+            width: 100%;
+            padding: 20px;
+            color: var(--text-main);
+            overflow-x: hidden; 
+            /* Fix padding cho chế độ Web App trên iPhone tai thỏ */
+            padding-top: max(20px, env(safe-area-inset-top));
+            padding-bottom: max(20px, env(safe-area-inset-bottom));
+        }
+
+        /* PREMIUM LAYOUT - 2 COLUMNS ON DESKTOP */
+        .main-container {
+            display: grid;
+            grid-template-columns: 380px 1fr; /* Default desktop */
+            gap: 25px;
+            width: 100%;
+            max-width: 1440px;
+            margin: 0 auto;
+            align-items: start;
+            min-height: calc(100vh - 60px);
+        }
+
+        /* GLASSMORPHISM CARD STYLE BASE */
+        .glass-panel {
+            background: var(--glass-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border-radius: 20px;
+            border: 1px solid var(--glass-border);
+            box-shadow: var(--glass-shadow);
+            padding: 25px;
+            transition: all 0.3s ease;
+        }
+
+        /* LOGIN STATE - COMPACT - KHẮC PHỤC LOAD CHẬM: ẨN MẶC ĐỊNH */
+        .login-container {
+            grid-column: 1 / -1; 
+            max-width: 400px;
+            margin: 10vh auto;
+            padding: 30px;
+            height: fit-content;
+            width: 100%;
+            /* QUAN TRỌNG: Ẩn ngay từ đầu để tránh chớp nháy */
+            display: none; 
+        }
+
+        .login-header h1 {
+            color: var(--text-main);
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            font-weight: 800;
+            letter-spacing: -1px;
+            background: -webkit-linear-gradient(45deg, #302b63, #24243e);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .login-header p {
+            font-size: 0.9rem;
+            margin-bottom: 20px;
+        }
+
+        /* SIDEBAR (LEFT) */
+        .sidebar-container {
+            display: none;
+            height: fit-content;
+            position: sticky;
+            top: 20px; 
+        }
+
+        /* IDOL CONTAINER (RIGHT) */
+        .idol-container {
+            display: none;
+            min-height: 100%; 
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* FORM ELEMENTS */
+        .form-group { margin-bottom: 20px; position: relative; }
+        .form-group label {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 6px;
+            display: block;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid rgba(0,0,0,0.08);
+            border-radius: 12px;
+            font-size: 0.95rem;
+            background: rgba(255,255,255,0.8);
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            color: #333;
+        }
+
+        .form-group input:focus {
+            border-color: var(--accent-color);
+            box-shadow: 0 4px 15px rgba(87, 88, 187, 0.15);
+            background: #fff;
+        }
+
+        /* STYLE CHO NÚT XOÁ (X) NẰM TRONG INPUT */
+        .clear-input-btn {
+            position: absolute;
+            right: 30px; /* Dời sang trái để nhường chỗ cho mũi tên */
+            top: 50%;
+            transform: translateY(-50%);
+            background: transparent;
+            border: none;
+            color: #b2bec3; /* Xám nhạt mặc định */
+            font-size: 1.1rem;
+            cursor: pointer;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            z-index: 10;
+        }
+
+        .clear-input-btn:hover {
+            color: #ff4757; /* Đỏ khi hover */
+            background: rgba(255, 71, 87, 0.1);
+        }
+
+        .login-btn, .search-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            letter-spacing: 0.5px;
+        }
+        
+        .login-btn { padding: 12px; width: 100%; margin-top: 5px; }
+        
+        .login-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        /* NEW DARK TRANSLUCENT BUTTON STYLES (V11) */
+        
+        /* Shared Styles for All Tool Buttons */
+        .tool-btn, .quick-btn {
+            border-width: 2px;
+            border-style: solid;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            font-weight: 700;
+            text-transform: uppercase;
+            box-shadow: none;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .tool-btn:hover, .quick-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        /* QUICK SELECT BUTTONS - DARK TRANSLUCENT PILLS (GRID LAYOUT) */
+        .quick-select-group {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+            margin-top: 15px;
+        }
+
+        .quick-btn {
+            padding: 8px 0;
+            text-align: center;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            width: 100%;
+            letter-spacing: 0.5px;
+        }
+
+        /* + 100: Cyan Style */
+        .btn-cyan {
+            background: rgba(30, 30, 40, 0.6);
+            border-color: #00d2d3;
+            color: #ffffff;
+        }
+        .btn-cyan:hover {
+            background: rgba(0, 210, 211, 0.15); 
+            box-shadow: 0 0 15px rgba(0, 210, 211, 0.4);
+            text-shadow: 0 0 5px rgba(0, 210, 211, 0.5);
+        }
+
+        /* + 200: Green Style */
+        .btn-green {
+            background: rgba(30, 30, 40, 0.6);
+            border-color: #2ecc71;
+            color: #ffffff;
+        }
+        .btn-green:hover {
+            background: rgba(46, 204, 113, 0.15);
+            box-shadow: 0 0 15px rgba(46, 204, 113, 0.4);
+            text-shadow: 0 0 5px rgba(46, 204, 113, 0.5);
+        }
+
+        /* + 300: Purple Style */
+        .btn-purple {
+            background: rgba(30, 30, 40, 0.6);
+            border-color: #9b59b6;
+            color: #ffffff;
+        }
+        .btn-purple:hover {
+            background: rgba(155, 89, 182, 0.15);
+            box-shadow: 0 0 15px rgba(155, 89, 182, 0.4);
+            text-shadow: 0 0 5px rgba(155, 89, 182, 0.5);
+        }
+
+        /* + 1000: Orange/Gold Style */
+        .btn-orange {
+            background: rgba(30, 30, 40, 0.6);
+            border-color: #f1c40f;
+            color: #ffffff;
+        }
+        .btn-orange:hover {
+            background: rgba(241, 196, 15, 0.15);
+            box-shadow: 0 0 15px rgba(241, 196, 15, 0.4);
+            text-shadow: 0 0 5px rgba(241, 196, 15, 0.5);
+        }
+
+        /* MAIN ACTION BUTTONS - DARK TRANSLUCENT STYLE */
+        .tool-btn {
+            border-radius: 12px;
+            font-size: 0.9rem;
+            letter-spacing: 1px;
+            width: 100%;
+        }
+
+        /* Buff View: Green/Teal Neon */
+        .glow-green {
+            background: rgba(30, 30, 40, 0.6);
+            border-color: #0be881;
+            color: #ffffff;
+        }
+        .glow-green:hover {
+            background: rgba(11, 232, 129, 0.15);
+            box-shadow: 0 0 15px rgba(11, 232, 129, 0.4);
+            text-shadow: 0 0 5px rgba(11, 232, 129, 0.5);
+        }
+
+        /* Phá Idol: Red Neon */
+        .glow-red {
+            background: rgba(30, 30, 40, 0.6);
+            border-color: #ff3f34;
+            color: #ffffff;
+        }
+        .glow-red:hover {
+            background: rgba(255, 63, 52, 0.15);
+            box-shadow: 0 0 15px rgba(255, 63, 52, 0.4);
+            text-shadow: 0 0 5px rgba(255, 63, 52, 0.5);
+        }
+
+        /* Đăng Xuất: Gray Neon */
+        .glow-white {
+            background: rgba(30, 30, 40, 0.6);
+            border-color: #bdc3c7;
+            color: #ffffff;
+        }
+        .glow-white:hover {
+            background: rgba(189, 195, 199, 0.15);
+            border-color: #fff;
+            color: #fff;
+            box-shadow: 0 0 15px rgba(236, 240, 241, 0.4);
+        }
+
+        /* USER PROFILE STYLES */
+        .profile-card-header {
+            text-align: center;
+            padding-bottom: 20px;
+            border-bottom: 1px dashed rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+
+        .avatar-glow {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            border: 4px solid #fff;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            object-fit: cover;
+            margin-bottom: 15px;
+        }
+
+        .stat-badge {
+            display: inline-flex;
+            align-items: center;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: white;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        }
+
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+        
+        .info-label { font-size: 0.9rem; color: var(--text-secondary); font-weight: 500; }
+        .info-value { font-family: 'Consolas', monospace; font-weight: 700; color: var(--text-main); }
+
+        /* IDOL GRID & SEARCH */
+        .idol-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+            flex-wrap: wrap; /* Cho phép xuống dòng trên mobile */
+            gap: 10px;
+        }
+
+        .idol-header h2 { font-size: 1.5rem; font-weight: 800; color: var(--text-main); }
+        
+        .search-wrapper {
+            background: white;
+            padding: 8px;
+            border-radius: 12px;
+            display: flex;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            border: 1px solid rgba(0,0,0,0.05);
+            flex-grow: 1; /* Tự co giãn trên mobile */
+        }
+
+        .search-input {
+            border: none;
+            padding: 10px 15px;
+            flex-grow: 1;
+            font-size: 0.95rem;
+            border-radius: 8px;
+            min-width: 0; /* Cho phép input thu nhỏ trên màn hình bé */
+        }
+
+        .idol-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); /* Desktop default */
+            gap: 20px;
+            max-height: 80vh;
+            overflow-y: auto;
+            padding: 10px 5px;
+            min-height: 300px; /* Thêm chiều cao tối thiểu để tránh bị ẩn */
+            padding-bottom: 100px; /* Thêm padding dưới cùng để không bị che bởi bottom nav */
+        }
+
+        .idol-card {
+            background: white;
+            border-radius: 16px;
+            padding: 20px;
+            text-align: center;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+        }
+
+        .idol-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+            border-color: rgba(102, 126, 234, 0.3);
+        }
+
+        .idol-card.selected {
+            border-color: var(--success-color);
+            background: linear-gradient(to bottom right, #fff, #f0fff4);
+            box-shadow: 0 10px 25px rgba(33, 150, 243, 0.15);
+        }
+
+        .idol-card.selected::after {
+            content: '✔';
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: var(--success-color);
+            color: white;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.8rem;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .idol-avatar-img {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid white;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 12px;
+        }
+
+        .idol-name { font-weight: 700; color: #333; margin-bottom: 4px; font-size: 1.05rem; }
+        .idol-desc { font-size: 0.8rem; color: #888; margin-bottom: 10px; line-height: 1.4; height: 2.4em; overflow: hidden;}
+        
+        .status-pill {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.7rem;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+        .status-live { background: rgba(234, 32, 39, 0.1); color: #EA2027; }
+        .status-offline { background: #f1f2f6; color: #a4b0be; }
+
+        /* CUSTOM SCROLLBAR */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: rgba(0,0,0,0.02); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb { background: rgba(102, 126, 234, 0.5); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: rgba(102, 126, 234, 0.8); }
+
+        /* UTILS */
+        .hidden { display: none !important; }
+        
+        /* Selected Idol Sticky Header in Grid */
+        .selected-idol-banner {
+            background: linear-gradient(135deg, #a8ff78 0%, #78ffd6 100%);
+            border-radius: 12px;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            color: #155724;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            box-shadow: 0 10px 20px rgba(120, 255, 214, 0.3);
+            display: none;
+            animation: slideDown 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Responsive text */
+        .text-gradient {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+
+        /* --- MOBILE BOTTOM NAV (TAB BAR) --- */
+        .mobile-bottom-nav {
+            display: none; /* Ẩn trên Desktop */
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 70px;
+            background: rgba(30, 30, 40, 0.95);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-top: 1px solid rgba(255,255,255,0.1);
+            justify-content: space-around;
+            align-items: center;
+            z-index: 9999;
+            padding-bottom: env(safe-area-inset-bottom);
+            box-shadow: 0 -5px 20px rgba(0,0,0,0.2);
+        }
+
+        .nav-item {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: #b2bec3;
+            text-decoration: none;
+            font-size: 0.75rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            height: 100%;
+        }
+
+        .nav-item svg {
+            width: 24px;
+            height: 24px;
+            margin-bottom: 4px;
+            fill: currentColor;
+        }
+
+        .nav-item.active {
+            color: #764ba2;
+        }
+
+        .nav-item.active svg {
+            fill: #764ba2;
+            transform: translateY(-2px);
+        }
+
+        /* --- MOBILE RESPONSIVE QUERIES --- */
+        @media (max-width: 992px) {
+            body {
+                padding: 15px; /* Giảm padding trên mobile */
+                padding-bottom: 90px; /* Chừa chỗ cho Bottom Nav */
+            }
+
+            .main-container {
+                display: flex !important;
+                flex-direction: column; /* Chuyển thành cột dọc */
+                gap: 20px !important;
+                min-width: 0 !important; /* Reset width cứng */
+            }
+
+            .sidebar-container {
+                width: 100%;
+                position: relative; /* Bỏ sticky trên mobile để tiết kiệm diện tích */
+                top: 0;
+                display: none; /* Mặc định ẩn, sẽ được JS bật lại nếu là tab active */
+            }
+
+            .idol-container {
+                width: 100%;
+                height: auto;
+                display: none; /* Mặc định ẩn, sẽ được JS bật lại nếu là tab active */
+            }
+            
+            /* GIẢM PADDING CHO GLASS PANEL TRÊN MOBILE ĐỂ CÓ NHIỀU CHỖ HƠN */
+            .glass-panel {
+                padding: 15px !important;
+            }
+            
+            /* Class hỗ trợ Tab Switch trên Mobile */
+            .mobile-tab-active {
+                display: block !important;
+                animation: fadeInTab 0.3s ease;
+            }
+
+            @keyframes fadeInTab {
+                from { opacity: 0; transform: translateY(10px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+
+            .idol-grid {
+                /* Hiển thị 2 cột trên điện thoại cho đẹp */
+                /* Thêm justify-content center để fix lỗi lệch */
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+                max-height: none; /* Mobile scroll toàn trang */
+                overflow: visible; /* Để scroll body */
+                gap: 15px; /* Tăng khoảng cách chút */
+                justify-content: center; /* Căn giữa lưới */
+                padding: 5px; /* Giảm padding */
+                /* Đảm bảo nội dung không bị che */
+                padding-bottom: 80px; 
+            }
+
+            .idol-card {
+                padding: 15px;
+            }
+            
+            .idol-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .search-wrapper {
+                width: 100%;
+            }
+
+            .login-container {
+                margin: 5vh auto !important;
+                width: 100% !important;
+                padding: 20px !important;
+            }
+            
+            /* Hiển thị Bottom Nav trên Mobile */
+            .mobile-bottom-nav {
+                display: flex;
+            }
+            
+            /* Giảm kích thước chữ trên mobile */
+            .idol-header h2 { font-size: 1.3rem; }
+            .login-header h1 { font-size: 1.5rem; }
+        }
+
+        /* Cho màn hình cực nhỏ (iPhone SE, Android nhỏ) */
+        @media (max-width: 480px) {
+            .idol-grid {
+                grid-template-columns: 1fr 1fr; /* Bắt buộc 2 cột */
+                gap: 10px;
+            }
+            
+            /* Giảm thêm padding card */
+            .idol-card {
+                padding: 10px;
+            }
+            
+            .idol-avatar-img {
+                width: 60px;
+                height: 60px;
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="main-container">
+        <!-- LOGIN PANEL (Đã thêm ID và style="display: none" để ẩn mặc định) -->
+        <div class="login-container glass-panel" id="loginContainer" style="display: none;">
+            <div class="login-header" style="text-align: center; margin-bottom: 30px;">
+                <h1>MMLive Tools</h1>
+                <p style="color: #666; font-size: 0.95rem;">Chào mừng bạn trở lại! Vui lòng đăng nhập vào tài khoản của bạn.</p> <!-- Changed Text -->
+            </div>
+
+            <form id="loginForm" novalidate>
+                <div class="form-group">
+                    <label for="email">SỐ ĐIỆN THOẠI</label>
+                    <input type="tel" id="email" name="email" placeholder="09xx xxx xxx" required> <!-- Changed Placeholder -->
+                    <div class="error-message" id="emailError" style="color:red; font-size:0.8rem; margin-top:5px; display:none">SĐT không hợp lệ</div>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">MẬT KHẨU</label>
+                    <div style="position: relative;">
+                        <input type="password" id="password" name="password" placeholder="Nhập mật khẩu..." required>
+                        <span class="password-toggle" onclick="togglePassword()" style="position:absolute; right:15px; top:12px; cursor:pointer; opacity:0.5;">👁️</span>
+                    </div>
+                    <div class="error-message" id="passwordError" style="color:red; font-size:0.8rem; margin-top:5px; display:none">Mật khẩu quá ngắn</div>
+                </div>
+
+                <div style="display: flex; justify-content: space-between; margin-bottom: 25px; font-size: 0.9rem;">
+                    <label style="display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                        <input type="checkbox" id="remember"> Ghi Nhớ Đăng Nhập
+                    </label>
+                    <a href="#" style="color: var(--accent-color); text-decoration: none; font-weight: 600;">Quên mật khẩu?</a>
+                </div>
+
+                <button type="submit" class="login-btn">Đăng Nhập</button> <!-- Changed Text -->
+            </form>
+        </div>
+
+        <!-- LEFT COLUMN: USER INFO & TOOLS (Balanced Height) -->
+        <!-- Đã thêm ID tab-account để điều khiển Mobile Tab -->
+        <div class="sidebar-container glass-panel" id="sidebarSection">
+            <!-- User Profile Header -->
+            <div id="userInfoSection">
+                <div class="profile-card-header">
+                    <div style="position: relative; display: inline-block;">
+                        <img id="userAvatar" src="" onerror="this.src='https://ui-avatars.com/api/?name=User&background=random'" alt="Avatar" class="avatar-glow">
+                        <div style="position: absolute; bottom: 15px; right: 0; width: 20px; height: 20px; background: #2ed573; border: 3px solid white; border-radius: 50%;"></div>
+                    </div>
+                    <h3 id="userNickname" style="font-size: 1.4rem; margin: 10px 0 5px; font-weight: 800;">Loading...</h3>
+                    <p id="userSignature" style="color: #666; font-size: 0.9rem; font-style: italic;">Đang tải thông tin...</p>
+                    
+                    <div style="margin-top: 15px; display: flex; justify-content: center; gap: 10px;">
+                        <span class="stat-badge" style="background: linear-gradient(45deg, #ff6b6b, #ee5253);">
+                            ❤ <span id="userFans" style="margin-left: 5px">0</span>
+                        </span>
+                        <span class="stat-badge" style="background: linear-gradient(45deg, #5f27cd, #341f97);">
+                            ★ <span id="userFollows" style="margin-left: 5px">0</span>
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Technical Info Details (UPDATED V12: Added UDID & Login Time) -->
+                <div style="background: rgba(255, 248, 225, 0.9); border: 2px solid #ffcc80; border-radius: 12px; padding: 15px; margin-bottom: 25px;">
+                    <h4 style="font-size: 0.8rem; color: #ff9800; text-transform: uppercase; margin-bottom: 10px; letter-spacing: 1px; font-weight: 800;">THÔNG TIN TÀI KHOẢN</h4>
+                    <div class="info-row" style="border-bottom: 1px solid rgba(255, 152, 0, 0.2);">
+                        <span class="info-label" style="color: #5d4037;">User ID</span>
+                        <span class="info-value" id="displayUserId" style="color: #5758BB">---</span>
+                    </div>
+                    <div class="info-row" style="border-bottom: 1px solid rgba(255, 152, 0, 0.2);">
+                        <span class="info-label" style="color: #5d4037;">Cấp độ</span>
+                        <span class="info-value" id="userLevel" style="color: #0984e3">Lv.0</span>
+                    </div>
+                    <div class="info-row" style="border-bottom: 1px solid rgba(255, 152, 0, 0.2);">
+                        <span class="info-label" style="color: #5d4037;">Xu vàng</span>
+                        <span class="info-value" id="userGoldCoin" style="color: #f1c40f">0</span>
+                    </div>
+                    <div class="info-row" style="border-bottom: 1px solid rgba(255, 152, 0, 0.2);">
+                        <span class="info-label" style="color: #5d4037;">Thành phố</span>
+                        <span class="info-value" id="userCity" style="color: #333;">---</span>
+                    </div>
+                    <div class="info-row" style="border-bottom: 1px solid rgba(255, 152, 0, 0.2);">
+                        <span class="info-label" style="color: #5d4037;">Anchor ID</span>
+                        <span class="info-value" id="displayAnchorId" style="color: #00b894">---</span>
+                    </div>
+                    <!-- Added UDID Row -->
+                    <div class="info-row" style="border-bottom: 1px solid rgba(255, 152, 0, 0.2);">
+                        <span class="info-label" style="color: #5d4037;">UDID</span>
+                        <span class="info-value" id="displayUdid" style="color: #6c757d; font-size: 0.8rem;" title="">---</span>
+                    </div>
+                    <!-- Added Login Time Row -->
+                    <div class="info-row" style="border-bottom: none;">
+                        <span class="info-label" style="color: #5d4037;">Đăng nhập</span>
+                        <span class="info-value" id="displayLoginTime" style="color: #333; font-size: 0.85rem;">---</span>
+                    </div>
+                </div>
+
+                <!-- Tools Section (V14 COMPACT GRID) -->
+                <div style="border-top: 1px solid rgba(0,0,0,0.1); padding-top: 20px;">
+                    <h4 style="font-size: 0.9rem; font-weight: 700; margin-bottom: 15px; display: flex; align-items: center; gap: 8px;">
+                        ⚡ TÁC VỤ NHANH
+                    </h4>
+                    
+                    <div class="form-group" style="margin-bottom: 15px;">
+                        <label>Số lượng View/Tương tác</label>
+                        
+                        <!-- ĐÃ SỬA: Gom Input và Nút Clear vào Wrapper -->
+                        <div style="position: relative;">
+                            <!-- Input (padding-right 60px để tránh đè chữ lên nút X và nút tăng giảm) -->
+                            <input type="number" id="customRequests" value="0" min="0" max="10000" style="text-align: center; font-weight: bold; color: var(--accent-color); padding-right: 60px;">
+                            
+                            <!-- Nút X (Xóa) Mới - Nằm GỌN TRONG INPUT, bên phải, DỜI SANG TRÁI 30px -->
+                            <button type="button" onclick="resetCustomRequests()" class="clear-input-btn">✕</button>
+                        </div>
+                        
+                        <!-- NEW: Neon Controller Buttons (White Text + Dark Translucent + Compact Grid) -->
+                        <div class="quick-select-group">
+                            <button type="button" onclick="addToCustomView(100)" class="quick-btn btn-cyan">+ 100</button>
+                            <button type="button" onclick="addToCustomView(200)" class="quick-btn btn-green">+ 200</button>
+                            <button type="button" onclick="addToCustomView(300)" class="quick-btn btn-purple">+ 300</button>
+                            <button type="button" onclick="addToCustomView(1000)" class="quick-btn btn-orange">+ 1k</button> <!-- Changed 1000 to 1k -->
+                        </div>
+                    </div>
+
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                        <!-- Updated Main Buttons with White Text -->
+                        <button onclick="runTurboModeWithInput()" class="tool-btn glow-green" style="padding: 12px;">
+                            🚀 BUFF VIEW
+                        </button>
+                        <button onclick="runPhaIdolMode()" class="tool-btn glow-red" style="padding: 12px;">
+                            💥 PHÁ IDOL
+                        </button>
+                    </div>
+
+                    <button onclick="logout(); location.reload();" class="tool-btn glow-white" style="width: 100%; margin-top: 20px; padding: 12px;">
+                        🚪 ĐĂNG XUẤT
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- RIGHT COLUMN: IDOL SELECTION & RESULTS (Balanced Height) -->
+        <!-- Đã thêm ID idolSection để điều khiển Mobile Tab -->
+        <div class="idol-container glass-panel" id="idolSection" style="display: none;">
+            
+            <!-- Result Console (Hidden by default) -->
+            <div id="runResultsPanel" style="display: none; background: #2d3436; color: #dfe6e9; border-radius: 12px; padding: 20px; margin-bottom: 25px; box-shadow: inset 0 2px 10px rgba(0,0,0,0.5);">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-bottom: 1px solid #636e72; padding-bottom: 10px;">
+                    <h4 style="margin: 0; color: #81ecec;">📊 TERMINAL STATUS</h4>
+                    <span id="progressCount" style="font-family: monospace; font-weight: bold;">0/0</span>
+                </div>
+                
+                <div style="margin-bottom: 15px;">
+                    <div style="display: flex; justify-content: space-between; font-size: 0.8rem; margin-bottom: 5px; color: #b2bec3;">
+                        <span id="progressText">Ready...</span>
+                    </div>
+                    <div style="width: 100%; background: #636e72; height: 6px; border-radius: 3px; overflow: hidden;">
+                        <div id="progressBar" style="width: 0%; background: #00b894; height: 100%; transition: width 0.2s;"></div>
+                    </div>
+                </div>
+
+                <div id="runResults" style="height: 150px; overflow-y: auto; font-family: 'Consolas', monospace; font-size: 0.8rem; line-height: 1.4; color: #a4b0be;">
+                    <!-- Logs go here -->
+                </div>
+
+                <div style="margin-top: 15px; display: flex; gap: 10px;">
+                    <button onclick="stopRunning()" id="stopBtn" class="tool-btn" style="background: #e17055; padding: 8px 15px; font-size: 0.8rem; width: auto; color: white; border: none;">⏹ STOP</button>
+                    <button onclick="clearResults()" class="tool-btn" style="background: #636e72; padding: 8px 15px; font-size: 0.8rem; width: auto; color: white; border: none;">🗑 CLEAR</button>
+                </div>
+            </div>
+
+            <!-- Selected Idol Active Banner -->
+            <div id="selectedIdolInfo" class="selected-idol-banner">
+                <div id="selectedIdolDetails" style="flex-grow: 1; display: flex; align-items: center; justify-content: space-between;">
+                    <!-- JS fills this -->
+                </div>
+            </div>
+
+            <!-- Header & Search -->
+            <div class="idol-header">
+                <div>
+                    <h2>DANH SÁCH IDOL</h2>
+                    <p style="color: #888; font-size: 0.9rem;" id="searchResultsCount">Đang tải dữ liệu...</p>
+                </div>
+                <div class="search-wrapper">
+                    <input type="text" id="idolSearchInput" placeholder="Tìm tên hoặc ID..." class="search-input">
+                    <button onclick="searchIdols()" class="search-btn" style="padding: 8px 15px; border-radius: 8px;">🔍</button>
+                    <button onclick="clearSearch()" class="search-btn" style="padding: 8px 15px; border-radius: 8px; margin-left: 5px; background: #b2bec3;">✕</button>
+                </div>
+            </div>
+
+            <!-- Idol Grid -->
+            <div class="idol-grid" id="idolGrid">
+                <!-- Cards injected via JS -->
+            </div>
+        </div>
+    </div>
+    
+    <!-- MOBILE BOTTOM NAVIGATION (NEW FEATURE) -->
+    <div class="mobile-bottom-nav" id="mobileBottomNav">
+        <div class="nav-item active" onclick="switchMobileTab('idol')" id="tabBtnIdol">
+            <!-- Icon Ngôi Nhà -->
+            <svg viewBox="0 0 24 24">
+                <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
+            </svg>
+            <span>Trang chủ</span>
+        </div>
+        <div class="nav-item" onclick="switchMobileTab('account')" id="tabBtnAccount">
+            <!-- Icon Cài đặt (Gear/Setting) - ĐÃ ĐỔI THEO YÊU CẦU -->
+            <svg viewBox="0 0 24 24">
+                <path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58a.49.49 0 0 0 .12-.61l-1.92-3.32a.488.488 0 0 0-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54a.484.484 0 0 0-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"/>
+            </svg>
+            <span>Cài đặt</span>
+        </div>
+    </div>
+
+    <!-- JAVASCRIPT LOGIC GIỮ NGUYÊN 100% -->
+    <script>
+        // =================================================================
+        // 1. CẤU HÌNH ĐƯỜNG DẪN FILE CONFIG (QUAN TRỌNG NHẤT)
+        // =================================================================
+        // Bạn phải đảm bảo đường link này đúng với nơi bạn up file config
+        const CONFIG_URL = "https://tieuli158.github.io/Tieuli/mmlive_config.json";
+
+        // =================================================================
+        // 2. HÀM KIỂM TRA TRẠNG THÁI TỪ XA (REMOTE KILL SWITCH)
+        // =================================================================
+
+        // --- NEW FUNCTION: MOBILE TAB SWITCHING ---
+        function switchMobileTab(tabName) {
+            // Chỉ hoạt động nếu đang ở chế độ mobile (width <= 992px)
+            if (window.innerWidth > 992) return;
+
+            const idolSection = document.getElementById('idolSection');
+            const sidebarSection = document.getElementById('sidebarSection');
+            const tabBtnIdol = document.getElementById('tabBtnIdol');
+            const tabBtnAccount = document.getElementById('tabBtnAccount');
+
+            if (tabName === 'idol') {
+                // Show Idol - DÙNG FLEX ĐỂ GIỮ CẤU TRÚC
+                idolSection.style.display = 'flex'; 
+                idolSection.classList.add('mobile-tab-active');
+                
+                // Hide Sidebar (Quan trọng: Phải set display none vì inline style đang là block)
+                sidebarSection.style.display = 'none';
+                sidebarSection.classList.remove('mobile-tab-active');
+                
+                // Active Button State
+                tabBtnIdol.classList.add('active');
+                tabBtnAccount.classList.remove('active');
+            } else {
+                // Show Sidebar
+                sidebarSection.style.display = 'block';
+                sidebarSection.classList.add('mobile-tab-active');
+                
+                // Hide Idol (Quan trọng: Phải set display none)
+                idolSection.style.display = 'none';
+                idolSection.classList.remove('mobile-tab-active');
+                
+                // Active Button State
+                tabBtnAccount.classList.add('active');
+                tabBtnIdol.classList.remove('active');
+            }
+        }
+        
+        // Listen for resize to reset styles if user switches to desktop
+        window.addEventListener('resize', function() {
+             const idolSection = document.getElementById('idolSection');
+             const sidebarSection = document.getElementById('sidebarSection');
+             
+             if (window.innerWidth > 992 && isLoggedIn()) {
+                 // Reset classes on desktop to ensure both columns show
+                 idolSection.classList.remove('mobile-tab-active');
+                 sidebarSection.classList.remove('mobile-tab-active');
+                 
+                 // Force display block for desktop layout
+                 idolSection.style.display = 'flex';
+                 sidebarSection.style.display = 'block';
+             } else if (window.innerWidth <= 992 && isLoggedIn()) {
+                 // Re-apply current tab logic if switching back to mobile
+                 // Default to Idol tab if none active
+                 const tabBtnIdol = document.getElementById('tabBtnIdol');
+                 const tabBtnAccount = document.getElementById('tabBtnAccount');
+                 
+                 if (!tabBtnIdol.classList.contains('active') && !tabBtnAccount.classList.contains('active')) {
+                     switchMobileTab('idol');
+                 } else if (tabBtnIdol.classList.contains('active')) {
+                     switchMobileTab('idol');
+                 } else {
+                     switchMobileTab('account');
+                 }
+             }
+        });
+
+        // NEW FUNCTION: RESET SỐ LƯỢNG VỀ 0
+        function resetCustomRequests() {
+            const input = document.getElementById('customRequests');
+            if(input) {
+                input.value = 0;
+                // Hiệu ứng Visual Feedback
+                input.style.transition = 'all 0.1s';
+                input.style.transform = 'scale(0.95)';
+                setTimeout(() => {
+                    input.style.transform = 'scale(1)';
+                }, 100);
+            }
+        }
+
+        // NEW FUNCTION: CỘNG DỒN SỐ LƯỢNG VIEW (ADDITIVE)
+        function addToCustomView(amount) {
+            const input = document.getElementById('customRequests');
+            if(input) {
+                // Lấy giá trị hiện tại, nếu rỗng hoặc NaN thì coi là 0
+                let currentVal = parseInt(input.value) || 0;
+                
+                // Cộng thêm lượng mới
+                let newVal = currentVal + amount;
+                
+                // Giới hạn max 10000 (hoặc có thể bỏ nếu muốn)
+                if (newVal > 10000) newVal = 10000; 
+                
+                input.value = newVal;
+
+                // Hiệu ứng Visual Feedback khi bấm
+                input.style.transition = 'all 0.1s';
+                input.style.transform = 'scale(1.1)';
+                input.style.color = '#fff'; // Flash white text
+                
+                setTimeout(() => {
+                    input.style.transform = 'scale(1)';
+                    input.style.color = 'var(--accent-color)'; // Revert color
+                }, 150);
+            }
+        }
+
+        // LIST_IDOL đã được xóa - chỉ sử dụng API data
+
+        // ===== GLOBAL CONFIGURATION VARIABLES =====
+        const GLOBAL_CONFIG = {
+            liveId: 1027295,        // Live stream ID (sẽ được cập nhật khi chọn idol)
+            anchorId: 2026922943    // Anchor/Streamer ID (sẽ được cập nhật khi chọn idol)
+        };
+
+        let selectedIdol = null;
+
+        // ===== IDOL SELECTION FUNCTIONS =====
+
+        // Render danh sách idol từ API
+        function renderIdolList() {
+            const idolGrid = document.getElementById('idolGrid');
+            if (!idolGrid) return;
+
+            // Nếu có data từ API, sử dụng renderApiIdolList
+            if (apiIdolsData && apiIdolsData.length > 0) {
+                console.log('📋 Rendering API idol list');
+                renderApiIdolList(apiIdolsData);
+                return;
+            }
+
+            // Nếu chưa có data từ API, hiển thị placeholder
+            console.log('⏳ Waiting for API idol data...');
+            idolGrid.innerHTML = '<p style="text-align: center; color: #666; grid-column: 1 / -1; padding: 40px;">Đang tải danh sách idol...<br><small>Vui lòng đăng nhập để xem danh sách idol</small></p>';
+        }
+
+        // Chọn idol
+        function selectIdol(idol) {
+            console.log('🎯 selectIdol called with:', idol);
+            selectedIdol = idol;
+
+            // Cập nhật GLOBAL_CONFIG
+            GLOBAL_CONFIG.liveId = idol.liveId;
+            GLOBAL_CONFIG.anchorId = idol.anchorId;
+
+            console.log('🎯 Updated selectedIdol:', selectedIdol);
+            console.log('🎯 Updated GLOBAL_CONFIG:', GLOBAL_CONFIG);
+
+            // Cập nhật UI
+            updateSelectedIdolInfo(idol);
+            updateIdolCardSelection();
+            updateToolSectionDisplay(idol);
+
+            console.log(`✅ Đã chọn idol: ${idol.nickname} (Live ID: ${idol.liveId}, Anchor ID: ${idol.anchorId})`);
+        }
+
+        // Cập nhật hiển thị trong tool section
+        function updateToolSectionDisplay(idol) {
+            // Cập nhật Anchor ID display
+            const anchorIdElement = document.getElementById('displayAnchorId');
+            if (anchorIdElement) {
+                anchorIdElement.textContent = idol.anchorId;
+                anchorIdElement.style.color = '#28a745';
+                anchorIdElement.title = `Anchor ID từ ${idol.nickname}`;
+            }
+
+            // Nếu có thêm thông tin live ID cần hiển thị, có thể thêm ở đây
+            console.log(`🔄 Đã cập nhật Tool Section với thông tin từ ${idol.nickname}`);
+        }
+
+        // Cập nhật thông tin idol được chọn
+        function updateSelectedIdolInfo(idol) {
+            const selectedInfo = document.getElementById('selectedIdolInfo');
+            const selectedDetails = document.getElementById('selectedIdolDetails');
+
+            if (selectedInfo && selectedDetails) {
+                selectedDetails.innerHTML = `
+                    <div style="display: flex; align-items: center; gap: 15px;">
+                        <img src="${idol.avatar}" alt="${idol.nickname}" 
+                             style="width: 50px; height: 50px; border-radius: 50%; object-fit: cover; border: 2px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+                             onerror="this.style.display='none'">
+                        <div>
+                            <div style="font-weight: 800; font-size: 1.1rem;">${idol.nickname || 'Unknown'}</div>
+                            <div style="font-size: 0.85rem; opacity: 0.8;">Live ID: ${idol.liveId}</div>
+                        </div>
+                    </div>
+                    <div style="font-weight: 700; font-family: monospace; background: rgba(255,255,255,0.3); padding: 5px 10px; border-radius: 8px;">
+                        ANCHOR: ${idol.anchorId || 'N/A'}
+                    </div>
+                `;
+                selectedInfo.style.display = 'flex';
+            }
+        }
+
+        // Cập nhật trạng thái selected của các idol card
+        function updateIdolCardSelection() {
+            console.log('🔄 updateIdolCardSelection called, selectedIdol:', selectedIdol);
+            const idolCards = document.querySelectorAll('.idol-card');
+
+            // Xóa tất cả selection trước
+            idolCards.forEach(card => card.classList.remove('selected'));
+
+            // Thêm selection cho card đúng
+            if (selectedIdol) {
+                console.log('🔍 selectedIdol.id type:', typeof selectedIdol.id, 'value:', selectedIdol.id);
+                idolCards.forEach((card, index) => {
+                    const cardIdolId = card.getAttribute('data-idol-id');
+                    console.log(`🔍 Card ${index} data-idol-id type:`, typeof cardIdolId, 'value:', cardIdolId);
+
+                    // So sánh cả == và === để test
+                    const matchLoose = cardIdolId == selectedIdol.id;
+                    const matchStrict = cardIdolId === String(selectedIdol.id);
+                    const isSelected = matchLoose || matchStrict;
+
+                    console.log(`🔄 Card ${index}: cardId=${cardIdolId}, selectedId=${selectedIdol.id}, loose=${matchLoose}, strict=${matchStrict}, final=${isSelected}`);
+
+                    if (isSelected) {
+                        card.classList.add('selected');
+                        console.log(`✅ Added 'selected' class to card ${index}`);
+                    }
+                });
+            }
+        }
+
+        // Hàm tạo GUID
+        function getGuid() {
+            const timestamp = new Date().getTime();
+            const random = Math.floor(Math.random() * 10000000000000000);
+            const deviceInfo = "YourDeviceInfoHere";
+            const combinedData = `${timestamp}${random}${deviceInfo}`;
+            const deviceID = md5(combinedData).substr(0, 32);
+            return deviceID;
+        }
+
+        // Hàm đăng nhập API
+        async function loginAPI(mobile, password) {
+            console.log('=== LoginAPI Started ===');
+
+            const timestamp = new Date().getTime();
+            const uid = getGuid(); // Sử dụng GUID làm uid
+
+            console.log('Generated UID:', uid);
+            console.log('Timestamp:', timestamp);
+
+            // Tạo sign theo format của API
+            const sign = md5(`${uid}jgyh,kasd${timestamp}`);
+            const xSign = md5(`${uid}jgyh,kasd${timestamp}`); // Sử dụng cùng format với sign
+
+            console.log('Generated signs:', { sign, xSign });
+
+            const loginParams = {
+                os: 0,
+                sign: sign,
+                timestamp: timestamp,
+                udid: uid,
+                model: "PC",
+                mobile: mobile,
+                password: password,
+                version: "1.0.2",
+                softVersion: "1.0.0"
+            };
+
+            console.log('Login Parameters:', loginParams);
+
+            try {
+                const response = await fetch('https://gateway.mmlive.online/center-client/sys/auth/new/phone/login', {
+                    method: 'POST',
+                    headers: {
+                        'accept': 'application/json, text/plain, */*',
+                        'accept-language': 'VI',
+                        'appid': 'MMLive',
+                        'content-type': 'application/json;charset=UTF-8',
+                        'n-l': 'Y',
+                        'origin': 'https://mmlive.online',
+                        'os': '0',
+                        'p-g': 'N',
+                        'referer': 'https://mmlive.online/',
+                        'sec-ch-ua': '"Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"',
+                        'sec-ch-ua-mobile': '?0',
+                        'sec-ch-ua-platform': '"macOS"',
+                        'sec-fetch-dest': 'empty',
+                        'sec-fetch-mode': 'cors',
+                        'sec-fetch-site': 'same-site',
+                        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
+                        'x-appversion': '2.5.0',
+                        'x-language': 'VI',
+                        'x-sign': xSign,
+                        'x-timestamp': timestamp.toString(),
+                        'x-udid': uid
+                    },
+                    body: JSON.stringify(loginParams)
+                });
+
+                let result;
+                try {
+                    result = await response.json();
+                } catch (parseError) {
+                    console.error('JSON Parse Error:', parseError);
+                    return { success: false, error: 'Server trả về dữ liệu không hợp lệ' };
+                }
+
+                console.log('API Response:', result);
+
+                // Kiểm tra cấu trúc response
+                if (!result || typeof result !== 'object') {
+                    return { success: false, error: 'Response không hợp lệ' };
+                }
+
+                console.log('Response status:', response.status, response.ok);
+                console.log('Result code:', result.code);
+
+                if (response.ok && result.code === 0) {
+                    console.log('✅ Login successful:', result);
+
+                    // Kiểm tra data có tồn tại không
+                    if (!result.data || !result.data.token) {
+                        console.log('❌ No token in response');
+                        return { success: false, error: 'Không nhận được token từ server' };
+                    }
+
+                    console.log('💾 Saving login data to localStorage');
+                    // Lưu thông tin đăng nhập vào localStorage
+                    localStorage.setItem('authToken', result.data.token);
+                    localStorage.setItem('randomKey', result.data.randomKey || '');
+                    localStorage.setItem('randomVector', result.data.randomVector || '');
+                    localStorage.setItem('loginTime', new Date().toISOString());
+                    localStorage.setItem('udid', uid); // Lưu udid để sử dụng sau
+
+                    const successResult = { success: true, data: result.data, message: result.msg || 'Đăng nhập thành công' };
+                    console.log('🚀 Returning success result:', successResult);
+                    return successResult;
+                } else {
+                    console.error('❌ Login failed:', result);
+                    const errorMsg = result.msg || result.message || `HTTP ${response.status}: ${response.statusText}`;
+                    const errorResult = { success: false, error: errorMsg };
+                    console.log('💥 Returning error result:', errorResult);
+                    return errorResult;
+                }
+            } catch (error) {
+                console.error('🚨 Network/Parse error:', error);
+                console.error('Error name:', error.name);
+                console.error('Error message:', error.message);
+
+                // Xử lý các loại lỗi khác nhau
+                let errorMessage = 'Lỗi kết nối mạng';
+                if (error.name === 'TypeError') {
+                    errorMessage = 'Lỗi kết nối - Kiểm tra internet';
+                } else if (error.name === 'SyntaxError') {
+                    errorMessage = 'Server trả về dữ liệu không hợp lệ';
+                } else if (error.message) {
+                    errorMessage = error.message;
+                }
+
+                const catchResult = { success: false, error: errorMessage };
+                console.log('🔄 Returning catch result:', catchResult);
+                return catchResult;
+            }
+
+            // Fallback return (không bao giờ nên đến đây)
+            console.log('⚠️ Reached fallback return - this should not happen');
+            return { success: false, error: 'Lỗi không xác định' };
+        }
+
+        // Hàm kiểm tra trạng thái đăng nhập
+        function isLoggedIn() {
+            const token = localStorage.getItem('authToken');
+            return token && token.length > 0;
+        }
+
+        // Hàm lấy thông tin đăng nhập đã lưu
+        function getLoginInfo() {
+            return {
+                token: localStorage.getItem('authToken'),
+                randomKey: localStorage.getItem('randomKey'),
+                randomVector: localStorage.getItem('randomVector'),
+                loginTime: localStorage.getItem('loginTime')
+            };
+        }
+
+        // Hàm đăng xuất (xóa thông tin đã lưu)
+        function logout() {
+            localStorage.removeItem('authToken');
+            localStorage.removeItem('randomKey');
+            localStorage.removeItem('randomVector');
+            localStorage.removeItem('loginTime');
+            localStorage.removeItem('udid');
+            // Remove remembered credentials on explicit logout if desired, 
+            // but usually "Remember Me" persists until unchecked.
+            // Uncomment below lines if logout should clear remembered data:
+            // localStorage.removeItem('savedMobile');
+            // localStorage.removeItem('savedPassword');
+            // localStorage.removeItem('isRemembered');
+            
+            console.log('Đã đăng xuất và xóa tất cả thông tin đăng nhập');
+        }
+
+        // Hàm decode JWT token để lấy thông tin
+        function getTokenData() {
+            const token = localStorage.getItem('authToken');
+            if (!token) {
+                console.log('No token found');
+                return { userId: null, udid: null };
+            }
+
+            try {
+                // JWT token có 3 phần được phân tách bởi dấu chấm: header.payload.signature
+                const parts = token.split('.');
+                if (parts.length !== 3) {
+                    console.log('Invalid JWT token format - expecting 3 parts, got:', parts.length);
+                    return { userId: null, udid: null };
+                }
+
+                // Decode phần payload (phần thứ 2) - JWT sử dụng base64url encoding
+                let payload = parts[1];
+
+                // Chuyển base64url thành base64 thông thường
+                payload = payload.replace(/-/g, '+').replace(/_/g, '/');
+
+                // Thêm padding nếu cần thiết cho base64 decode
+                while (payload.length % 4) {
+                    payload += '=';
+                }
+
+                console.log('JWT payload part:', parts[1]);
+                console.log('Base64 payload after conversion:', payload);
+
+                const decodedPayload = atob(payload);
+                console.log('Decoded payload string:', decodedPayload);
+
+                const userData = JSON.parse(decodedPayload);
+                console.log('Parsed JWT payload:', userData);
+
+                // Thử các field phổ biến cho userId
+                const userId = userData.userId || userData.id || userData.sub || userData.user_id || userData.uid;
+
+                // Thử các field phổ biến cho udid
+                const udid = userData.udid || userData.deviceId || userData.device_id || userData.uuid;
+
+                console.log('Extracted userId:', userId);
+                console.log('Extracted udid:', udid);
+
+                return { userId, udid };
+            } catch (error) {
+                console.error('Error decoding JWT token:', error);
+                console.error('Token parts:', token.split('.').length);
+
+                // Log thêm thông tin debug
+                if (token.split('.').length === 3) {
+                    console.error('Payload part:', token.split('.')[1]);
+                }
+
+                return { userId: null, udid: null };
+            }
+        }
+
+        // Hàm decode JWT token để lấy userId (backward compatibility)
+        function getUserIdFromToken() {
+            return getTokenData().userId;
+        }
+
+        // Hàm decode JWT token để lấy udid
+        function getUdidFromToken() {
+            return getTokenData().udid;
+        }
+
+        // Hàm gọi API để lấy thông tin user chi tiết
+        async function getUserInfo() {
+            const loginInfo = getLoginInfo();
+            if (!loginInfo.token) {
+                console.error('No token found for getUserInfo');
+                return null;
+            }
+
+            const tokenData = getTokenData();
+            const udid = tokenData.udid || localStorage.getItem('udid') || getGuid();
+            const timestamp = new Date().getTime();
+            const xSign = md5(`${udid}jgyh,kasd${timestamp}`)
+
+            try {
+                console.log('🔍 Fetching user info...');
+                const response = await fetch('https://gateway.mmlive.online/center-client/sys/user/get/info', {
+                    method: 'POST',
+                    headers: {
+                        'accept': 'application/json, text/plain, */*',
+                        'accept-language': 'VI',
+                        'appid': 'MMLive',
+                        'authorization': `HSBox ${loginInfo.token}`,
+                        'content-type': 'application/json;charset=UTF-8',
+                        'n-l': 'Y',
+                        'origin': 'https://mmlive.online',
+                        'os': '0',
+                        'p-g': 'N',
+                        'referer': 'https://mmlive.online/',
+                        'sec-ch-ua': '"Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"',
+                        'sec-ch-ua-mobile': '?0',
+                        'sec-ch-ua-platform': '"macOS"',
+                        'sec-fetch-dest': 'empty',
+                        'sec-fetch-mode': 'cors',
+                        'sec-fetch-site': 'same-site',
+                        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
+                        'x-appversion': '2.5.0',
+                        'x-language': 'VI',
+                        'x-sign': xSign,
+                        'x-timestamp': timestamp.toString(),
+                        'x-udid': udid
+                    },
+                    body: JSON.stringify({ "os": 0 })
+                });
+
+                const result = await response.json();
+                console.log('👤 User info response:', result);
+
+                if (result.code === 0 && result.data) {
+                    return result.data;
+                } else {
+                    console.error('Failed to get user info:', result.msg);
+                    return null;
+                }
+            } catch (error) {
+                console.error('Error fetching user info:', error);
+                return null;
+            }
+        }
+
+        // Hàm cập nhật thông tin user lên UI
+        function updateUserInfoDisplay(userDetail = null) {
+            const tokenData = getTokenData();
+            const userId = tokenData.userId;
+            const udid = tokenData.udid;
+            const loginTime = localStorage.getItem('loginTime');
+
+            // Hiển thị User ID
+            const userIdElement = document.getElementById('displayUserId');
+            if (userId) {
+                userIdElement.textContent = userId;
+                userIdElement.style.color = '#667eea';
+            } else {
+                userIdElement.textContent = 'Không tìm thấy';
+                userIdElement.style.color = '#dc3545';
+            }
+
+            // Hiển thị UDID
+            const udidElement = document.getElementById('displayUdid');
+            if (udid) {
+                // Hiển thị 16 ký tự đầu và thêm tooltip
+                udidElement.textContent = udid.substring(0, 16) + '...'; 
+                udidElement.title = udid; // Full UDID on hover
+                udidElement.style.color = '#17a2b8';
+            } else {
+                const fallbackUdid = localStorage.getItem('udid') || getGuid();
+                udidElement.textContent = fallbackUdid.substring(0, 16) + '... (local)';
+                udidElement.title = fallbackUdid;
+                udidElement.style.color = '#ffc107';
+            }
+
+            // Hiển thị Anchor ID (giống User ID)
+            const anchorIdElement = document.getElementById('displayAnchorId');
+            if (userId) {
+                anchorIdElement.textContent = userId;
+                anchorIdElement.style.color = '#28a745';
+            } else {
+                const fallbackAnchorId = Math.floor(Math.random() * 999999999) + 2000000000;
+                anchorIdElement.textContent = `${fallbackAnchorId} (random)`;
+                anchorIdElement.style.color = '#ffc107';
+            }
+
+            // Hiển thị Login Time
+            const loginTimeElement = document.getElementById('displayLoginTime');
+            if (loginTime) {
+                // Format: 12h (SA/CH) - Ngày/Tháng/Năm
+                const d = new Date(loginTime);
+                const timeStr = d.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit', hour12: true }); // e.g. 11:22 CH
+                const dateStr = d.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric' }); // e.g. 03/02/2026
+                loginTimeElement.textContent = `${timeStr} - ${dateStr}`;
+            } else {
+                loginTimeElement.textContent = 'Không xác định';
+            }
+
+            // Hiển thị thông tin chi tiết user nếu có
+            if (userDetail) {
+                updateUserProfileDisplay(userDetail);
+            }
+
+            console.log('✅ Updated user info display - UserID:', userId, 'UDID:', udid);
+        }
+
+        // Hàm cập nhật thông tin profile user
+        function updateUserProfileDisplay(userDetail) {
+            const profileSection = document.getElementById('userInfoSection');
+
+            if (userDetail) {
+                // Hiển thị avatar
+                const avatarElement = document.getElementById('userAvatar');
+                if (userDetail.avatar && userDetail.avatar.trim() !== '') {
+                    avatarElement.src = userDetail.avatar;
+                    // Thêm error handling cho avatar - nếu lỗi thì hiển thị avatar mặc định
+                    avatarElement.onerror = function () {
+                        this.src = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzAiIGN5PSIzMCIgcj0iMzAiIGZpbGw9IiNGRkY5ODAiLz4KPGV2Y2lyY2xlIGN4PSIzMCIgY3k9IjI1IiByeD0iOCIgcnk9IjgiIGZpbGw9IiNGRkM2MDciLz4KPGV2cGF0aCBkPSJNMTAgNDVDMTAgMzYuNzE1NyAxNi43MTU3IDMwIDI1IDMwSDM1QzQzLjI4NDMgMzAgNTAgMzYuNzE1NyA1MCA0NVY1MEgxMFY0NVoiIGZpbGw9IiNGRkM2MDciLz4KPC9zdmc+';
+                        console.log('⚠️ Could not load avatar image, using default');
+                    };
+                } else {
+                    // Hiển thị avatar mặc định khi không có avatar
+                    avatarElement.src = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzAiIGN5PSIzMCIgcj0iMzAiIGZpbGw9IiNGRkY5ODAiLz4KPGV2Y2lyY2xlIGN4PSIzMCIgY3k9IjI1IiByeD0iOCIgcnk9IjgiIGZpbGw9IiNGRkM2MDciLz4KPGV2cGF0aCBkPSJNMTAgNDVDMTAgMzYuNzE1NyAxNi43MTU3IDMwIDI1IDMwSDM1QzQzLjI4NDMgMzAgNTAgMzYuNzE1NyA1MCA0NVY1MEgxMFY0NVoiIGZpbGw9IiNGRkM2MDciLz4KPC9zdmc+';
+                    console.log('ℹ️ No avatar provided, using default avatar');
+                }
+
+                // Hiển thị nickname với decode emoji
+                const nicknameElement = document.getElementById('userNickname');
+                let nickname = userDetail.nickname || 'Không có tên';
+                // Decode Unicode escape sequences như \uD83D\uDE0B
+                try {
+                    nickname = JSON.parse('"' + nickname.replace(/\\/g, '\\') + '"');
+                } catch (e) {
+                    // Nếu không decode được thì giữ nguyên
+                }
+                nicknameElement.textContent = nickname;
+
+                // Hiển thị fans với định dạng số
+                const fansElement = document.getElementById('userFans');
+                const fansCount = userDetail.fans || 0;
+                fansElement.textContent = fansCount.toLocaleString('vi-VN');
+
+                // Hiển thị follows với định dạng số
+                const followsElement = document.getElementById('userFollows');
+                const followsCount = userDetail.follows || 0;
+                followsElement.textContent = followsCount.toLocaleString('vi-VN');
+
+                // Hiển thị chữ ký
+                const signatureElement = document.getElementById('userSignature');
+                signatureElement.textContent = userDetail.signature || 'Chưa có chữ ký';
+
+                // Hiển thị thành phố
+                const cityElement = document.getElementById('userCity');
+                cityElement.textContent = userDetail.city || 'Chưa cập nhật';
+
+                // Hiển thị level
+                const levelElement = document.getElementById('userLevel');
+                levelElement.textContent = `Lv.${userDetail.userLevel || 0}`;
+
+                // Hiển thị xu vàng với định dạng
+                const goldCoinElement = document.getElementById('userGoldCoin');
+                const goldCoin = parseFloat(userDetail.goldCoin) || 0;
+                goldCoinElement.textContent = goldCoin.toLocaleString('vi-VN', {
+                    minimumFractionDigits: 2,
+                    maximumFractionDigits: 2
+                });
+
+                console.log('✅ Updated user profile display:', nickname, 'Fans:', fansCount, 'Follows:', followsCount);
+            } 
+        }
+
+        // ===== DANH SÁCH IDOL =====
+
+        // Hàm lấy danh sách idol từ API
+        async function getIdolList() {
+            const loginInfo = getLoginInfo();
+            if (!loginInfo.token) {
+                console.error('Cần đăng nhập trước khi lấy danh sách idol!');
+                return null;
+            }
+
+            const tokenData = getTokenData();
+            const uid = tokenData.userId;
+            const udid = tokenData.udid || localStorage.getItem('udid') || getGuid();
+
+            const timestamp = new Date().getTime();
+            const xSign = md5(`${udid}jgyh,kasd${timestamp}`);
+
+            console.log('🎭 Fetching idol list with:', { uid, udid, timestamp, xSign });
+
+            try {
+                const response = await fetch('https://gateway.mmlive.online/live-client/live/new/4231/1529/list', {
+                    method: 'POST',
+                    headers: {
+                        'accept': 'application/json, text/plain, */*',
+                        'accept-language': 'VI',
+                        'appid': 'MMLive',
+                        'authorization': `HSBox ${loginInfo.token}`,
+                        'content-type': 'application/json;charset=UTF-8',
+                        'n-l': 'Y',
+                        'origin': 'https://mmlive.online',
+                        'os': '0',
+                        'p-g': 'N',
+                        'priority': 'u=1, i',
+                        'referer': 'https://mmlive.online/',
+                        'sec-ch-ua': '"Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"',
+                        'sec-ch-ua-mobile': '?0',
+                        'sec-ch-ua-platform': '"macOS"',
+                        'sec-fetch-dest': 'empty',
+                        'sec-fetch-mode': 'cors',
+                        'sec-fetch-site': 'same-site',
+                        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
+                        'x-appversion': '2.5.0',
+                        'x-language': 'VI',
+                        'x-sign': xSign,
+                        'x-timestamp': timestamp.toString(),
+                        'x-udid': udid
+                    },
+                    body: JSON.stringify({
+                        "uid": uid,
+                        "type": 1,
+                        "os": 0
+                    })
+                });
+
+                const result = await response.json();
+                console.log('🎭 Idol list API response:', result);
+                console.log('🎭 Response code:', result.code);
+                console.log('🎭 Response data:', result.data);
+                console.log('🎭 Data type:', typeof result.data);
+                console.log('🎭 Data is array:', Array.isArray(result.data));
+
+                if (result.data && result.data.length > 0) {
+                    console.log(`✅ Successfully fetched ${result.data.length} idols`);
+                    console.log('🎭 First idol sample:', result.data[0]);
+                    return result.data;
+                } else {
+                    console.error('❌ Failed to fetch idol list:', result.message || result.msg);
+                    return null;
+                }
+            } catch (error) {
+                console.error('❌ Error fetching idol list:', error);
+                return null;
+            }
+        }
+
+        // Hàm render danh sách idol từ API
+        function renderApiIdolList(idols) {
+            const idolListContainer = document.getElementById('idolGrid');
+            if (!idolListContainer) {
+                console.error('❌ Cannot find idolGrid element');
+                return;
+            }
+
+            // FIX: Xử lý hiển thị thông báo "Không có dữ liệu" rõ ràng hơn
+            if (!idols || !Array.isArray(idols) || idols.length === 0) {
+                console.log('⚠️ No idols to render');
+                idolListContainer.innerHTML = `
+                    <div style="grid-column: 1/-1; text-align: center; color: rgba(255,255,255,0.8); padding: 50px; display:flex; flex-direction:column; align-items:center;">
+                        <span style="font-size:3rem; margin-bottom:15px;">📭</span>
+                        <h3 style="margin:0;">Chưa có dữ liệu Idol</h3>
+                        <p style="margin-top:5px; opacity:0.7;">Danh sách trống hoặc lỗi kết nối.</p>
+                    </div>`;
+                return;
+            }
+
+            // Lưu data để sử dụng trong selectApiIdol
+            apiIdolsData = idols;
+
+            // Lưu dữ liệu gốc cho search (chỉ lần đầu)
+            if (originalIdolsData.length === 0) {
+                originalIdolsData = [...idols];
+                console.log('💾 Saved original idols data for search');
+            }
+
+            // Debug: Log sample idol structure
+            console.log('🔍 Sample idol data structure:', idols[0]);
+            console.log('🔍 Available fields:', Object.keys(idols[0] || {}));
+
+            let html = '';
+            idols.forEach((idol, index) => {
+                html += `
+                    <div class="idol-card" onclick="selectApiIdolByAnchorId('${idol.anchorId}')" data-idol-index="${index}" data-idol-id="${idol.anchorId}">
+                        <img src="${idol.avatar}" alt="${idol.nickname || idol.nickName}" class="idol-avatar-img" onerror="this.src='https://ui-avatars.com/api/?name=Idol'">
+                        <div class="idol-name">${idol.nickname || idol.nickName}</div>
+                        <div class="idol-desc">${idol.signature || 'No description'}</div>
+                        <div style="display:flex; justify-content:center; gap:5px; margin-top:5px;">
+                            ${idol.liveStatus === 1 ? '<span class="status-pill status-live">🔴 LIVE</span>' : '<span class="status-pill status-offline">⚫ OFF</span>'}
+                            <span class="status-pill" style="background:#f1f2f6; color:#555">ID: ${idol.anchorId}</span>
+                        </div>
+                    </div>
+                `;
+            });
+
+            idolListContainer.innerHTML = html;
+            console.log(`✅ Rendered ${idols.length} idols`);
+
+            // Setup search input events (chỉ setup một lần)
+            setupSearchInput();
+
+            // Update search results count
+            if (currentSearchTerm) {
+                updateSearchResultsCount(idols.length, originalIdolsData.length, currentSearchTerm);
+            } else {
+                updateSearchResultsCount(idols.length, originalIdolsData.length || idols.length);
+            }
+
+            // Update selection UI sau khi render
+            setTimeout(() => {
+                updateIdolCardSelection();
+                console.log('🔄 Updated idol card selection after render');
+            }, 100);
+
+            // Tự động chọn idol đầu tiên nếu chưa có idol nào được chọn
+            if (!selectedIdol && idols.length > 0) {
+                const firstIdol = {
+                    id: idols[0].anchorId, // Sử dụng anchorId làm id chính
+                    nickname: idols[0].nickname || idols[0].nickName,
+                    signature: idols[0].signature || idols[0].desc || 'Chưa có mô tả',
+                    avatar: idols[0].avatar,
+                    liveId: idols[0].liveId || idols[0].anchorId,
+                    anchorId: idols[0].anchorId, // anchorId từ API
+                    liveStatus: idols[0].liveStatus
+                };
+                selectIdol(firstIdol);
+                console.log(`🎯 Auto-selected first idol: ${firstIdol.nickname}`);
+
+                // Force update selection UI after auto-select
+                setTimeout(() => {
+                    updateIdolCardSelection();
+                    console.log('🔄 Force updated selection after auto-select');
+                }, 200);
+            }
+        }
+
+        // Lưu trữ idol data từ API
+        let apiIdolsData = [];
+
+        // Function chọn idol từ API theo index (legacy support)
+        function selectApiIdol(index) {
+            console.log(`🎯 selectApiIdol called with index: ${index}`);
+            if (index >= 0 && index < apiIdolsData.length) {
+                const idol = apiIdolsData[index];
+                selectApiIdolByAnchorId(idol.anchorId);
+            }
+        }
+
+        // Function chọn idol từ API theo anchorId (search-friendly)
+        function selectApiIdolByAnchorId(anchorId) {
+            console.log(`🎯 selectApiIdolByAnchorId called with anchorId: ${anchorId}`);
+
+            // Tìm idol trong originalIdolsData (data gốc) để đảm bảo luôn tìm thấy
+            const searchData = originalIdolsData.length > 0 ? originalIdolsData : apiIdolsData;
+            const idol = searchData.find(idol => String(idol.anchorId) === String(anchorId));
+
+            if (idol) {
+                console.log(`🎯 Found idol data:`, idol);
+
+                const idolObj = {
+                    id: idol.anchorId, // Sử dụng anchorId làm id chính
+                    nickname: idol.nickname || idol.nickName,
+                    avatar: idol.avatar,
+                    liveId: idol.liveId || idol.anchorId,
+                    anchorId: idol.anchorId, // anchorId từ API
+                    signature: idol.signature || idol.desc || 'Chưa có mô tả', // Thêm signature field
+                    liveStatus: idol.liveStatus
+                };
+
+                console.log(`🎯 Created idolObj:`, idolObj);
+                selectIdol(idolObj);
+
+                // Force update selection với delay
+                setTimeout(() => {
+                    console.log('🔄 Force updating selection after click');
+                    updateIdolCardSelection();
+                }, 50);
+            } else {
+                console.error(`❌ Could not find idol with anchorId: ${anchorId}`);
+            }
+        }
+
+        // ===== SEARCH FUNCTIONS =====
+
+        // Biến lưu trữ dữ liệu gốc và kết quả search
+        let originalIdolsData = [];
+        let currentSearchTerm = '';
+
+        // Hàm tìm kiếm idol
+        function searchIdols() {
+            const searchInput = document.getElementById('idolSearchInput');
+            const searchTerm = searchInput.value.trim().toLowerCase();
+
+            if (!apiIdolsData || apiIdolsData.length === 0) {
+                updateSearchResultsCount(0, 0, 'Chưa có dữ liệu idol');
+                return;
+            }
+
+            // Lưu dữ liệu gốc lần đầu
+            if (originalIdolsData.length === 0) {
+                originalIdolsData = [...apiIdolsData];
+            }
+
+            currentSearchTerm = searchTerm;
+
+            if (!searchTerm) {
+                // Nếu không có từ khóa, hiển thị tất cả
+                renderApiIdolList(originalIdolsData);
+                updateSearchResultsCount(originalIdolsData.length, originalIdolsData.length);
+                return;
+            }
+
+            console.log('🔍 Searching for:', searchTerm);
+
+            // Tìm kiếm theo tên, nickname và ID
+            const searchResults = originalIdolsData.filter(idol => {
+                const nickname = (idol.nickname || idol.nickName || '').toLowerCase();
+                const anchorId = String(idol.anchorId || '').toLowerCase();
+                const signature = (idol.signature || idol.desc || '').toLowerCase();
+
+                return nickname.includes(searchTerm) ||
+                    anchorId.includes(searchTerm) ||
+                    signature.includes(searchTerm);
+            });
+
+            console.log(`🔍 Found ${searchResults.length} results for "${searchTerm}"`);
+
+            // Render kết quả tìm kiếm
+            renderApiIdolList(searchResults);
+            updateSearchResultsCount(searchResults.length, originalIdolsData.length, searchTerm);
+        }
+
+        // Hàm xóa search
+        function clearSearch() {
+            const searchInput = document.getElementById('idolSearchInput');
+            searchInput.value = '';
+            currentSearchTerm = '';
+
+            // Hiển thị lại tất cả idol
+            if (originalIdolsData.length > 0) {
+                renderApiIdolList(originalIdolsData);
+                updateSearchResultsCount(originalIdolsData.length, originalIdolsData.length);
+            }
+
+            console.log('🗑️ Search cleared, showing all idols');
+        }
+
+        // Hàm cập nhật số lượng kết quả tìm kiếm
+        function updateSearchResultsCount(found, total, searchTerm = '') {
+            const countElement = document.getElementById('searchResultsCount');
+            if (!countElement) return;
+
+            if (searchTerm && searchTerm !== '') {
+                if (found === 0) {
+                    countElement.innerHTML = `❌ Không tìm thấy kết quả cho "<strong>${searchTerm}</strong>"`;
+                    countElement.style.color = '#dc3545';
+                } else {
+                    countElement.innerHTML = `✅ Tìm thấy <strong>${found}</strong> kết quả cho "<strong>${searchTerm}</strong>" (từ ${total} idol)`;
+                    countElement.style.color = '#28a745';
+                }
+            } else {
+                countElement.innerHTML = `📋 Hiển thị tất cả <strong>${total}</strong> idol`;
+                countElement.style.color = '#6c757d';
+            }
+        }
+
+        // Hàm search realtime khi gõ
+        function setupSearchInput() {
+            const searchInput = document.getElementById('idolSearchInput');
+            if (searchInput) {
+                // Search khi nhấn Enter
+                searchInput.addEventListener('keypress', function (e) {
+                    if (e.key === 'Enter') {
+                        searchIdols();
+                    }
+                });
+
+                // Search realtime với debounce
+                let searchTimeout;
+                searchInput.addEventListener('input', function (e) {
+                    clearTimeout(searchTimeout);
+                    searchTimeout = setTimeout(() => {
+                        searchIdols();
+                    }, 300); // Delay 300ms để tránh search quá nhiều
+                });
+            }
+        }
+
+        // ===== SCRIPT FUNCTIONS (Deleted as requested) =====
+
+        // Hàm detect hệ điều hành
+        function detectOS() {
+            const userAgent = navigator.userAgent.toLowerCase();
+            if (userAgent.indexOf('win') !== -1) return 'windows';
+            if (userAgent.indexOf('mac') !== -1) return 'macos';
+            if (userAgent.indexOf('linux') !== -1) return 'linux';
+            return 'unix'; // default
+        }
+
+        // ===== CHẠY TRỰC TIẾP TRÊN TRÌNH DUYỆT =====
+        let isRunning = false;
+        let shouldStop = false;
+
+        // Hàm chạy trực tiếp các requests (TĂNG TỐC với parallel requests)
+        async function runDirectly(numberOfRequests = 1000, delaySeconds = 0.01, concurrentRequests = 10) {
+            if (isRunning) {
+                alert('Đang có tiến trình chạy khác! Vui lòng chờ hoàn thành hoặc dừng lại.');
+                return;
+            }
+
+            const loginInfo = getLoginInfo();
+            if (!loginInfo.token) {
+                alert('Cần đăng nhập trước khi chạy!');
+                return;
+            }
+
+            // Hiển thị panel kết quả
+            showRunResultsPanel();
+
+            // Reset trạng thái
+            isRunning = true;
+            shouldStop = false;
+
+            // Get values from config and token
+            const liveId = GLOBAL_CONFIG.liveId;
+            const anchorId = GLOBAL_CONFIG.anchorId;
+            const uid = getTokenData().userId || Math.floor(Math.random() * 999999999) + 2000000000;
+            const udid = getTokenData().udid || localStorage.getItem('udid') || getGuid();
+
+            console.log('Direct Run Config - LiveID:', liveId, 'AnchorID:', anchorId, 'UID:', uid);
+            console.log(`⚡ TURBO MODE: ${concurrentRequests} requests song song`);
+
+            // Update progress
+            updateProgress(0, numberOfRequests, 'Đang bắt đầu...');
+            logResult(`🚀 Bắt đầu chạy ${numberOfRequests} requests (${concurrentRequests} requests đồng thời)...`, 'info');
+            logResult(`📊 Config: LiveID=${liveId}, AnchorID=${anchorId}, UID=${uid}`, 'info');
+
+            let successCount = 0;
+            let errorCount = 0;
+            let completedCount = 0;
+            const startTime = Date.now();
+
+            // Hàm gửi 1 request
+            const sendRequest = async (index) => {
+                if (shouldStop) return { success: false, stopped: true };
+
+                try {
+                    const timestamp = new Date().getTime() + index * 10;
+                    const xSign = md5(`${udid}jgyh,kasd${timestamp}`);
+                    const randomRoomId = 220;
+
+                    // Gửi request
+                    const response = await fetch(`https://gateway.mmlive.online/live-client/live/inter/room/${randomRoomId}`, {
+                        method: 'POST',
+                        headers: {
+                            'accept': 'application/json, text/plain, */*',
+                            'accept-language': 'VI',
+                            'appid': 'MMLive',
+                            'authorization': `HSBox ${loginInfo.token}`,
+                            'content-type': 'application/json;charset=UTF-8',
+                            'n-l': 'Y',
+                            'new-pk': '1',
+                            'origin': 'https://mmlive.online',
+                            'os': '0',
+                            'p-g': 'N',
+                            'referer': 'https://mmlive.online/',
+                            'x-appversion': '2.5.0',
+                            'x-language': 'VI',
+                            'x-sign': xSign,
+                            'x-timestamp': timestamp,
+                            'x-udid': udid
+                        },
+                        body: JSON.stringify({
+                            liveId: liveId,
+                            uid: uid,
+                            adJumpUrl: "",
+                            anchorId: anchorId,
+                            isRoomPreview: 0,
+                            os: 0
+                        })
+                    });
+
+                    if (response.ok) {
+                        await response.json();
+                        return { success: true, index, roomId: randomRoomId };
+                    } else {
+                        return { success: false, index, roomId: randomRoomId, status: response.status };
+                    }
+
+                } catch (error) {
+                    return { success: false, index, error: error.message };
+                }
+            };
+
+            // Chạy requests theo batch (song song)
+            for (let batchStart = 1; batchStart <= numberOfRequests && !shouldStop; batchStart += concurrentRequests) {
+                const batchEnd = Math.min(batchStart + concurrentRequests - 1, numberOfRequests);
+                const batchSize = batchEnd - batchStart + 1;
+
+                updateProgress(completedCount, numberOfRequests, `Đang gửi batch ${Math.ceil(batchStart / concurrentRequests)}...`, batchSize);
+
+                // Tạo mảng promises cho batch này
+                const promises = [];
+                for (let i = 0; i < batchSize; i++) {
+                    promises.push(sendRequest(batchStart + i));
+                }
+
+                // Chờ tất cả requests trong batch hoàn thành
+                const results = await Promise.all(promises);
+
+                // Xử lý kết quả
+                results.forEach((result, idx) => {
+                    if (result.stopped) return;
+
+                    completedCount++;
+
+                    if (result.success) {
+                        successCount++;
+                        // Chỉ log mỗi 50 requests để tránh spam
+                        if (completedCount % 50 === 0 || completedCount <= 10) {
+                            logResult(`✅ Request ${result.index}: Thành công`, 'success');
+                        }
+                    } else {
+                        errorCount++;
+                        logResult(`❌ Request ${result.index}: ${result.status ? `HTTP ${result.status}` : result.error}`, 'error');
+                    }
+                });
+
+                // Cập nhật progress sau mỗi batch
+                const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+                const rate = (completedCount / (Date.now() - startTime) * 1000).toFixed(1);
+                updateProgress(completedCount, numberOfRequests, `Hoàn thành ${completedCount}/${numberOfRequests} (${rate} req/s)`, 0);
+
+                // Delay nhỏ giữa các batch (nếu cần)
+                if (batchEnd < numberOfRequests && delaySeconds > 0 && !shouldStop) {
+                    await new Promise(resolve => setTimeout(resolve, delaySeconds * 1000));
+                }
+            }
+
+            // Hoàn thành
+            isRunning = false;
+            const totalTime = ((Date.now() - startTime) / 1000).toFixed(2);
+            const avgRate = (completedCount / (Date.now() - startTime) * 1000).toFixed(1);
+
+            updateProgress(numberOfRequests, numberOfRequests, shouldStop ? 'Đã dừng lại' : 'Hoàn thành!');
+
+            const statusText = shouldStop ? 'Đã dừng lại' : 'Hoàn thành';
+            logResult(`\n🏁 ${statusText}! Tổng kết:`, 'info');
+            logResult(`   ✅ Thành công: ${successCount}`, 'success');
+            logResult(`   ❌ Lỗi: ${errorCount}`, 'error');
+            logResult(`   ⏱️ Thời gian: ${totalTime}s`, 'info');
+            logResult(`   ⚡ Tốc độ trung bình: ${avgRate} requests/giây`, 'info');
+            logResult(`   📊 Tỉ lệ thành công: ${((successCount / (successCount + errorCount)) * 100).toFixed(1)}%`, 'info');
+
+            document.getElementById('stopBtn').style.display = 'none';
+        }
+
+        // Hiển thị panel kết quả
+        function showRunResultsPanel() {
+            const panel = document.getElementById('runResultsPanel');
+            panel.style.display = 'block';
+            panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+            // Hiển thị nút stop
+            document.getElementById('stopBtn').style.display = 'inline-block';
+
+            // Clear previous results
+            document.getElementById('runResults').innerHTML = '';
+        }
+
+        // Cập nhật thanh progress
+        function updateProgress(current, total, message, activeThreads = 0) {
+            const percentage = total > 0 ? (current / total) * 100 : 0;
+
+            document.getElementById('progressBar').style.width = percentage + '%';
+
+            // Thêm hiển thị threads nếu có
+            const messageWithThreads = activeThreads > 0 ? `${message} [${activeThreads} threads hoạt động]` : message;
+            document.getElementById('progressText').textContent = messageWithThreads;
+            document.getElementById('progressCount').textContent = `${current}/${total}`;
+        }
+
+        // Ghi log kết quả
+        function logResult(message, type = 'info') {
+            const resultsDiv = document.getElementById('runResults');
+            const timestamp = new Date().toLocaleTimeString();
+
+            let color = '#a4b0be';
+            if (type === 'success') color = '#55efc4';
+            else if (type === 'error') color = '#ff7675';
+            else if (type === 'info') color = '#74b9ff';
+
+            const logEntry = document.createElement('div');
+            logEntry.style.color = color;
+            logEntry.style.marginBottom = '3px';
+            logEntry.innerHTML = `<span style="color: #636e72;">[${timestamp}]</span> ${message}`;
+
+            resultsDiv.appendChild(logEntry);
+            resultsDiv.scrollTop = resultsDiv.scrollHeight;
+        }
+
+        // Dừng chạy
+        function stopRunning() {
+            if (isRunning) {
+                shouldStop = true;
+                logResult('🛑 Đang dừng lại...', 'info');
+                document.getElementById('stopBtn').style.display = 'none';
+            }
+        }
+
+        // Xóa kết quả
+        function clearResults() {
+            document.getElementById('runResults').innerHTML = '';
+            document.getElementById('runResultsPanel').style.display = 'none';
+            // document.getElementById('toolPlaceholder').style.display = 'block'; // Removed since placeholder was in deleted column
+            updateProgress(0, 0, 'Sẵn sàng');
+        }
+
+        // Wrapper function để chạy TURBO MODE với input từ user
+        async function runTurboModeWithInput() {
+            const numberOfViews = parseInt(document.getElementById('customRequests').value) || 5000;
+            const maxConcurrent = 150; // Fixed 150 threads cho TURBO MODE
+            await runTurboMode(numberOfViews, maxConcurrent);
+        }
+
+        // TURBO MODE - Chạy với Promise Pool để tối ưu hiệu suất cực đại
+        async function runTurboMode(numberOfRequests = 5000, maxConcurrent = 150) {
+            if (isRunning) {
+                alert('Đang có tiến trình chạy khác! Vui lòng chờ hoàn thành hoặc dừng lại.');
+                return;
+            }
+
+            const confirmed = confirm(`🚀 TURBO MODE\n\n⚡ Sẽ chạy ${numberOfRequests} requests với ${maxConcurrent} threads đồng thời!\n\n⚠️ Cảnh báo:\n- Tốc độ CỰC NHANH (có thể > 1000 req/s)\n- Có thể làm trình duyệt lag tạm thời\n- Server có thể chặn rate limit\n\nChỉ dùng khi server cho phép rate cao!\n\nTiếp tục?`);
+
+            if (!confirmed) return;
+
+            const loginInfo = getLoginInfo();
+            if (!loginInfo.token) {
+                alert('Cần đăng nhập trước khi chạy!');
+                return;
+            }
+
+            showRunResultsPanel();
+            isRunning = true;
+            shouldStop = false;
+
+            const liveId = GLOBAL_CONFIG.liveId;
+            const anchorId = GLOBAL_CONFIG.anchorId;
+            const uid = getTokenData().userId || Math.floor(Math.random() * 999999999) + 2000000000;
+            const udid = getTokenData().udid || localStorage.getItem('udid') || getGuid();
+
+            logResult(`🚀 TURBO MODE: ${numberOfRequests} requests với ${maxConcurrent} threads!`, 'info');
+            logResult(`📊 Config: LiveID=${liveId}, AnchorID=${anchorId}`, 'info');
+
+            let successCount = 0;
+            let errorCount = 0;
+            let completedCount = 0;
+            const startTime = Date.now();
+
+            // Promise pool để kiểm soát concurrency
+            const pool = [];
+            const results = [];
+
+            const sendRequest = async (index) => {
+                if (shouldStop) return { success: false, stopped: true };
+
+                try {
+                    const timestamp = new Date().getTime() + index * 5;
+                    const xSign = md5(`${udid}jgyh,kasd${timestamp}`);
+                    const randomRoomId = 220;
+
+                    const response = await fetch(`https://gateway.mmlive.online/live-client/live/inter/room/${randomRoomId}`, {
+                        method: 'POST',
+                        headers: {
+                            'accept': 'application/json, text/plain, */*',
+                            'accept-language': 'VI',
+                            'appid': 'MMLive',
+                            'authorization': `HSBox ${loginInfo.token}`,
+                            'content-type': 'application/json;charset=UTF-8',
+                            'n-l': 'Y',
+                            'new-pk': '1',
+                            'origin': 'https://mmlive.online',
+                            'os': '0',
+                            'p-g': 'N',
+                            'referer': 'https://mmlive.online/',
+                            'x-appversion': '2.5.0',
+                            'x-language': 'VI',
+                            'x-sign': xSign,
+                            'x-timestamp': timestamp,
+                            'x-udid': udid
+                        },
+                        body: JSON.stringify({
+                            liveId: liveId,
+                            uid: uid,
+                            adJumpUrl: "",
+                            anchorId: anchorId,
+                            isRoomPreview: 0,
+                            os: 0
+                        })
+                    });
+
+                    completedCount++;
+
+                    if (response.ok) {
+                        await response.json();
+                        successCount++;
+                        return { success: true, index };
+                    } else {
+                        errorCount++;
+                        return { success: false, index, status: response.status };
+                    }
+                } catch (error) {
+                    completedCount++;
+                    errorCount++;
+                    return { success: false, index, error: error.message };
+                }
+            };
+
+            // Chạy với promise pool
+            for (let i = 1; i <= numberOfRequests && !shouldStop; i++) {
+                const promise = sendRequest(i).then(result => {
+                    // Remove from pool when done
+                    const index = pool.indexOf(promise);
+                    if (index > -1) pool.splice(index, 1);
+
+                    // Update progress mỗi 100 requests
+                    if (completedCount % 100 === 0) {
+                        const rate = (completedCount / (Date.now() - startTime) * 1000).toFixed(0);
+                        updateProgress(completedCount, numberOfRequests, `Turbo Mode: ${rate} req/s`, pool.length);
+                    }
+                    return result;
+                });
+
+                pool.push(promise);
+
+                // Khi pool đầy, chờ một request hoàn thành
+                if (pool.length >= maxConcurrent) {
+                    await Promise.race(pool);
+                }
+            }
+
+            // Chờ tất cả requests còn lại
+            if (pool.length > 0) {
+                await Promise.all(pool);
+            }
+
+            // Hoàn thành
+            isRunning = false;
+            const totalTime = ((Date.now() - startTime) / 1000).toFixed(2);
+            const avgRate = (completedCount / (Date.now() - startTime) * 1000).toFixed(0);
+
+            updateProgress(numberOfRequests, numberOfRequests, 'TURBO MODE hoàn thành!', 0);
+
+            logResult(`\n🏁 TURBO MODE hoàn thành!`, 'info');
+            logResult(`   ✅ Thành công: ${successCount}`, 'success');
+            logResult(`   ❌ Lỗi: ${errorCount}`, 'error');
+            logResult(`   ⏱️ Thời gian: ${totalTime}s`, 'info');
+            logResult(`   ⚡ Tốc độ trung bình: ${avgRate} requests/giây`, 'info');
+            logResult(`   📊 Tỉ lệ thành công: ${((successCount / completedCount) * 100).toFixed(1)}%`, 'info');
+
+            document.getElementById('stopBtn').style.display = 'none';
+        }
+
+        // PHÁ IDOL MODE - Chạy vòng lặp không giới hạn với 5000 requests, 150 threads
+        async function runPhaIdolMode() {
+            if (isRunning) {
+                alert('Đang có tiến trình chạy khác! Vui lòng chờ hoàn thành hoặc dừng lại.');
+                return;
+            }
+
+            const confirmed = confirm(`💥 CHẾ ĐỘ PHÁ IDOL\n\n🔥 Chạy VÒNG LẶP KHÔNG GIỚI HẠN!\n⚡ Mỗi vòng: 5000 requests với 150 threads\n\n⚠️ CẢNH BÁO CỰC MẠNH:\n- Chạy LIÊN TỤC cho đến khi bạn dừng\n- Tốc độ CỰC NHANH (> 1000 req/s)\n- Có thể làm trình duyệt lag nghiêm trọng\n- Server có thể chặn IP\n- CHỈ DỪNG KHI BẠN NHẤN NÚT DỪNG!\n\n⛔ CHỈ DÙNG KHI THẬT SỰ CẦN THIẾT!\n\nBạn có chắc chắn muốn tiếp tục?`);
+
+            if (!confirmed) return;
+
+            const loginInfo = getLoginInfo();
+            if (!loginInfo.token) {
+                alert('Cần đăng nhập trước khi chạy!');
+                return;
+            }
+
+            showRunResultsPanel();
+            isRunning = true;
+            shouldStop = false;
+
+            const liveId = GLOBAL_CONFIG.liveId;
+            const anchorId = GLOBAL_CONFIG.anchorId;
+            const uid = getTokenData().userId || Math.floor(Math.random() * 999999999) + 2000000000;
+            const udid = getTokenData().udid || localStorage.getItem('udid') || getGuid();
+
+            logResult(`💥 CHẾ ĐỘ PHÁ IDOL BẮT ĐẦU!`, 'error');
+            logResult(`🔥 Vòng lặp không giới hạn - 5000 requests/vòng - 150 threads`, 'error');
+            logResult(`📊 Config: LiveID=${liveId}, AnchorID=${anchorId}`, 'info');
+            logResult(`⚠️ Nhấn nút DỪNG để kết thúc!\n`, 'info');
+
+            let totalSuccessCount = 0;
+            let totalErrorCount = 0;
+            let totalCompletedCount = 0;
+            let loopCount = 0;
+            const globalStartTime = Date.now();
+
+            // Vòng lặp không giới hạn
+            while (!shouldStop) {
+                loopCount++;
+                logResult(`\n🔄 === VÒNG ${loopCount} BẮT ĐẦU ===`, 'info');
+
+                const numberOfRequests = 5000;
+                const maxConcurrent = 150;
+
+                let successCount = 0;
+                let errorCount = 0;
+                let completedCount = 0;
+                const startTime = Date.now();
+
+                // Promise pool để kiểm soát concurrency
+                const pool = [];
+
+                const sendRequest = async (index) => {
+                    if (shouldStop) return { success: false, stopped: true };
+
+                    try {
+                        const timestamp = new Date().getTime() + index * 5;
+                        const xSign = md5(`${udid}jgyh,kasd${timestamp}`);
+                        const randomRoomId = 220;
+
+                        const response = await fetch(`https://gateway.mmlive.online/live-client/live/inter/room/${randomRoomId}`, {
+                            method: 'POST',
+                            headers: {
+                                'accept': 'application/json, text/plain, */*',
+                                'accept-language': 'VI',
+                                'appid': 'MMLive',
+                                'authorization': `HSBox ${loginInfo.token}`,
+                                'content-type': 'application/json;charset=UTF-8',
+                                'n-l': 'Y',
+                                'new-pk': '1',
+                                'origin': 'https://mmlive.online',
+                                'os': '0',
+                                'p-g': 'N',
+                                'referer': 'https://mmlive.online/',
+                                'x-appversion': '2.5.0',
+                                'x-language': 'VI',
+                                'x-sign': xSign,
+                                'x-timestamp': timestamp,
+                                'x-udid': udid
+                            },
+                            body: JSON.stringify({
+                                liveId: liveId,
+                                uid: uid,
+                                adJumpUrl: "",
+                                anchorId: anchorId,
+                                isRoomPreview: 0,
+                                os: 0
+                            })
+                        });
+
+                        completedCount++;
+                        totalCompletedCount++;
+
+                        if (response.ok) {
+                            await response.json();
+                            successCount++;
+                            totalSuccessCount++;
+                            return { success: true, index };
+                        } else {
+                            errorCount++;
+                            totalErrorCount++;
+                            return { success: false, index, status: response.status };
+                        }
+                    } catch (error) {
+                        completedCount++;
+                        totalCompletedCount++;
+                        errorCount++;
+                        totalErrorCount++;
+                        return { success: false, index, error: error.message };
+                    }
+                };
+
+                // Chạy với promise pool
+                for (let i = 1; i <= numberOfRequests && !shouldStop; i++) {
+                    const promise = sendRequest(i).then(result => {
+                        // Remove from pool when done
+                        const index = pool.indexOf(promise);
+                        if (index > -1) pool.splice(index, 1);
+
+                        // Update progress mỗi 100 requests
+                        if (completedCount % 100 === 0) {
+                            const rate = (completedCount / (Date.now() - startTime) * 1000).toFixed(0);
+                            const globalRate = (totalCompletedCount / (Date.now() - globalStartTime) * 1000).toFixed(0);
+                            updateProgress(completedCount, numberOfRequests, `💥 Phá Idol Vòng ${loopCount}: ${rate} req/s | Tổng: ${globalRate} req/s`, pool.length);
+                        }
+                        return result;
+                    });
+
+                    pool.push(promise);
+
+                    // Khi pool đầy, chờ một request hoàn thành
+                    if (pool.length >= maxConcurrent) {
+                        await Promise.race(pool);
+                    }
+                }
+
+                // Chờ tất cả requests còn lại của vòng này
+                if (pool.length > 0) {
+                    await Promise.all(pool);
+                }
+
+                // Kết thúc vòng lặp
+                const loopTime = ((Date.now() - startTime) / 1000).toFixed(2);
+                const loopRate = (completedCount / (Date.now() - startTime) * 1000).toFixed(0);
+
+                logResult(`🏁 Vòng ${loopCount} hoàn thành!`, 'success');
+                logResult(`   ✅ Thành công: ${successCount} | ❌ Lỗi: ${errorCount}`, 'info');
+                logResult(`   ⏱️ Thời gian: ${loopTime}s | ⚡ Tốc độ: ${loopRate} req/s`, 'info');
+
+                // Nếu shouldStop = true, thoát vòng lặp
+                if (shouldStop) {
+                    logResult(`\n⛔ Đã dừng bởi người dùng!`, 'error');
+                    break;
+                }
+
+                // Delay nhỏ giữa các vòng (100ms) để tránh quá tải
+                await new Promise(resolve => setTimeout(resolve, 100));
+            }
+
+            // Hoàn thành toàn bộ
+            isRunning = false;
+            const totalTime = ((Date.now() - globalStartTime) / 1000).toFixed(2);
+            const avgRate = (totalCompletedCount / (Date.now() - globalStartTime) * 1000).toFixed(0);
+
+            updateProgress(totalCompletedCount, totalCompletedCount, 'PHÁ IDOL MODE HOÀN THÀNH!', 0);
+
+            logResult(`\n💥 === KẾT THÚC CHẾ ĐỘ PHÁ IDOL ===`, 'error');
+            logResult(`🔄 Tổng số vòng: ${loopCount}`, 'info');
+            logResult(`📊 TỔNG KẾT:`, 'info');
+            logResult(`   ✅ Thành công: ${totalSuccessCount}`, 'success');
+            logResult(`   ❌ Lỗi: ${totalErrorCount}`, 'error');
+            logResult(`   📈 Tổng requests: ${totalCompletedCount}`, 'info');
+            logResult(`   ⏱️ Tổng thời gian: ${totalTime}s`, 'info');
+            logResult(`   ⚡ Tốc độ trung bình: ${avgRate} requests/giây`, 'info');
+            logResult(`   📊 Tỉ lệ thành công: ${((totalSuccessCount / totalCompletedCount) * 100).toFixed(1)}%`, 'info');
+
+            document.getElementById('stopBtn').style.display = 'none';
+        }
+
+        // Toggle hiển thị mật khẩu
+        function togglePassword() {
+            const passwordInput = document.getElementById('password');
+            const passwordToggle = document.querySelector('.password-toggle');
+
+            if (passwordInput.type === 'password') {
+                passwordInput.type = 'text';
+                passwordToggle.textContent = '🙈';
+            } else {
+                passwordInput.type = 'password';
+                passwordToggle.textContent = '👁️';
+            }
+        }
+
+        // Validate form
+        function validateForm() {
+            const mobile = document.getElementById('email');
+            const password = document.getElementById('password');
+            const mobileError = document.getElementById('emailError');
+            const passwordError = document.getElementById('passwordError');
+
+            let isValid = true;
+
+            // Reset errors
+            mobileError.style.display = 'none';
+            passwordError.style.display = 'none';
+            mobile.style.borderColor = '#e1e1e1';
+            password.style.borderColor = '#e1e1e1';
+
+            // Validate mobile phone (Vietnam format)
+            const phoneRegex = /^(0[3|5|7|8|9])+([0-9]{8})$/;
+            if (!mobile.value.trim() || !phoneRegex.test(mobile.value.trim())) {
+                mobileError.style.display = 'block';
+                mobile.style.borderColor = '#dc3545';
+                isValid = false;
+            }
+
+            // Validate password
+            if (!password.value || password.value.length < 6) {
+                passwordError.style.display = 'block';
+                password.style.borderColor = '#dc3545';
+                isValid = false;
+            }
+
+            return isValid;
+        }
+
+        // Xử lý submit form
+        document.getElementById('loginForm').addEventListener('submit', async function (e) {
+            e.preventDefault();
+
+            if (validateForm()) {
+                // Hiển thị loading
+                const loginBtn = document.querySelector('.login-btn');
+                const originalText = loginBtn.textContent;
+                loginBtn.textContent = 'Đang đăng nhập...';
+                loginBtn.disabled = true;
+
+                // Lấy dữ liệu từ form
+                const mobile = document.getElementById('email').value.trim();
+                const password = document.getElementById('password').value;
+                const remember = document.getElementById('remember').checked; // Lấy trạng thái checkbox ghi nhớ
+
+                try {
+                    // Gọi API đăng nhập
+                    console.log('📞 Calling loginAPI...');
+                    const result = await loginAPI(mobile, password);
+                    console.log('📨 Received result from loginAPI:', result);
+                    console.log('Result type:', typeof result);
+
+                    // Kiểm tra result có tồn tại không
+                    if (!result) {
+                        console.error('❌ Không nhận được phản hồi từ server - result is:', result);
+                        alert('🚨 Lỗi server!\n\n⚠️ Không nhận được phản hồi từ server.\nVui lòng thử lại sau.');
+                        return;
+                    }
+
+                    if (result.success === true) {
+                        console.log(`Đăng nhập thành công! ${result.message || 'Success'}`);
+
+                        // XỬ LÝ GHI NHỚ ĐĂNG NHẬP
+                        if (remember) {
+                            localStorage.setItem('savedMobile', mobile);
+                            // Mã hóa đơn giản mật khẩu (base64) để không lưu plaintext
+                            localStorage.setItem('savedPassword', btoa(password));
+                            localStorage.setItem('isRemembered', 'true');
+                        } else {
+                            // Nếu không check thì xóa thông tin cũ
+                            localStorage.removeItem('savedMobile');
+                            localStorage.removeItem('savedPassword');
+                            localStorage.removeItem('isRemembered');
+                        }
+
+                        // Hiển thị thông tin đã lưu
+                        console.log('Token saved:', localStorage.getItem('authToken'));
+                        console.log('Random Key:', localStorage.getItem('randomKey'));
+                        console.log('Random Vector:', localStorage.getItem('randomVector'));
+                        console.log('Login Time:', localStorage.getItem('loginTime'));
+
+                        // Cập nhật User Info UI
+                        updateUserInfoDisplay();
+
+                        // Lấy thông tin chi tiết user và danh sách idol
+                        try {
+                            console.log('🔍 Fetching user profile information...');
+                            const userDetail = await getUserInfo();
+                            if (userDetail) {
+                                updateUserInfoDisplay(userDetail);
+                                console.log('✅ Fetched user detail:', userDetail.nickname);
+                            }
+
+                            // Lấy danh sách idol
+                            console.log('🎭 Fetching idol list...');
+                            const idols = await getIdolList();
+                            console.log('🎭 Received idols from API:', idols);
+                            console.log('🎭 Idols type:', typeof idols);
+                            console.log('🎭 Idols length:', idols ? idols.length : 'null');
+
+                            if (idols) {
+                                console.log('🎨 Calling renderApiIdolList...');
+                                renderApiIdolList(idols);
+                                console.log('✅ Successfully loaded idol list');
+                            } else {
+                                console.log('❌ No idols received from API');
+                                // FIX: Gọi render để hiện thông báo trống
+                                renderApiIdolList([]);
+                            }
+                        } catch (error) {
+                            console.error('❌ Error fetching user data or idol list:', error);
+                            // FIX: Gọi render để hiện thông báo trống
+                            renderApiIdolList([]);
+                        }
+
+                        // Ẩn toàn bộ login container
+                        document.querySelector('.login-container').style.display = 'none';
+
+                        // Show 2 columns: Sidebar and Idol (Middle column removed)
+                        document.getElementById('sidebarSection').style.display = 'block';
+                        // document.getElementById('toolContainerColumn').style.display = 'block'; // DELETED
+                        // Cập nhật mặc định: Nếu là mobile thì switchTab idol, nếu desktop thì hiện hết
+                        const idolContainer = document.querySelector('.idol-container');
+                        idolContainer.style.display = 'block';
+
+                        // MOBILE TAB INITIALIZATION
+                        if (window.innerWidth <= 992) {
+                            switchMobileTab('idol'); // Mặc định vào tab Idol
+                        } else {
+                            document.getElementById('idolSection').style.display = 'flex'; // Reset cho desktop
+                        }
+
+                        // Render danh sách idol
+                        renderIdolList();                        // Hiển thị thông báo với token (chỉ để test)
+                        if (result.data && result.data.token) {
+                            const shortToken = result.data.token.substring(0, 20) + '...';
+                            console.log(`Token đã được lưu: ${shortToken}`);
+                        }
+
+                    } else {
+                        const errorMsg = result.error || result.message || 'Đăng nhập thất bại';
+                        console.error(`Đăng nhập thất bại: ${errorMsg}`);
+
+                        // Hiển thị alert lỗi đăng nhập
+                        let alertMessage = '❌ Đăng nhập thất bại!\n\n';
+
+                        // Xử lý các loại lỗi cụ thể
+                        if (errorMsg.toLowerCase().includes('password') || errorMsg.toLowerCase().includes('mật khẩu')) {
+                            alertMessage += '🔑 Mật khẩu không chính xác.\nVui lòng kiểm tra lại mật khẩu.';
+                        } else if (errorMsg.toLowerCase().includes('phone') || errorMsg.toLowerCase().includes('mobile') || errorMsg.toLowerCase().includes('điện thoại')) {
+                            alertMessage += '📱 Số điện thoại không tồn tại.\nVui lòng kiểm tra lại số điện thoại.';
+                        } else if (errorMsg.toLowerCase().includes('account') || errorMsg.toLowerCase().includes('tài khoản')) {
+                            alertMessage += '👤 Tài khoản không hợp lệ.\nVui lòng kiểm tra thông tin đăng nhập.';
+                        } else {
+                            alertMessage += `📋 Chi tiết lỗi: ${errorMsg}`;
+                        }
+
+                        alert(alertMessage);
+                    }
+                } catch (error) {
+                    console.error('Login error:', error);
+                    console.error('Có lỗi xảy ra khi đăng nhập. Vui lòng thử lại!');
+
+                    // Hiển thị alert lỗi kết nối
+                    let networkErrorMsg = '🚨 Lỗi kết nối!\n\n';
+
+                    if (error.name === 'TypeError') {
+                        networkErrorMsg += '🌐 Không thể kết nối đến server.\nVui lòng kiểm tra kết nối internet của bạn.';
+                    } else if (error.name === 'SyntaxError') {
+                        networkErrorMsg += '⚠️ Server trả về dữ liệu không hợp lệ.\nVui lòng thử lại sau.';
+                    } else {
+                        networkErrorMsg += `📋 Chi tiết lỗi: ${error.message || 'Lỗi không xác định'}`;
+                    }
+
+                    alert(networkErrorMsg);
+                } finally {
+                    // Reset nút đăng nhập
+                    loginBtn.textContent = originalText;
+                    loginBtn.disabled = false;
+                }
+            }
+        });
+
+
+        // Thêm hiệu ứng khi nhập liệu
+        document.querySelectorAll('input').forEach(input => {
+            input.addEventListener('focus', function () {
+                this.parentElement.style.transform = 'scale(1.02)';
+            });
+
+            input.addEventListener('blur', function () {
+                this.parentElement.style.transform = 'scale(1)';
+            });
+        });
+
+        // HÀM KIỂM TRA ĐĂNG NHẬP VÀ HIỂN THỊ UI NGAY LẬP TỨC
+        // Không chờ window.onload để tránh FOUC (Flash of Unstyled Content)
+        function initApp() {
+            console.log('🚀 App Initializing...');
+            const loginContainer = document.getElementById('loginContainer');
+            const sidebar = document.getElementById('sidebarSection');
+            const idolContainer = document.querySelector('.idol-container');
+            const bottomNav = document.getElementById('mobileBottomNav');
+            
+            // Lấy thông tin đăng nhập từ localStorage
+            const savedMobile = localStorage.getItem('savedMobile');
+            const savedPassword = localStorage.getItem('savedPassword');
+            const isRemembered = localStorage.getItem('isRemembered') === 'true';
+            
+            // Xử lý auto-fill form (nếu có)
+            if (savedMobile && isRemembered) {
+                const emailInput = document.getElementById('email');
+                const rememberCheckbox = document.getElementById('remember');
+                if (emailInput) emailInput.value = savedMobile;
+                if (rememberCheckbox) rememberCheckbox.checked = true;
+            }
+            
+            if (savedPassword && isRemembered) {
+                const passInput = document.getElementById('password');
+                if (passInput) {
+                    try {
+                        passInput.value = atob(savedPassword);
+                    } catch (e) {
+                        console.error('Lỗi giải mã mật khẩu');
+                    }
+                }
+            }
+
+            // KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP
+            if (isLoggedIn()) {
+                console.log('✅ User is logged in. Showing Main UI immediately.');
+                
+                // Ẩn Login, Hiện Main
+                if(loginContainer) loginContainer.style.display = 'none';
+                if(sidebar) sidebar.style.display = 'block';
+                if(idolContainer) idolContainer.style.display = 'block';
+
+                // MOBILE: MẶC ĐỊNH VÀO TAB IDOL
+                if (window.innerWidth <= 992) {
+                    switchMobileTab('idol');
+                }
+
+                // Tải dữ liệu nền
+                const loginInfo = getLoginInfo();
+                updateUserInfoDisplay();
+
+                (async () => {
+                    try {
+                        const userDetail = await getUserInfo();
+                        if (userDetail) updateUserInfoDisplay(userDetail);
+                        
+                        const idols = await getIdolList();
+                        if (idols) {
+                            renderApiIdolList(idols);
+                        } else {
+                            // FIX: Gọi render để hiện thông báo trống nếu API lỗi/trả về null
+                            renderApiIdolList([]);
+                        }
+                    } catch (error) {
+                        console.error('Error loading initial data:', error);
+                        // FIX: Gọi render để hiện thông báo trống
+                        renderApiIdolList([]);
+                    }
+                })();
+
+            } else {
+                console.log('ℹ️ User not logged in. Showing Login UI.');
+                // Hiện Login, Ẩn Main
+                if(loginContainer) loginContainer.style.display = 'block'; // Hiện lại login
+                if(sidebar) sidebar.style.display = 'none';
+                if(idolContainer) idolContainer.style.display = 'none';
+                
+                // Auto focus nếu chưa có sđt
+                const emailInput = document.getElementById('email');
+                if (emailInput && (!savedMobile || !isRemembered)) {
+                    // Dùng setTimeout nhỏ để đảm bảo render xong mới focus
+                    setTimeout(() => emailInput.focus(), 100);
+                }
+                
+                // Render placeholder cho list idol (ẩn trong màn login nhưng chuẩn bị sẵn)
+                renderIdolList();
+            }
+
+            // Setup search events
+            setupSearchInput();
+        }
+
+        // CHẠY INIT APP NGAY LẬP TỨC (Khi script được parse)
+        initApp();
+
+    </script>
+</body>
+
+</html>
