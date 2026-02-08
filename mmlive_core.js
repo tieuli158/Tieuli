@@ -1,8 +1,79 @@
 /**
  * BẢN QUYỀN THUỘC VỀ LONG NGUYỄN
  * CORE LOGIC V2 - REMOTE CONFIG INTEGRATED
+ * UPDATE: MOBILE TABS & UI CONTROL INCLUDED
  * PHIÊN BẢN ĐẦY ĐỦ - KHÔNG CHE - SẴN SÀNG MÃ HÓA
  */
+
+// =================================================================
+// 0. MOBILE UI & TAB LOGIC (NEW UPDATE)
+// =================================================================
+
+// --- NEW FUNCTION: MOBILE TAB SWITCHING ---
+function switchMobileTab(tabName) {
+    // Chỉ hoạt động nếu đang ở chế độ mobile (width <= 992px)
+    if (window.innerWidth > 992) return;
+
+    const idolSection = document.getElementById('idolSection');
+    const sidebarSection = document.getElementById('sidebarSection');
+    const tabBtnIdol = document.getElementById('tabBtnIdol');
+    const tabBtnAccount = document.getElementById('tabBtnAccount');
+
+    if (tabName === 'idol') {
+        // Show Idol - DÙNG FLEX ĐỂ GIỮ CẤU TRÚC
+        idolSection.style.display = 'flex'; 
+        idolSection.classList.add('mobile-tab-active');
+        
+        // Hide Sidebar (Quan trọng: Phải set display none vì inline style đang là block)
+        sidebarSection.style.display = 'none';
+        sidebarSection.classList.remove('mobile-tab-active');
+        
+        // Active Button State
+        tabBtnIdol.classList.add('active');
+        tabBtnAccount.classList.remove('active');
+    } else {
+        // Show Sidebar
+        sidebarSection.style.display = 'block';
+        sidebarSection.classList.add('mobile-tab-active');
+        
+        // Hide Idol (Quan trọng: Phải set display none)
+        idolSection.style.display = 'none';
+        idolSection.classList.remove('mobile-tab-active');
+        
+        // Active Button State
+        tabBtnAccount.classList.add('active');
+        tabBtnIdol.classList.remove('active');
+    }
+}
+
+// Listen for resize to reset styles if user switches to desktop
+window.addEventListener('resize', function() {
+     const idolSection = document.getElementById('idolSection');
+     const sidebarSection = document.getElementById('sidebarSection');
+     
+     if (window.innerWidth > 992 && isLoggedIn()) {
+         // Reset classes on desktop to ensure both columns show
+         idolSection.classList.remove('mobile-tab-active');
+         sidebarSection.classList.remove('mobile-tab-active');
+         
+         // Force display block for desktop layout
+         idolSection.style.display = 'flex';
+         sidebarSection.style.display = 'block';
+     } else if (window.innerWidth <= 992 && isLoggedIn()) {
+         // Re-apply current tab logic if switching back to mobile
+         // Default to Idol tab if none active
+         const tabBtnIdol = document.getElementById('tabBtnIdol');
+         const tabBtnAccount = document.getElementById('tabBtnAccount');
+         
+         if (!tabBtnIdol.classList.contains('active') && !tabBtnAccount.classList.contains('active')) {
+             switchMobileTab('idol');
+         } else if (tabBtnIdol.classList.contains('active')) {
+             switchMobileTab('idol');
+         } else {
+             switchMobileTab('account');
+         }
+     }
+});
 
 // =================================================================
 // 1. CẤU HÌNH ĐƯỜNG DẪN FILE CONFIG (QUAN TRỌNG NHẤT)
@@ -50,11 +121,6 @@ async function checkRemoteStatus() {
         console.error("Config Error:", error);
         // Nếu lỗi do mạng hoặc do file config bị xóa -> Tùy bạn quyết định có cho chạy hay không.
         // Ở đây tôi để mặc định là NẾU LỖI CONFIG THÌ VẪN CHO CHẠY (để tránh khách bị chặn oan khi mạng lag)
-        // Nếu muốn bảo mật tuyệt đối (lỗi config = chặn) thì uncomment dòng dưới:
-        /*
-        document.body.innerHTML = '<h1 style="color:red; text-align:center; margin-top:50px;">Lỗi kết nối Server quản lý. Vui lòng kiểm tra mạng.</h1>';
-        throw error;
-        */
         return true; 
     }
 }
@@ -375,8 +441,8 @@ function updateSelectedIdolInfo(idol) {
         selectedDetails.innerHTML = `
             <div style="display: flex; align-items: center; gap: 15px;">
                 <img src="${idol.avatar}" alt="${idol.nickname}" 
-                     style="width: 50px; height: 50px; border-radius: 50%; object-fit: cover; border: 2px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-                     onerror="this.style.display='none'">
+                    style="width: 50px; height: 50px; border-radius: 50%; object-fit: cover; border: 2px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+                    onerror="this.style.display='none'">
                 <div>
                     <div style="font-weight: 800; font-size: 1.1rem;">${idol.nickname || 'Unknown'}</div>
                     <div style="font-size: 0.85rem; opacity: 0.8;">Live ID: ${idol.liveId}</div>
@@ -1326,3 +1392,6 @@ async function initApp() {
 
 // Gắn hàm initApp vào window để file HTML có thể gọi
 window.initApp = initApp;
+
+// CHẠY INIT APP NGAY LẬP TỨC
+initApp();
