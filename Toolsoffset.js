@@ -747,7 +747,9 @@
             const response = await fetch(CONFIG_URL + '?t=' + new Date().getTime());
             if (response.ok) {
                 const config = await response.json();
-                if (config.status !== 'ACTION') {
+                // CHẤP NHẬN TẤT CẢ: ACTIVE, ACTION, ON (KHÔNG PHÂN BIỆT HOA/THƯỜNG)
+                const status = (config.status || "").toUpperCase();
+                if (status !== 'ACTION' && status !== 'ACTIVE' && status !== 'ON') {
                     // Nếu OFF -> Hiện màn hình bảo trì (Ghi đè body)
                     document.body.innerHTML = `
                         <style>
